@@ -27,11 +27,13 @@ place for dates, travel, lodging, the schedule and RSVPs.
    day-by-day plan (lawn games, Red Sox, July 4th) plus **sign-ups to host
    game night and dinner each night**. Sign-ups update the calendar
    automatically
-6. **RSVP:** who's coming and how many. Flight, arrival and lodging
+6. **Things to Do** (its own tab; see spec below): **Restaurants** and
+   **Activities** sections for Sandwich and the Upper Cape
+7. **RSVP:** who's coming and how many. Flight, arrival and lodging
    details are shared on the Travel tab's "Who's coming & when" form, so
    nobody enters them twice
-7. **Family:** family tree and photo sharing
-8. **FAQ:** what to pack, beaches, kids' activities, contact info
+8. **Family:** family tree and photo sharing
+9. **FAQ:** what to pack, beaches, kids' activities, contact info
 
 ## Home page: spec (not built yet)
 
@@ -48,7 +50,7 @@ The landing page should feel like a save-the-date: big, warm and simple.
 - Countdown: "X days until we're on the Cape"
 
 **Below the hero**
-- Navigation tabs: Home · Calendar · Travel · Accommodation · Itinerary · RSVP ·
+- Navigation tabs: Home · Calendar · Travel · Accommodation · Itinerary · Things to Do · RSVP ·
   Family · FAQ
 - Two or three quick cards linking to the most important pages, e.g.
   "Plan your trip" (Travel), "See the calendar" (Calendar), "RSVP"
@@ -178,6 +180,65 @@ tab
   for game nights** (red stays for the Red Sox, teal for lawn games).
 - There's one source of truth, the sign-up data. The Itinerary board and
   the Calendar both read from it, so they never get out of sync.
+
+## Things to Do tab: spec (not built yet)
+
+A guide to Sandwich and nearby for downtime between lawn games and dinners.
+It has two sections, toggled like the Calendar: `Restaurants | Activities`.
+
+**Starting point: our Airbnb listing.** Pull in the recommendations from the
+listing's description and guidebook (https://www.airbnb.com/h/twentyroos),
+then add family favorites. *(Claude couldn't reach Airbnb from this session.
+Copy and paste the guidebook text or screenshots to bring them in.)*
+
+**Card layout (both sections)**
+- Photo, name, short "why we love it" line, town and **drive time from the
+  house**
+- Tags: 👨‍👩‍👧 kid-friendly · 🌧️ rainy-day · 💲–💲💲💲 · 🐕 dog-friendly ·
+  🚲 bikeable
+- Buttons: **Website** and **Map** (opens Google/Apple Maps)
+- ⭐ **"Baker family favorite"** badge for places the family already loves
+- Optional mini-map showing every pin around the house
+- Optional "👍 I want to go!" button per card (stored in the Google Sheet) to
+  spot group outings. Popular picks can become Calendar events
+
+### Restaurants
+Grouped so people can find what they need fast:
+
+| Group | Starter ideas (verify hours and details before launch) |
+|---|---|
+| **Seafood & lobster** | **Fishermen's View** (Sandwich marina, canal views, deck, fish market) · **Seafood Sam's** (casual, kid-friendly, budget lobster dinners) · **Captain Scott's Seafood** (beachy, covered outdoor seating) |
+| **Lobster to cook at the house** | **Superior Lobster & Seafood** (market with live lobsters and fresh fish). Great for a dinner sign-up night |
+| **Breakfast & coffee** | *(add from the Airbnb guidebook and family favorites)* |
+| **Ice cream & treats** | *(add family favorites)* |
+| **Big-group friendly** | Flag places that take reservations for 15+ or have large outdoor tables. Call ahead for July 4th week |
+| **Takeout / pizza** | Good for arrival nights or when nobody's signed up for dinner |
+
+- Tip on the page: **July 4th week is the busiest week of the year. Reserve
+  ahead for big groups.**
+
+### Activities
+Grouped by type:
+
+| Group | Starter ideas |
+|---|---|
+| **Beaches** | **Town Neck Beach** (via the Sandwich Boardwalk; check boardwalk status) · **Scusset Beach** (gentle surf, canal views, good for families) · Sagamore Beach |
+| **Outdoors & biking** | **Cape Cod Canal bike path** (~7 miles each side, flat and paved) · Canal Visitor Center (watch ships and tugs) · Scusset Beach trails · Green Briar Nature Center (East Sandwich) |
+| **Family & kids** | **Heritage Museums & Gardens** (100 acres of gardens, antique cars, vintage carousel, Adventure Park ropes course) · Sandwich Fish Hatchery |
+| **History & culture** | **Sandwich Glass Museum** (live glassblowing demos) · Hoxie House & Dexter Grist Mill (historic Sandwich village) |
+| **Sports** | **Cape Cod Baseball League** game (free, summer college league) · Red Sox at Fenway (see Calendar) · nearby golf courses |
+| **Rainy day** | Glass Museum, Heritage Museums, movie theater, board games at the house |
+| **Day trips** | Boston, Provincetown, Martha's Vineyard or Nantucket ferry (book ahead) |
+
+- July 4th specials get their own highlight box: local parades, fireworks
+  and town events (to research closer to the date)
+
+**Content source & upkeep**
+- Start with the Airbnb guidebook plus the lists above, then let family
+  suggest additions through a "Suggest a place" form (adds to a **Things
+  to Do** tab in the Google Sheet for the organizer to approve).
+- Re-check hours, closures (e.g. the boardwalk) and reservation policies in
+  spring 2027.
 
 ## Accommodation tab: spec (not built yet)
 
@@ -434,9 +495,20 @@ they're getting there.
    under Tech approach
 7. Rough out the daily itinerary and confirm which games and nights to include
 8. Build the site skeleton (Home, Calendar and Travel first, since that's what people need earliest)
-9. Pick and save the house photos for the Accommodation carousel
-10. Get a 2027 golf cart quote from C2 Vehicles (formerly CCE) and book by early spring
-11. Send a save-the-date with the site link
+9. Send the Airbnb guidebook recommendations (copy/paste or screenshots) for the Things to Do tab
+10. Pick and save the house photos for the Accommodation carousel
+11. Get a 2027 golf cart quote from C2 Vehicles (formerly CCE) and book by early spring
+12. Send a save-the-date with the site link
+
+## Sources (things to do)
+- [Wanderlog — Sandwich family restaurants](https://wanderlog.com/list/geoCategory/555800/)
+- [Superpages — Seafood restaurants in Sandwich](https://www.superpages.com/sandwich-ma/steak-seafood-restaurants)
+- [Superpages — Seafood restaurants in East Sandwich](https://www.superpages.com/east-sandwich-ma/steak-seafood-restaurants)
+- [TravelAwaits — Sandwich, MA things to do](https://www.travelawaits.com/2682865/sandwich-ma-things-to-do/)
+- [The Crazy Tourist — 15 best things to do in Sandwich](https://www.thecrazytourist.com/15-best-things-to-do-in-sandwich-ma/)
+- [Wikivoyage — Sandwich (Massachusetts)](https://en.wikivoyage.org/wiki/Sandwich_(Massachusetts))
+- [Dan'l Webster Inn — Sandwich & Cape Cod activities](https://danlwebsterinn.com/attractions/)
+- [We Need a Vacation — Things to do in Sandwich](https://www.weneedavacation.com/blog/things-to-do-in-sandwich/)
 
 ## Sources (golf carts)
 - 2021 CCE rental agreement (family records, not published)
