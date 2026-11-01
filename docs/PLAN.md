@@ -314,6 +314,9 @@ houses, to the beach or into Sandwich village.
   | **Game Night Host Signup** | Date · Game · Hosted by |
   | **Dinner Host Signup** | Date · Cuisine · Provided by |
 
+  - **Two-way sync:** the website both **reads from** and **writes to** the
+    sheet. Signing up on the site adds a row to the sheet, and typing in the
+    sheet shows up on the site.
   - **Writing:** a small **Google Apps Script** attached to the sheet,
     deployed as a web app. The site's sign-up form sends Date + Game + Hosted
     by (or Date + Cuisine + Provided by), and the script adds a row to the
