@@ -78,8 +78,8 @@ The humor is in deadpan details, never slapstick.
        repo, cropped, transparent background). The wordmark is **white**, so
        it needs the **dark footer** to be visible. Display it about 120–160px
        wide.
-     - Links to Agent Relay's website (**URL to confirm**), opening in a
-       new tab.
+     - Links to Agent Relay's website, https://agentrelay.com, opening
+       in a new tab.
      - Optional deadpan line under it in tiny text: "Official relay partner
        of the Baker Family Reunion. Relay races not included."
 - Bottom line: "© 2027 Baker Family Reunion Holdings (not a real company).
@@ -684,8 +684,7 @@ they're getting there.
 10. Add any Baker ancestor or Mayflower facts for the About tab's "Ancestors corner", plus old photos of the house if you have them
 11. Pick and save the house photos for the Accommodation carousel
 12. Get a 2027 golf cart quote from C2 Vehicles (formerly CCE) and book by early spring
-13. Confirm Agent Relay's website URL for the footer sponsor link
-14. Send a save-the-date with the site link
+13. Send a save-the-date with the site link
 
 ## Sources (things to do)
 - [Wanderlog — Sandwich family restaurants](https://wanderlog.com/list/geoCategory/555800/)
