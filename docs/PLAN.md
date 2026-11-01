@@ -302,7 +302,7 @@ Grouped by type:
 | **Beaches** | **Town Neck Beach** (via the Sandwich Boardwalk; check boardwalk status) · **Scusset Beach** (gentle surf, canal views, good for families) · Sagamore Beach |
 | **Outdoors & biking** | **Cape Cod Canal bike path** (~7 miles each side, flat and paved) · Canal Visitor Center (watch ships and tugs) · Scusset Beach trails · Green Briar Nature Center (East Sandwich) |
 | **Family & kids** | **Heritage Museums & Gardens** (100 acres of gardens, antique cars, vintage carousel, Adventure Park ropes course) · Sandwich Fish Hatchery |
-| **History & culture** | **Sandwich Glass Museum** (live glassblowing demos) · Hoxie House & Dexter Grist Mill (historic Sandwich village) |
+| **History & culture** | **Sandwich Glass Museum** (live glassblowing demos) · **Wing Fort House** (1641, walking distance on Spring Hill Road. We've never toured it, but you're welcome to) · Dexter Grist Mill (historic Sandwich village) |
 | **Sports** | **Cape Cod Baseball League** game (free, summer college league) · Red Sox at Fenway (see Calendar) · nearby golf courses |
 | **Rainy day** | Glass Museum, Heritage Museums, movie theater, board games at the house |
 | **Day trips** | Boston, Provincetown, Martha's Vineyard or Nantucket ferry (book ahead) |
@@ -339,8 +339,7 @@ how they're told.
 >
 > On January 2, 1889, a Finnish immigrant named **Alexander Boght**, with a
 > baby on the way and the confidence of a man who had never heard of a
-> building inspector, bought this land from **Nathaniel C. Hoxie**. (Yes,
-> *that* Hoxie family. More on them below. Sandwich is small.)
+> building inspector, bought this land from **Nathaniel C. Hoxie**.
 >
 > Alexander and his wife **Hannah** built a four-room homestead with a
 > kitchen out back. Alexander went on to become a **foreman in the
@@ -392,17 +391,17 @@ how they're told.
 > connection in Seattle, and they'll still complain.
 
 > 🏛️ **Neighborhood landmarks**
-> - **The Wing Fort House (1641)**, right down the road from us on
->   **Spring Hill Road**, is one of the oldest wood-frame houses in North
->   America. It has hosted the Wing family's reunions for generations, so
->   we're in very experienced company.
+> - **The Wing Fort House (1641)**, on **Spring Hill Road**, is **within
+>   walking distance of the Washburn house**. It's one of the oldest
+>   wood-frame houses in North America, and it has hosted the Wing family's
+>   reunions for generations, so we're in very experienced company.
+>   **Full disclosure:** we've never actually taken the tour. We hear it's
+>   very informative, which is exactly why we've never taken the tour. If
+>   you'd like to go, you have our full support, and we'll want a summary
+>   at dinner.
 > - **Spring Hill Quaker Meeting (since 1657)**, also on our road, is the
 >   oldest continuously meeting group of Quakers in America. Please keep
 >   game night volume at a respectful level.
-> - **The Hoxie House (c. 1675)**, on Water Street in Sandwich village, is
->   widely called the **oldest house on Cape Cod**. It's the same Hoxie
->   family that sold Alexander his land, so we are basically
->   architecturally adjacent to royalty.
 > - **Dexter Grist Mill**, the oldest grist mill on the Cape, still grinds
 >   corn. Bring a bag.
 > - **Sandwich glass**: in the 1800s the town was famous for pressed glass.
@@ -415,11 +414,12 @@ how they're told.
 > descended from Pilgrims. We're just saying nobody's proven we aren't.")*
 
 **Fact notes for whoever writes the final copy**
-- The Hoxie House is on **Water Street (Route 130)** in Sandwich village,
-  not Spring Hill Road. The historic house on **Spring Hill Road** is the
-  **Wing Fort House** (1641). The Hoxie House is dated c. 1675 by the
-  state historical commission. The older "1637" date you'll see online is
-  folklore.
+- The historic house down the road is the **Wing Fort House** (1641) on
+  **Spring Hill Road**, within walking distance of the house. It is
+  usually open for seasonal tours run by the Wing Family of America. Check
+  2027 tour days and hours before listing them.
+- Don't mix it up with the Hoxie House (c. 1675, Water Street in Sandwich
+  village), which isn't featured on this page.
 - Sandwich's "oldest town" title is shared with Yarmouth (both
   incorporated 1639). Sandwich was *settled* first (1637).
 - House history facts come from the family's 20 Roos Road history
@@ -699,13 +699,13 @@ they're getting there.
 ## Sources (About tab)
 - 20 Roos Road house history (family document, not published)
 - [Wikipedia — Sandwich, Massachusetts](https://en.wikipedia.org/wiki/Sandwich,_Massachusetts)
-- [Wikipedia — Hoxie House](https://en.wikipedia.org/wiki/Hoxie_House)
 - [Wikipedia — Spring Hill Historic District](https://en.wikipedia.org/wiki/Spring_Hill_Historic_District_(Sandwich,_Massachusetts))
 - [Cape Cod Quakers — History](https://capecodquakers.org/history/)
 - [Waterway Guide — Sandwich, oldest town on Cape Cod](https://waterwayguide.com/latest-news/news/3956/Sandwich-MA-Oldest-town-on-Cape-Cod)
 - [American Heritage — A lovely town called Sandwich](https://www.americanheritage.com/lovely-town-called-sandwich)
 - [Mass. Historical Commission — Sandwich town report](https://www.sec.state.ma.us/divisions/mhc/preservation/survey/town-reports/sdw.pdf)
 - [Wing Family — Spring Hill History Day](https://wingfamily.org/post/the-spring-hill-history-day-2023)
+- [Wing Family of America](https://wingfamily.org/)
 
 ## Sources (golf carts)
 - 2021 CCE rental agreement (family records, not published)
