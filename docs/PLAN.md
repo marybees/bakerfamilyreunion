@@ -19,7 +19,7 @@ place for dates, travel, lodging, the schedule and RSVPs.
    views for Travel, Activities and Everything
 3. **Travel** (its own tab off Home; see detailed spec below): travel calendar view,
    "where we're coming from" map, BOS vs PVD, city-by-city tips, driving and bridge-traffic tips,
-   rental cars and carpools
+   rental cars, carpools and golf cart rentals
 4. **Accommodation** (its own tab; see spec below): our house's Airbnb
    listing now. Cape Cod rental house suggestions come in early 2027
 5. **Itinerary** (replaces "Schedule"; see spec below): a rough
@@ -265,7 +265,32 @@ A small side-by-side box below the cards:
   **Worth checking when fares are cheaper, especially from Atlanta.**
 - Tip: search both airports at once in Google Flights ("BOS, PVD").
 
-### 5. Smaller supporting bits
+### 5. Getting around on the Cape: golf cart rentals
+A friendly section for getting around once everyone's here: zipping between
+houses, to the beach or into Sandwich village.
+
+- **Card for the rental company we've used before** (in Buzzards Bay or
+  Bourne). Name and link to be confirmed by the family. Show the name,
+  town, link, phone, and whether they deliver to the house.
+- **Lead found so far:** [C2 Vehicles](https://c2vehicles.com/pages/cape-cod-golf-carts),
+  based in **Wareham** (right next to Buzzards Bay). Their site says they
+  serve Bourne and Sandwich and deliver across Cape Cod. Confirm whether
+  this is the company we used, and whether they do short-term rentals for
+  a week.
+- Room for one or two more options once found.
+- **Good-to-know tips:**
+  - **Book early.** July 4th week is the busiest week of the summer.
+  - In Massachusetts a regular golf cart isn't street-legal. Rent a
+    **street-legal low-speed vehicle (LSV)** with lights, mirrors, seat belts
+    and a windshield. These are generally allowed only on roads posted at
+    30 mph or less, and rules vary by town.
+  - A licensed driver is required. Follow the seat-belt and kids rules.
+  - Note how many carts the family might want (e.g. one 6-seater per house)
+    so someone can place a group order.
+- Optional: a "Want a golf cart?" checkbox on the RSVP form to gauge
+  interest.
+
+### 6. Smaller supporting bits
 - "When to book" tip: set price alerts now, aim to book by March–April 2027,
   and choose fares with free changes.
 - Rental cars and carpools: who's landing when (pulls from RSVP arrival info
@@ -298,7 +323,12 @@ A small side-by-side box below the cards:
 6. Rough out the daily itinerary and confirm which games and nights to include
 7. Build the site skeleton (Home, Calendar and Travel first, since that's what people need earliest)
 8. Pick and save the house photos for the Accommodation carousel
-9. Send a save-the-date with the site link
+9. Confirm the golf cart rental company we used before (Buzzards Bay or Bourne) and add its link
+10. Send a save-the-date with the site link
+
+## Sources (golf carts)
+- [C2 Vehicles — Cape Cod golf carts](https://c2vehicles.com/pages/cape-cod-golf-carts)
+- [C2 Vehicles — Street-legal golf cart laws in New England](https://c2vehicles.com/blogs/news/street-legal-golf-cart-laws-new-england)
 
 ## Sources (Red Sox schedule)
 - [MLB.com — Red Sox to open 2027 season March 25 in Seattle](https://www.mlb.com/news/red-sox-to-open-2027-season-march-25-in-seattle)
