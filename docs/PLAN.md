@@ -12,8 +12,10 @@ place for dates, travel, lodging, the schedule and RSVPs.
 - **Coming from:** Bend OR, Portland OR, Santa Barbara CA, San Diego CA,
   Los Angeles CA, Atlanta GA, Columbus OH (flying), plus New Jersey,
   Altamont NY (upstate) and Long Beach NY (driving)
-- **History:** this is the **second** Baker Family Reunion. The first was in
-  2022.
+- **History:** the reunions started in **2022**. At least two were hosted at
+  **Uncle Mike's old Boys & Girls Club camp in Santa Barbara**, CA (home of
+  "May's cabin"). **2027 is the first one on the East Coast**, at our house.
+  *(Confirm the full list of past reunion years and places.)*
 
 ## Design & tone: the whole site (not built yet)
 
@@ -100,7 +102,7 @@ It should still be instantly recognizable, but cartoon-ified:
 | Where | Idea |
 |---|---|
 | Site title | **Baker Family Reunion 2027** with a tiny "™" that, on hover, says "not actually trademarked" |
-| Home tagline | "Reconvening the Bakers since 2022. Attendance strongly encouraged." Alt: **"Baker Family Reunion II: The Sequel"** |
+| Home tagline | "Reconvening the Bakers since 2022. Attendance strongly encouraged." Alt: **"Baker Family Reunion: East Coast Edition"** |
 | Home stats bar | "**10** cities · **1** house · **7** game nights · **0** electricity before 1963 · **∞** croquet grudges" |
 | Countdown | "**143** days until mandatory fun" |
 | Buttons | "Claim your bunk" (Accommodation) · "Volunteer as tribute" (host game night) · "Feed the masses" (dinner sign-up) · "Report for duty" (RSVP) |
@@ -351,6 +353,7 @@ which stays out of the repo)
 | **Brennan** (San Diego area, CA) | Tall, navy baseball cap, sunglasses, black tee, easygoing grin, back row (2022 group photo) | The height (head above the crowd) and the cap | **The San Diego Bakers** portrait with Kelly (San Diego prop: surfboard). Volleyball vignette: spiking over the net with ease. Caption: *"Brennan, Vice President of Elevation."* |
 | **Kelly** (San Diego area, CA; Brennan's wife) | Long dark hair, sunglasses, black tee, big bright smile, water bottle in hand (2022 group photo) | The big smile and the sunglasses | San Diego portrait with Brennan. Caption: *"Kelly, Head of Hydration & Good Vibes."* |
 | **Erin** (Long Beach, NY) | Dark hair pulled back, purple tank, **plaid flannel tied around the waist**, red shorts, leaning in with a huge grin (2022 group photo). Her family isn't pictured yet | The lean-in and the grin, flannel flying | **The Long Beach Bakers** portrait once we have photos of her family. Caption idea: *"Erin, Long Beach Regional Office."* |
+| **Tubby** 🐶 (Sandwich; the host family's dog, she/her) | Fluffy cream-white doodle, a curly cloud of fur, floppy ears, dark button eyes, calm "I own this bed" expression (from the photo lounging on a bunk in **May's cabin** at the Santa Barbara camp). Also peeking from behind the tree in the t-ball photo | The fluff (she's 80% cloud), the regal lounging | **Mascot of the Explore tab** ("Tubby's Guide"): her caricature on the Explore header, wearing tiny sunglasses or a travel-guide hat, and as the "Tubby-approved" paw stamp on every house pick. Cameo in the host family portrait and peeking out from behind things in the Home illustration (a find-Tubby Easter egg). Titles: *"Tubby, Chief Morale Officer"* and *"Most Reunions Attended (Canine Division). Drove cross-country to the first one in 2022."* |
 | Uncle Sean | *(photo to come)* | Whistle, clipboard, "Kids Sports" shirt | #4 |
 | Amanda | *(photo to come)* | The swing | #5 |
 | **May** (Sandwich; the host family) | Blonde curls, sparkly dress and little sandals, all-in hugs. **Draw her a bit older than in the hug photo**, as she'll look in summer 2027 | The curls and the hugs | T-ball scene (#2), Michaela's welcome hug, and **the host family** portrait. Possible caption: *"May, Junior Hostess & Director of Hugs."* |
@@ -363,8 +366,19 @@ which stays out of the repo)
 - **2022 reunion group photo** (reference): Aunt Marion, Uncle Mike,
   Simon, Jenny, Thatcher, Brennan, Kelly and Erin. A **"Then (2022) and
   Now (2027)"** caricature pair of this group could anchor Our Story:
-  the 2022 group, then the same group five years later, with more kids,
-  more trophies and the same croquet grudges.
+  the 2022 group at the Santa Barbara camp, then the same group five years
+  later on the Cape, with more kids, more trophies and the same croquet
+  grudges.
+- **Reunion history timeline** for Our Story (years to confirm):
+  - **2022:** the first reunion, at Uncle Mike's old Boys & Girls Club camp
+    in Santa Barbara. Tubby drove cross-country to attend, and May attended
+    in utero (technically her first reunion)
+  - **Santa Barbara camp, again:** a second reunion at the camp. "May's
+    cabin" earns its name
+  - **2027:** the first East Coast edition, at 20 Roos Road (shown on the
+    site as "the house in Sandwich")
+- **Tubby** (the host family's dog; she/her) | see her row in the table
+  above. She's the face of the Explore tab.
 - **The Altamont Bakers** (Simon, Jenny, Oliver, Thatcher) drive in from
   upstate New York, about 3.5 hours. Portrait idea: all four squeezed into
   the frame around **the gold crown trophy**, Thatcher's donuts front and
@@ -906,8 +920,9 @@ It has two sections, toggled like the calendar: `Restaurants | Activities`.
 **Starting point: our Airbnb guidebook, "Tubby's Guide to Sandwich & The
 Cape."** Its recommendations (received as screenshots, November 2026) are
 the core of this tab. **Keep the name:** title the tab's intro "**Tubby's
-Guide to Sandwich & The Cape** (Reunion Edition)". Guidebook picks can carry
-a small **"Tubby-approved"** stamp as their ⭐ badge. Each one gets a ⭐ **"House pick"** badge. Other ideas are
+Guide to Sandwich & The Cape** (Reunion Edition)", with Tubby's caricature
+(she's the family's cream doodle) as the tab's mascot. Guidebook picks carry
+a small **"Tubby-approved" 🐾 paw stamp** as their ⭐ badge. Each one gets a ⭐ **"House pick"** badge. Other ideas are
 labeled "Also nearby".
 
 **Card layout (all sections)**
