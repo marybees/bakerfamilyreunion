@@ -107,8 +107,8 @@ The humor is in deadpan details, never slapstick.
    nobody enters them twice
 8. **About** (its own tab; see spec below): a short, subtly funny history
    of our house and of Sandwich and Cape Cod
-9. **Photos** (its own tab; see spec below): upload to and download from
-   the family's shared Google Photos album
+9. **Photos** (its own tab; see spec below): upload on the site, live
+   gallery and downloads, stored in a new Google Photos album
 10. **Family:** family tree
 11. **FAQ:** what to pack, beaches, kids' activities, contact info
 
@@ -604,58 +604,58 @@ how they're told.
 
 ## Photos tab: spec (not built yet)
 
-One place to **add** reunion photos and **grab** everyone else's, powered by
-the family's shared Google Photos album:
-**https://photos.app.goo.gl/cE5Go6vaGLKjV6n3A**
+**Decision:** the website gets its **own new Google Photos album**, created
+by a small app (a Google Apps Script) that runs under the organizer's
+Google account. People upload **directly on the website, with no Google
+account needed**, and the page shows a **live gallery** of everything
+uploaded.
+
+*Why a new album:* since March 2025, Google's Photos API can only add
+photos to albums the app itself created, and it can only read back photos
+the app uploaded. It can't touch the existing shared album. (See "Photos
+app: how it works" under Tech approach.)
 
 **Layout**
 - Headline: **"The Official Archive"** with the deadpan subhead *"Every
   blurry croquet shot, preserved for posterity."*
-- Two big buttons side by side:
-  - 📤 **Add your photos**: opens the album, where you tap "+" to add
-  - 📥 **View & download**: opens the album, where "Download all" is in
-    the ⋮ menu
-- Both open the Google album in a new tab (or the Google Photos app on
-  phones)
-- **QR code** for the album, printed and stuck on the fridge during reunion
-  week so anyone can add photos from their phone in seconds. Caption: "Scan
-  me. Your photos are needed for the historical record."
+- **Upload box** (drag-and-drop on desktop, "Choose photos" on phones):
+  - "Your name" (so the gallery can say *"Added by the Portland Bakers"*)
+  - Pick multiple photos at once, with a progress bar per photo
+  - **Family passcode** to keep strangers out. Fun version: *"What's
+    Gramps' famous dish?"* (answer: macaroni and cheese)
+  - Success message: *"Received. Your photos have been entered into the
+    historical record."*
+- **Live gallery** below: a grid of thumbnails, newest first, with
+  "Added by…" captions. Tap one to see it full-size and **download** it.
+  - Filters: by day of the reunion, and by who added it
+  - "Download all" link: opens the Google Photos album (shared by link),
+    where ⋮ → **Download all** gives a zip
+- **QR code** to the Photos page, printed and stuck on the fridge during
+  reunion week. Caption: "Scan me. Your photos are needed for the
+  historical record."
+- **Older photos:** a small "Looking for older family photos?" link to the
+  existing album (https://photos.app.goo.gl/cE5Go6vaGLKjV6n3A)
 
-**Simple how-to (3 steps, with tiny icons)**
-1. Tap **Add your photos**
-2. Sign in with Google if asked (any Gmail works)
-3. Tap **+** → pick photos → done
-
-Plus a short FAQ:
-- *"Do I need a Google account?"* To **add** photos, yes. To **view and
-  download**, no, anyone with the link can.
-- *"How do I download everything?"* Open the album → ⋮ → **Download all**
-  (you'll get a zip file).
-- *"I don't do Google."* Text or email photos to the organizer, who will add
-  them.
-
-**Optional: highlights strip**
-- A small, hand-picked carousel of 6–10 favorites (e.g. "Photo of the Day"
-  during reunion week), updated by the organizer.
-- **Caveat:** Google no longer lets websites automatically pull photos from
-  a shared album (they shut that API access off in March 2025), so a live
-  auto-updating gallery isn't possible. Highlights have to be copied in by
-  hand, or simply skipped.
-- If highlights are added, keep them light on kids' photos, since the site
-  is public (see privacy note in the Home page spec).
-
-**Settings to check in Google Photos (one-time)**
-- Album sharing is **on**, and **"Collaborate"** is on (so others can add)
-- "Link sharing" is on
-- Optional: turn on **comments & likes** so people can react
+**Important for the family (shown on the page)**
+- **Add reunion photos through this page,** not directly in the Google
+  Photos app. Photos added straight in Google Photos won't appear on the
+  website gallery (an API limitation), although they'd still be in the
+  album.
 
 **Fun extras (optional)**
-- During reunion week, add a "📸 **Photo Challenge**" list: *best croquet
+- During reunion week, a "📸 **Photo Challenge**" list: *best croquet
   trash-talk face, Amanda's longest hit, the golf cart in motion, a sunset
-  from Tree House, all 9 families in one shot*. Winners are announced at
-  the farewell dinner.
-- After the reunion, the page flips to "**Relive it**" with a single big
-  "View the album" button.
+  from Tree House, all 9 families in one shot*. Uploaders can tag a photo
+  with a challenge, and winners are announced at the farewell dinner.
+- After the reunion, the page flips to "**Relive it**" (gallery only, upload
+  closed).
+
+**Privacy**
+- Photos are stored in the organizer's Google Photos, **not in the website's
+  code repo**, so they don't become public through GitHub.
+- The gallery sits behind the same family passcode, so casual visitors to
+  the site don't see kids' photos.
+- The organizer can remove any photo from the album in Google Photos.
 
 ## Accommodation tab: spec (not built yet)
 
@@ -899,6 +899,40 @@ they're getting there.
     sheet owner.
   - Upgrade path: a hosted database (e.g. Firebase or Supabase) only if we
     later want logins, instant updates or tournament scoring.
+- **Photos app: how it works** (Google Apps Script + Google Photos Library
+  API, under the organizer's Google account)
+  - **One-time setup:**
+    1. Create a Google Cloud project, enable the **Photos Library API**, and
+       link it to the Apps Script project.
+    2. Scopes: `photoslibrary.appendonly` (upload and create albums) and
+       `photoslibrary.readonly.appcreateddata` (read back what the app
+       uploaded). Add `photoslibrary.edit.appcreateddata` if the site
+       should be able to remove photos.
+    3. The script creates the album **"Baker Family Reunion 2027"** once
+       and saves its ID.
+    4. The organizer opens Google Photos and **shares that album by link**
+       by hand, since the API can no longer share albums. *(Confirm the
+       Google Photos app allows sharing an app-created album. Expected,
+       but verify during setup.)*
+  - **Upload flow:** the browser shrinks each photo (e.g. 2560px JPEG)
+    → sends it to the script → the script uploads the bytes to Google
+    Photos and adds the item to the album, with "Added by [name]" as the
+    description.
+  - **Gallery flow:** the script lists the album's items and returns short-
+    lived image links. The site shows thumbnails (`=w400-h400`) and full-size
+    downloads (`=d`). Links expire after about an hour, so the page fetches
+    fresh ones on each visit.
+  - **Limits to plan around:** photos yes, but long videos are risky (Apps
+    Script request size limits, about 50 MB). The API's daily quota is far
+    more than a family reunion needs. Uploads count against the organizer's
+    Google storage.
+  - **Gotcha to check:** if the Google Cloud project's sign-in screen stays
+    in "Testing" mode, Google may expire the app's authorization every 7
+    days. Set it to "In production" (fine for personal use, with an
+    "unverified app" warning only the organizer sees), or re-authorize
+    weekly during reunion week.
+  - Same passcode check as the sign-ups, enforced in the script, not just
+    the page.
 - Keep it light on privacy: first names or family names only, no phone
   numbers or emails shown publicly.
 
@@ -917,7 +951,7 @@ they're getting there.
 11. Send a high-resolution version of the house watercolor
 12. Pick and save the house photos for the Accommodation carousel
 13. Get a 2027 golf cart quote from C2 Vehicles (formerly CCE) and book by early spring
-14. Check the Google Photos album settings: sharing, link sharing and **Collaborate** turned on
+14. Set up the photos app: Google Cloud project + Photos Library API, create the "Baker Family Reunion 2027" album, then share it by link in Google Photos
 15. Send a save-the-date with the site link
 
 ## Sources (things to do)
