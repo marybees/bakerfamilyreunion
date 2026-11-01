@@ -107,8 +107,10 @@ The humor is in deadpan details, never slapstick.
    nobody enters them twice
 8. **About** (its own tab; see spec below): a short, subtly funny history
    of our house and of Sandwich and Cape Cod
-9. **Family:** family tree and photo sharing
-10. **FAQ:** what to pack, beaches, kids' activities, contact info
+9. **Photos** (its own tab; see spec below): upload to and download from
+   the family's shared Google Photos album
+10. **Family:** family tree
+11. **FAQ:** what to pack, beaches, kids' activities, contact info
 
 ## Home page: spec (not built yet)
 
@@ -204,7 +206,7 @@ you look.
   schools for kids.
 
 **Below the hero**
-- Navigation tabs: Home · Calendar · Travel · Accommodation · Itinerary · Things to Do · About · RSVP ·
+- Navigation tabs: Home · Calendar · Travel · Accommodation · Itinerary · Things to Do · About · Photos · RSVP ·
   Family · FAQ
 - Two or three quick cards linking to the most important pages, e.g.
   "Plan your trip" (Travel), "See the calendar" (Calendar), "RSVP"
@@ -600,6 +602,61 @@ how they're told.
 - House history facts come from the family's 20 Roos Road history
   document. Keep the deed references and sale prices off the public site.
 
+## Photos tab: spec (not built yet)
+
+One place to **add** reunion photos and **grab** everyone else's, powered by
+the family's shared Google Photos album:
+**https://photos.app.goo.gl/cE5Go6vaGLKjV6n3A**
+
+**Layout**
+- Headline: **"The Official Archive"** with the deadpan subhead *"Every
+  blurry croquet shot, preserved for posterity."*
+- Two big buttons side by side:
+  - 📤 **Add your photos**: opens the album, where you tap "+" to add
+  - 📥 **View & download**: opens the album, where "Download all" is in
+    the ⋮ menu
+- Both open the Google album in a new tab (or the Google Photos app on
+  phones)
+- **QR code** for the album, printed and stuck on the fridge during reunion
+  week so anyone can add photos from their phone in seconds. Caption: "Scan
+  me. Your photos are needed for the historical record."
+
+**Simple how-to (3 steps, with tiny icons)**
+1. Tap **Add your photos**
+2. Sign in with Google if asked (any Gmail works)
+3. Tap **+** → pick photos → done
+
+Plus a short FAQ:
+- *"Do I need a Google account?"* To **add** photos, yes. To **view and
+  download**, no, anyone with the link can.
+- *"How do I download everything?"* Open the album → ⋮ → **Download all**
+  (you'll get a zip file).
+- *"I don't do Google."* Text or email photos to the organizer, who will add
+  them.
+
+**Optional: highlights strip**
+- A small, hand-picked carousel of 6–10 favorites (e.g. "Photo of the Day"
+  during reunion week), updated by the organizer.
+- **Caveat:** Google no longer lets websites automatically pull photos from
+  a shared album (they shut that API access off in March 2025), so a live
+  auto-updating gallery isn't possible. Highlights have to be copied in by
+  hand, or simply skipped.
+- If highlights are added, keep them light on kids' photos, since the site
+  is public (see privacy note in the Home page spec).
+
+**Settings to check in Google Photos (one-time)**
+- Album sharing is **on**, and **"Collaborate"** is on (so others can add)
+- "Link sharing" is on
+- Optional: turn on **comments & likes** so people can react
+
+**Fun extras (optional)**
+- During reunion week, add a "📸 **Photo Challenge**" list: *best croquet
+  trash-talk face, Amanda's longest hit, the golf cart in motion, a sunset
+  from Tree House, all 9 families in one shot*. Winners are announced at
+  the farewell dinner.
+- After the reunion, the page flips to "**Relive it**" with a single big
+  "View the album" button.
+
 ## Accommodation tab: spec (not built yet)
 
 Purpose: help families find somewhere to stay on Cape Cod near Sandwich.
@@ -860,7 +917,8 @@ they're getting there.
 11. Send a high-resolution version of the house watercolor
 12. Pick and save the house photos for the Accommodation carousel
 13. Get a 2027 golf cart quote from C2 Vehicles (formerly CCE) and book by early spring
-14. Send a save-the-date with the site link
+14. Check the Google Photos album settings: sharing, link sharing and **Collaborate** turned on
+15. Send a save-the-date with the site link
 
 ## Sources (things to do)
 - [Wanderlog — Sandwich family restaurants](https://wanderlog.com/list/geoCategory/555800/)
@@ -871,6 +929,10 @@ they're getting there.
 - [Wikivoyage — Sandwich (Massachusetts)](https://en.wikivoyage.org/wiki/Sandwich_(Massachusetts))
 - [Dan'l Webster Inn — Sandwich & Cape Cod activities](https://danlwebsterinn.com/attractions/)
 - [We Need a Vacation — Things to do in Sandwich](https://www.weneedavacation.com/blog/things-to-do-in-sandwich/)
+
+## Sources (Photos tab)
+- [Google for Developers — Picker API launch and Library API changes](https://developers.googleblog.com/en/google-photos-picker-api-launch-and-library-api-updates/)
+- [Google Photos APIs — Updates](https://developers.google.com/photos/support/updates)
 
 ## Sources (About tab)
 - 20 Roos Road house history (family document, not published)
