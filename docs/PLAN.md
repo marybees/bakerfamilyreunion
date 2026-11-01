@@ -285,6 +285,23 @@ you look.
 - Each card: family name, home city, and a deadpan "title" (e.g. "The
   Atlanta Bakers: Southeast Regional Office").
 
+**Character sheets** (one per person, built from their reference photo,
+which stays out of the repo)
+
+| Person | Signature look to capture | Supersized for the caricature | Appears in |
+|---|---|---|---|
+| **Uncle Mike** | Shaved head, big warm grin, black wraparound sunglasses, a loud **Red Sox print button-up shirt**, thumbs-up, smartwatch | The grin, the thumbs-up, and the Red Sox shirt (it's his uniform) | Golf cart (#1): sunglasses on, thumbs up, one hand on the wheel · Gramps' mac & cheese (#3): chef hat over the sunglasses, still in the Red Sox shirt · Bonus: leading the charge on the **Red Sox game** calendar card |
+| Uncle Sean | *(photo to come)* | Whistle, clipboard, "Kids Sports" shirt | #4 |
+| Amanda | *(photo to come)* | The swing | #5 |
+| Freddy & May | *(photo to come)* | | #2 |
+
+- Captions for Uncle Mike: *"Uncle Mike, Director of Fleet Operations"*
+  (golf cart) and *"Uncle Mike, Executive Chef, Gramps' Recipe Division"*
+  (mac & cheese). Optional Red Sox card caption: *"Official Team Spirit
+  Officer. Has the shirt to prove it."*
+- Remember the rule: exaggerate the grin, the shirt and the thumbs-up, not
+  the head or anything else people might be sensitive about.
+
 **Making the illustrations (AI-generated)**
 - Generate with an AI image tool, using family photos as **likeness
   reference** and the house watercolor as the **color and texture
