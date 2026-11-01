@@ -302,7 +302,7 @@ you look.
 | # | Scene | Where it sits on the illustration | The subtle joke |
 |---|---|---|---|
 | 1 | **Uncle Mike in a golf cart** | Cruising the gravel driveway toward the white picket gate | Tiny sign on the cart: "Fleet vehicle #1 of 2." Tooltip: "Range: the yard." |
-| 2 | **Freddy and May playing t-ball** in the yard | The lawn in front of the house (based on the t-ball photo) | The ball is still on the tee. The bat is mostly decorative |
+| 2 | **Freddy and May playing t-ball** in the yard | The big lawn by the gravel driveway and white picket gate (from the t-ball photo) | The ball is still on the tee. The bat is mostly decorative |
 | 3 | **Uncle Mike making Gramps' famous macaroni and cheese** | In the kitchen window, or on a porch grill-side table | Steam shaped like a tiny trophy. Tooltip: "Recipe classified. Clearance level: Gramps." |
 | 4 | **Uncle Sean hosting game night** *and/or* **teaching kids sports** | Game night: lit window at dusk. Kids sports: side lawn with cones and a whistle | Shirt or clipboard reads **"Kids Sports"** (his business). Tooltip: "Head Coach, Department of Mandatory Fun." |
 | 5 | **Amanda playing professional softball on the t-ball field**, dominating | Same lawn as #2, in full pro gear | She's sent a ball over the trees (a tiny star twinkle in the sky). Toddlers stare in awe. Scoreboard on the fence: "AMANDA 47 · EVERYONE ELSE 0" |
@@ -347,7 +347,7 @@ which stays out of the repo)
 | Uncle Sean | *(photo to come)* | Whistle, clipboard, "Kids Sports" shirt | #4 |
 | Amanda | *(photo to come)* | The swing | #5 |
 | **May** (Sandwich; the host family) | Blonde curls, sparkly dress and little sandals, all-in hugs. **Draw her a bit older than in the hug photo**, as she'll look in summer 2027 | The curls and the hugs | T-ball scene (#2), Michaela's welcome hug, and **the host family** portrait. Possible caption: *"May, Junior Hostess & Director of Hugs."* |
-| Freddy | *(photo to come)* | | T-ball scene (#2) |
+| **Freddy** (Sandwich; the host family) | Blonde curls, round toddler belly, **bat slung over his shoulder like a pro**, serious batter's focus, red t-ball stand with a yellow ball (from the t-ball photo). **Draw him a bit older than in the photo**, and put him in little shorts or a tiny Red Sox shirt instead of a diaper | The pro-hitter swagger and the very serious concentration | **T-ball scene (#2)** with May on the big lawn. Optional: the Red Sox calendar card next to Uncle Mike, matching shirts. Caption idea: *"Freddy, Head of Player Development (t-ball division)."* Running joke: the ball is still on the tee, and he's the only one Amanda's softball scoreboard has spared |
 
 - Captions for Uncle Mike: *"Uncle Mike, Director of Fleet Operations"*
   (golf cart) and *"Uncle Mike, Executive Chef, Gramps' Recipe Division"*
