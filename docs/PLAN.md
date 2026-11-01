@@ -5,6 +5,7 @@ A simple, mobile-friendly site that gives every branch of the family one
 place for dates, travel, lodging, the schedule and RSVPs.
 
 ## Key facts
+- **Website:** reunion.20roosroad.com (to be set up)
 - **Location:** Sandwich, MA (Cape Cod), with a day trip to Boston
 - **Dates:** July 4th week 2027. Proposed core window **Wed Jun 30 – Wed Jul 7**
   (see [travel-research.md](travel-research.md))
@@ -943,6 +944,24 @@ they're getting there.
   app manifest** (name, icons, theme colors) and a **service worker** for
   offline caching
 - Hosted free on **GitHub Pages** (HTTPS, which PWAs require)
+- **Web address: `reunion.20roosroad.com`**, a subdomain of
+  20roosroad.com, like the wedding website.
+  - **Owner:** talk to **Will Washburn's agent** about setting it up, since
+    they manage the 20roosroad.com domain/DNS.
+  - **What's needed:**
+    1. A DNS **CNAME record**: `reunion` → `marybees.github.io`
+    2. A `CNAME` file in this repo containing `reunion.20roosroad.com`
+       (or set it under the repo's Settings → Pages → Custom domain)
+    3. Turn on **Enforce HTTPS** in Pages settings once the certificate is
+       issued (usually within an hour)
+    4. Optional: verify the domain in GitHub account settings to protect
+       it from takeover
+  - Use the custom address everywhere people see it: QR codes, the
+    save-the-date, the installed app, and the Apps Script settings that
+    allow the site to send sign-ups and photos.
+  - The address includes the house's street name, which is fine for
+    family. It's another reason to keep the full address and personal
+    details off the public pages.
 - RSVP via an embedded form (e.g. Google Form) at first. Upgrade later if needed.
 - **Sign-ups are stored in the family Google Sheet** (decided):
   https://docs.google.com/spreadsheets/d/1-NZnvlRHNE7zUl2nkmGNHLoTnw7PlUIWrsRG9bzwx3Y/edit
@@ -1019,14 +1038,15 @@ they're getting there.
 6. Add a **Travel Plans** tab to the Google Sheet with the columns listed
    under Tech approach
 7. Rough out the daily itinerary and confirm which games and nights to include
-8. Build the site skeleton (Home, Calendar and Travel first, since that's what people need earliest)
-9. Add any Baker ancestor or Mayflower facts for the About tab's "Ancestors corner", plus old photos of the house if you have them
-10. Send family photos (and home cities) for the illustrations, confirm who's in the t-ball photo, and get everyone's OK to be illustrated
-11. Send a high-resolution version of the house watercolor
-12. Pick and save the house photos for the Accommodation carousel
-13. Get a 2027 golf cart quote from C2 Vehicles (formerly CCE) and book by early spring
-14. Set up the photos app: Google Cloud project + Photos Library API, create the "Baker Family Reunion 2027" album, then share it by link in Google Photos
-15. Send a save-the-date with the site link
+8. Talk to Will Washburn's agent about setting up `reunion.20roosroad.com` (DNS CNAME to GitHub Pages, like the wedding website)
+9. Build the site skeleton (Home, Calendar and Travel first, since that's what people need earliest)
+10. Add any Baker ancestor or Mayflower facts for the About tab's "Ancestors corner", plus old photos of the house if you have them
+11. Send family photos (and home cities) for the illustrations, confirm who's in the t-ball photo, and get everyone's OK to be illustrated
+12. Send a high-resolution version of the house watercolor
+13. Pick and save the house photos for the Accommodation carousel
+14. Get a 2027 golf cart quote from C2 Vehicles (formerly CCE) and book by early spring
+15. Set up the photos app: Google Cloud project + Photos Library API, create the "Baker Family Reunion 2027" album, then share it by link in Google Photos
+16. Send a save-the-date with the site link
 
 ## Sources (things to do)
 - [Wanderlog — Sandwich family restaurants](https://wanderlog.com/list/geoCategory/555800/)
