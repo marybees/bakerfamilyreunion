@@ -32,13 +32,58 @@ The humor is in deadpan details, never slapstick.
 - **Type:** an elegant serif for headlines (e.g. Fraunces or Playfair) and
   a clean sans-serif for body text (e.g. Inter). It should read like an
   annual report.
-- **Imagery:** real photos of the house, beach and family, plus simple
-  line-drawn icons (croquet mallet, bocce ball, lobster, golf cart, dice)
-  in one consistent style.
+- **Imagery: caricature cartoons.** People, families and scenes are drawn
+  as friendly **caricatures**: big expressive heads, small bodies,
+  exaggerated signature features and props, bold outlines, and the soft
+  watercolor coloring of the house painting. Icons (croquet mallet, bocce
+  ball, lobster, golf cart, dice) are drawn in the same cartoon style. Real
+  photos appear only in the Photos tab and the house carousel. See
+  "Illustration style: caricature cartoons" below.
+- **Why it works:** the polished, annual-report layout plus goofy
+  caricatures is the joke. The design says "Fortune 500," and the drawings
+  say "family reunion."
 - **Details:** thin nautical-stripe dividers, rounded cards, generous white
   space, light motion only (a gentle hover lift, nothing bouncy).
 - **Mobile-first** (see the next section), accessible contrast, and it works
   in light mode, with dark mode optional.
+
+### Illustration style: caricature cartoons
+
+**The house stays the core illustration.** Keep the existing watercolor of
+the house as the centerpiece and anchor of the style, and create a
+**caricature version of it** in the same palette to use as the main hero.
+It should still be instantly recognizable, but cartoon-ified:
+- Slightly squashed and stretched proportions, a gently leaning chimney,
+  windows a touch too big, an extra-plump roofline
+- Bold ink outline over the watercolor wash, so it matches the people
+- Optional tiny gags: a little ⚡ sign by the door reading "Electricity:
+  est. 1963," and a croquet mallet leaning on the steps
+- The original watercolor is still used where something calmer fits: the
+  Our Story section, the app icon and the "Where to stay" card
+
+**People caricatures: the rules**
+- **Exaggerate the fun, never the flaws.** Bigger smiles, bigger hair,
+  bigger personality, and each person's signature thing (Amanda's swing,
+  Uncle Sean's whistle, Uncle Mike's chef hat) gets supersized. No jokes
+  about weight, age, hairlines or anything people are sensitive about.
+- **Big head, small body** (about 1:2 head-to-body ratio), expressive
+  eyebrows, simple dot-or-oval eyes, rosy cheeks.
+- **Bold, slightly wobbly ink outlines** with **soft watercolor fills** in
+  the site palette (navy, sand, sea-glass, sky blue, cranberry), so the
+  cartoons and the house look like they came from the same sketchbook.
+- **Props tell the story:** golf cart, mac and cheese pot, whistle and
+  clipboard, softball bat, board games, lobster bib.
+- **Kids are drawn extra-cute,** never mocking, using first names only.
+- **Everyone approves their own caricature** before it goes on the site
+  (parents approve for kids). Offer a "redraw me" option, no questions asked.
+
+**Consistency checklist** (so it looks like one artist drew everything)
+- Same outline weight, palette, head-to-body ratio and paper texture on
+  every image
+- Same light direction (soft, from the upper left, like the house painting)
+- Transparent backgrounds for people and props, so they layer anywhere
+- Draw each person once as a **"character sheet"** (front view plus 2–3
+  expressions) and reuse that look across every scene
 
 ### Humor guidelines (so it stays subtle)
 - **About one joke per section.** Let the design do the "professional" part.
@@ -138,7 +183,7 @@ to tablets and desktops. It should feel like an app, not a website.
   directly.
 - **Bottom sheets** instead of pop-ups for details (event details, a
   restaurant card), swipe down to close.
-- **Hero illustration:** the house watercolor fits the phone screen, and
+- **Hero illustration:** the caricature house fits the phone screen, and
   vignettes become a swipeable character-card strip (see Home page spec).
 
 ### Speed (Cape Cod cell service is not great)
@@ -188,16 +233,18 @@ The landing page should feel like a save-the-date: big, warm and simple.
 - Location line: **Sandwich, Massachusetts · Cape Cod · Boston**
   - Sandwich and Cape Cod are home base. Boston is mentioned because of the
     Red Sox outing and because most people fly into Logan.
-- **Centerpiece: the watercolor illustration of our house**
-  (`assets/images/house-watercolor.png`, already in the repo) on a soft
-  watercolor-paper background, with the headline above it. See "Hero
+- **Centerpiece: a caricature version of our house**, based on the
+  watercolor (`assets/images/house-watercolor.png`, already in the repo), on
+  a soft watercolor-paper background with the headline above it. Until the
+  caricature is made, the original watercolor stands in. See "Hero
   illustration & family vignettes" below.
 - Countdown: "X days until we're on the Cape"
 
 ### Hero illustration & family vignettes
 
-The house watercolor is the stage, and small **illustrated vignettes of
-family members** are layered on top in the same watercolor style. Together
+The **caricature version of the house** is the stage, and small
+**caricature vignettes of family members** are layered on top in the same
+cartoon style (see "Illustration style: caricature cartoons"). Together
 they form a living picture of reunion week. It looks like a polished
 illustration at first glance, and the jokes reveal themselves the longer
 you look.
@@ -226,8 +273,8 @@ you look.
   golf cart up the driveway").
 
 **"Meet the Bakers": a cartoon of each family**
-- One illustrated "family portrait" per household, in the same watercolor
-  style, holding something from their home city (e.g. Portland: coffee and
+- One **caricature "family portrait"** per household, in the same cartoon
+  style (big heads, everyone squeezed into the frame), holding something from their home city (e.g. Portland: coffee and
   an umbrella; Bend: hiking poles; San Diego: surfboard; Atlanta: a peach;
   Columbus: a buckeye; New Jersey: a bagel, held defensively).
 - Used in three places:
@@ -239,17 +286,27 @@ you look.
   Atlanta Bakers: Southeast Regional Office").
 
 **Making the illustrations (AI-generated)**
-- Generate with an AI image tool, using family photos as **reference** and
-  the house watercolor as the **style reference**, so everything looks like
-  one artist made it.
+- Generate with an AI image tool, using family photos as **likeness
+  reference** and the house watercolor as the **color and texture
+  reference**, so everything looks like one artist made it.
+- Order of work:
+  1. **Caricature house** first (it sets the style for everything else)
+  2. A **character sheet** for each person (approve the likeness once)
+  3. Then the **scenes** and **family portraits**, reusing those characters
 - Shared style prompt (starting point):
-  > *Loose, warm watercolor illustration on textured paper, soft pastel
-  > palette matching a Cape Cod saltbox house painting, gentle ink outlines,
-  > whimsical and affectionate, storybook feel, transparent background,
-  > no text.*
+  > *Friendly caricature cartoon, big expressive head on a small body,
+  > exaggerated smile and signature features, bold slightly wobbly ink
+  > outlines with soft watercolor fills on textured paper, palette of navy,
+  > sand, sea-glass green, sky blue and cranberry red, warm and
+  > affectionate, never unflattering, transparent background, no text.*
+- Caricature house prompt (starting point):
+  > *[style prompt] + a caricature of this exact Cape Cod saltbox house
+  > (reference image), playfully exaggerated proportions, slightly leaning
+  > chimney, oversized windows, plump roofline, same cream siding and
+  > brown roof, lush cartoon shrubs, still clearly the same house.*
 - Scene prompts, one per vignette, e.g.:
-  > *[style prompt] + a cheerful middle-aged man (based on reference photo)
-  > driving a six-seat golf cart with a canopy down a gravel driveway
+  > *[style prompt] + a caricature of the man in the reference photo, giant
+  > grin, driving a comically small six-seat golf cart with a canopy down a gravel driveway
   > toward a white picket gate, small sign on the cart reads "#1".*
 - Output: **transparent PNGs** (so they layer over the house), about 2×
   display size for sharp screens.
@@ -1068,7 +1125,7 @@ app: how it works" under Tech approach.)
 9. Build the site skeleton with the 5 tabs (Home, Schedule and Trip first, since that's what people need earliest)
 10. Add any Baker ancestor or Mayflower facts for Our Story's "Ancestors corner", plus old photos of the house if you have them
 11. Send family photos (and home cities) for the illustrations, confirm who's in the t-ball photo, and get everyone's OK to be illustrated
-12. Send a high-resolution version of the house watercolor
+12. Send a high-resolution version of the house watercolor (the reference for the caricature house)
 13. Pick and save the house photos for the Where to stay carousel (Trip tab)
 14. Get a 2027 golf cart quote from C2 Vehicles (formerly CCE) and book by early spring
 15. Set up the photos app: Google Cloud project + Photos Library API, create the "Baker Family Reunion 2027" album, then share it by link in Google Photos
