@@ -290,7 +290,7 @@ which stays out of the repo)
 
 | Person | Signature look to capture | Supersized for the caricature | Appears in |
 |---|---|---|---|
-| **Uncle Mike** | Shaved head, big warm grin, black wraparound sunglasses, a loud **Red Sox print button-up shirt**, thumbs-up, smartwatch | The grin, the thumbs-up, and the Red Sox shirt (it's his uniform) | Golf cart (#1): sunglasses on, thumbs up, one hand on the wheel · Gramps' mac & cheese (#3): chef hat over the sunglasses, still in the Red Sox shirt · Bonus: leading the charge on the **Red Sox game** calendar card |
+| **Uncle Mike** (Bend, OR) | Shaved head, big warm grin, black wraparound sunglasses, a loud **Red Sox print button-up shirt**, thumbs-up, smartwatch | The grin, the thumbs-up, and the Red Sox shirt (it's his uniform) | Golf cart (#1): sunglasses on, thumbs up, one hand on the wheel · Gramps' mac & cheese (#3): chef hat over the sunglasses, still in the Red Sox shirt · Bonus: leading the charge on the **Red Sox game** calendar card · **The Bend Bakers** family portrait and Bend pin on the Trip map |
 | Uncle Sean | *(photo to come)* | Whistle, clipboard, "Kids Sports" shirt | #4 |
 | Amanda | *(photo to come)* | The swing | #5 |
 | Freddy & May | *(photo to come)* | | #2 |
@@ -299,6 +299,11 @@ which stays out of the repo)
   (golf cart) and *"Uncle Mike, Executive Chef, Gramps' Recipe Division"*
   (mac & cheese). Optional Red Sox card caption: *"Official Team Spirit
   Officer. Has the shirt to prove it."*
+- Bend angle: he has the **longest trip in the family** (no nonstop, one
+  connection, see the Trip tab). Trip map/arrivals gag: *"Uncle Mike:
+  traveled farther than the Pilgrims' landing party, complained less."*
+  Bend family portrait prop: hiking poles, plus a Red Sox cap, because some
+  loyalties don't change with the time zone.
 - Remember the rule: exaggerate the grin, the shirt and the thumbs-up, not
   the head or anything else people might be sensitive about.
 
