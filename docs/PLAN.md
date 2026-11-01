@@ -113,6 +113,54 @@ It should still be instantly recognizable, but cartoon-ified:
 | 404 page | "This page went to the beach. Try the home page, or check the porch." |
 | Privacy note | "We take your privacy as seriously as we take croquet." |
 
+### Running gag: The Trophy 🏆
+
+The family has a **gold crown trophy** awarded at the reunion competition.
+Most people don't know what the competition actually *is*, nobody can
+explain how you win, and the tallying system makes no sense. The site
+treats it with **total, unwavering seriousness**, which is the joke.
+*(Confirm the competition's official name and past winners. The trophy
+has names engraved on it.)*
+
+**Where it shows up**
+- **Home:** a small gold trophy icon in the header. Tapping it opens **"The
+  Trophy"** page/sheet.
+- **The Trophy page** (linked from Home and the Schedule tab):
+  - A caricature of the trophy, glowing, on a velvet pedestal
+  - **Reigning champion(s)** with a caricature portrait. If it's the
+    Altamont Bakers, use Jenn's proud eyes-closed grin.
+  - **Hall of Champions:** past winners by year, copied from the
+    engravings
+  - **Official Rules:** a document that is almost entirely
+    ~~redacted~~ black bars, with one readable line: *"Points shall be
+    awarded."*
+  - **FAQ:**
+    - *"What is the competition?"* Yes.
+    - *"How do I win?"* By having more points.
+    - *"How do I get points?"* That's not how points work.
+    - *"Who keeps score?"* The Committee. *(There is no Committee.)*
+  - **Live Standings board** during reunion week: a leaderboard with
+    confidently precise but unexplained numbers (e.g. *Altamont Bakers:
+    14¾ · Bend Bakers: −2 · Thatcher: 31 (under review)*). Point
+    changes come with cryptic notes like *"+3, see Rule 7(b)"* (there is
+    no Rule 7(b)) or *"−½, croquet incident, details sealed."*
+  - **Tally method:** a rotating explanation that changes every page
+    load: *"Tallies are calculated using the Modified Baker Method,"*
+    *"…the Gramps Coefficient,"* *"…a system that predates
+    electricity at the house (1963)."*
+- **Schedule tab:** a "🏆 Trophy Ceremony" event at the farewell dinner
+  (Tue Jul 6), with the description: *"Results final. Results may change."*
+- **Everyday events quietly award points:** small "+1 🏆" chips appear on
+  random Schedule items (hosting dinner, winning bocce, arriving on time),
+  with no explanation. Nothing explains which ones count.
+- **Data:** the organizer can update standings in a **"Trophy" tab of the
+  Google Sheet** (Team · Points · Note), so the leaderboard updates live.
+  Note column for the cryptic explanations.
+
+**Keep it kind:** the joke is the mystery and the over-seriousness,
+never anyone's score. No last place shaming. Negative points always come
+with an absurd, obviously fake reason.
+
 ### Footer
 - Dark navy background, three columns:
   1. **Quick links** (all tabs)
@@ -309,9 +357,9 @@ which stays out of the repo)
   the frame around **the gold crown trophy**, Thatcher's donuts front and
   center, with Simon's bow tie as the only formalwear. Deadpan title:
   *"The Altamont Bakers: Northeast Regional Office."*
-- **The trophy** in Jenn and Oliver's photo could become a running site
-  element (e.g. a game night or Baker Games championship trophy shown on
-  the Schedule tab). *What is it? Confirm before using.*
+- **The trophy** in Jenn and Oliver's photo is the family's legendary
+  **reunion competition trophy** (see "The Trophy" running gag in Design &
+  tone).
 - Bend angle: he has the **longest trip in the family** (no nonstop, one
   connection, see the Trip tab). Trip map/arrivals gag: *"Bend Bakers:
   longest commute in the company. Awarded the Frequent Flyer Medal of
@@ -1089,6 +1137,7 @@ app: how it works" under Tech approach.)
   |---|---|
   | **Game Night Host Signup** | Date · Game · Hosted by |
   | **Dinner Host Signup** | Date · Cuisine · Provided by |
+  | **Trophy** *(new tab to add)* | Team · Points · Note (for the cryptic explanations) |
   | **RSVP & Travel Plans** *(new tab to add)* | Family · Coming? (Yes/Maybe/No) · Adults · Kids · Dietary Notes · Golf Cart Interest · From · Mode (Fly/Drive) · Arrival Date · Arrival Time · Arrival Airport · Arrival Flight · Departure Date · Departure Time · Departure Airport · Departure Flight · Staying At · Excited For · Needs Ride · Seats to Share |
 
   - **Two-way sync:** the website both **reads from** and **writes to** the
@@ -1156,16 +1205,17 @@ app: how it works" under Tech approach.)
 5. ~~Decide how sign-ups are stored~~ Done: family Google Sheet (two tabs)
 6. Add an **RSVP & Travel Plans** tab to the Google Sheet with the columns listed
    under Tech approach
-7. Rough out the daily itinerary and confirm which games and nights to include
-8. Talk to Will Washburn's agent about setting up `reunion.twentyroosroad.com` (DNS CNAME to GitHub Pages, like the wedding website)
-9. Build the site skeleton with the 5 tabs (Home, Schedule and Trip first, since that's what people need earliest)
-10. Add any Baker ancestor or Mayflower facts for Our Story's "Ancestors corner", plus old photos of the house if you have them
-11. Send family photos (and home cities) for the illustrations, confirm who's in the t-ball photo, and get everyone's OK to be illustrated
-12. Send a high-resolution version of the house watercolor (the reference for the caricature house)
-13. Pick and save the house photos for the Where to stay carousel (Trip tab)
-14. Get a 2027 golf cart quote from C2 Vehicles (formerly CCE) and book by early spring
-15. Set up the photos app: Google Cloud project + Photos Library API, create the "Baker Family Reunion 2027" album, then share it by link in Google Photos
-16. Send a save-the-date with the site link
+7. Confirm the reunion competition's official name, past trophy winners (from the engravings) and the reigning champion
+8. Rough out the daily itinerary and confirm which games and nights to include
+9. Talk to Will Washburn's agent about setting up `reunion.twentyroosroad.com` (DNS CNAME to GitHub Pages, like the wedding website)
+10. Build the site skeleton with the 5 tabs (Home, Schedule and Trip first, since that's what people need earliest)
+11. Add any Baker ancestor or Mayflower facts for Our Story's "Ancestors corner", plus old photos of the house if you have them
+12. Send family photos (and home cities) for the illustrations, confirm who's in the t-ball photo, and get everyone's OK to be illustrated
+13. Send a high-resolution version of the house watercolor (the reference for the caricature house)
+14. Pick and save the house photos for the Where to stay carousel (Trip tab)
+15. Get a 2027 golf cart quote from C2 Vehicles (formerly CCE) and book by early spring
+16. Set up the photos app: Google Cloud project + Photos Library API, create the "Baker Family Reunion 2027" album, then share it by link in Google Photos
+17. Send a save-the-date with the site link
 
 ## Sources (Explore)
 - [Wanderlog — Sandwich family restaurants](https://wanderlog.com/list/geoCategory/555800/)
