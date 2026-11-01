@@ -22,9 +22,10 @@ place for dates, travel, lodging, the schedule and RSVPs.
    rental cars and carpools
 4. **Accommodation** (its own tab; see spec below): our house's Airbnb
    listing now. Cape Cod rental house suggestions come in early 2027
-5. **Schedule:** day-by-day event details (Red Sox game, July 4th
-   fireworks, beach day, family dinner, photo). Feeds the Activities
-   calendar view
+5. **Itinerary** (replaces "Schedule"; see spec below): a rough
+   day-by-day plan (lawn games, Red Sox, July 4th) plus **sign-ups to host
+   game night and dinner each night**. Sign-ups update the calendar
+   automatically
 6. **RSVP:** who's coming, arrival and departure dates and flights (feeds
    airport-pickup coordination)
 7. **Family:** family tree and photo sharing
@@ -45,7 +46,7 @@ The landing page should feel like a save-the-date: big, warm and simple.
 - Countdown: "X days until we're on the Cape"
 
 **Below the hero**
-- Navigation tabs: Home · Calendar · Travel · Accommodation · Schedule · RSVP ·
+- Navigation tabs: Home · Calendar · Travel · Accommodation · Itinerary · RSVP ·
   Family · FAQ
 - Two or three quick cards linking to the most important pages, e.g.
   "Plan your trip" (Travel), "See the calendar" (Calendar), "RSVP"
@@ -60,7 +61,7 @@ the top to switch between views. Each view uses its own color family, and
 | Tab | Shows | Color family |
 |---|---|---|
 | **Travel** | Best arrival days, avoid-flying days, best departure days, holiday | Greens, ambers and blues (as in the Travel spec) |
-| **Activities** | Red Sox game, July 4th, beach day, family dinner, group photo, etc. | **Red** for the Red Sox game, purple or teal for other activities |
+| **Activities** | Red Sox game, July 4th, lawn games, dinners, game nights, group photo | **Red** Red Sox, **teal** lawn games, **orange** dinners, **purple** game nights |
 | **Everything** | Travel and activities together | All colors, with a combined legend |
 
 **Behavior**
@@ -71,7 +72,7 @@ the top to switch between views. Each view uses its own color family, and
   links.
 - The legend below the calendar updates to match the selected tab.
 - On phones, the month grid becomes a day-by-day list with the same colors.
-- The Travel tab page embeds the **Travel** view, and the Schedule page links
+- The Travel tab page embeds the **Travel** view, and the Itinerary page links
   to the **Activities** view, so there's one calendar and no duplicates to
   keep in sync.
 - Colors need enough contrast, and every chip has an icon and label, so
@@ -92,6 +93,74 @@ the top to switch between views. Each view uses its own color family, and
   (Esplanade) vs. local Cape fireworks that night.
 - Possible bonus: a **Cape Cod Baseball League** game (summer collegiate
   league, free, very family-friendly). Several teams play near Sandwich.
+
+## Itinerary tab: spec (not built yet)
+
+The Bakers love games and sports, so the itinerary is built around three
+recurring pieces: **daytime lawn games**, a **family dinner every night**, and
+a **game night every night**. Families sign up to host the dinners and game
+nights, and those sign-ups show up on the Calendar automatically.
+
+### 1. Rough day-by-day itinerary
+Nights covered: **Wed Jun 30 through Tue Jul 6 (7 nights)**. Wed Jul 7 is
+departure day. Everything is "rough" and easy to change.
+
+| Day | Daytime | Dinner | Game night |
+|---|---|---|---|
+| Wed Jun 30 | Arrivals. Settle in. Casual lawn games | Welcome dinner *(sign up)* | Game night *(sign up)* |
+| Thu Jul 1 | Arrivals continue. Beach or **volleyball** | *(sign up)* | *(sign up)* |
+| Fri Jul 2 | **Lawn games tournament day**: croquet, bocce, badminton | *(sign up)* | *(sign up)* |
+| Sat Jul 3 | Beach / free day *(possible Red Sox game)* | *(sign up)* | *(sign up)* |
+| Sun Jul 4 | **July 4th**: parade or local events, cookout, fireworks *(possible Red Sox game)* | July 4th cookout *(sign up to help)* | Game night after fireworks *(sign up)* |
+| Mon Jul 5 | Family photo. Volleyball and badminton rematches | *(sign up)* | *(sign up)* |
+| Tue Jul 6 | Free day. Championship finals and awards | Farewell dinner *(sign up)* | Final game night *(sign up)* |
+| Wed Jul 7 | Departures | | |
+
+### 2. Lawn games & sports
+The yard has **volleyball, badminton, croquet and bocce ball**.
+- A small card for each game with an icon, where it's set up and "bring
+  your A-game" flavor text.
+- Optional **Baker Games tournament**: sign up teams or players, keep a
+  simple bracket and scoreboard on the site, and hand out a trophy or
+  bragging-rights award at the farewell dinner.
+- Lawn games appear on the Calendar's **Activities** view.
+
+### 3. Sign-ups: Game Night host & Dinner
+One sign-up board per night, each with **two slots**:
+
+**🎲 Game Night host** (one per night)
+- Fields: host name/family, game(s) planned (e.g. "Codenames + Spades"),
+  optional notes ("bring your own deck")
+- Each night should have a game night, so unclaimed nights show a friendly
+  "**Needs a host!**" badge
+
+**🍽️ Dinner** (one lead per night, helpers welcome)
+- Fields: who's cooking or hosting, what's planned (e.g. "lobster rolls" or
+  "taco bar"), how many it feeds, optional "need help with…"
+- **Dietary requests**: anyone can add a note (vegetarian, gluten-free,
+  allergies, kids' picks) so whoever cooks can see them
+- Unclaimed nights show "**Dinner needed!**"
+
+**How it works for the family**
+- Each night is a card: **date → Dinner: [claimed by X / Sign up] → Game
+  Night: [claimed by Y / Sign up]**
+- Click **Sign up** → a short form → done. No login needed.
+- A small "Change or cancel" option (e.g. edit with the name you used, or a
+  note to text the organizer)
+- Shows progress at the top: "**5 of 7 dinners covered · 4 of 7 game nights
+  hosted**"
+
+### 4. Sign-ups update the calendar automatically
+- Every claimed slot becomes a calendar event in the Calendar page's
+  **Activities** and **Everything** views, e.g.
+  "🍽️ Dinner: Taco bar (Portland Bakers)" and "🎲 Game Night: Codenames
+  (Atlanta Bakers)".
+- Unclaimed slots appear on the calendar as faded "open" chips that link
+  straight to the sign-up form.
+- New colors for the Activities view: **orange for dinners** and **purple
+  for game nights** (red stays for the Red Sox, teal for lawn games).
+- There's one source of truth, the sign-up data. The Itinerary board and
+  the Calendar both read from it, so they never get out of sync.
 
 ## Accommodation tab: spec (not built yet)
 
@@ -209,15 +278,27 @@ A small side-by-side box below the cards:
   Eleventy) in this repo
 - Hosted free on **GitHub Pages**
 - RSVP via an embedded form (e.g. Google Form) at first. Upgrade later if needed.
+- **Sign-ups (dinners and game nights) need a place to save data**, since a
+  static site can't store anything on its own. Two options:
+  1. **Google Sheet + Google Apps Script (recommended to start):** free, and
+     the family organizer can see and fix sign-ups directly in the sheet.
+     The site sends sign-ups to the sheet and reads them back to fill the
+     Itinerary board and the Calendar.
+  2. **A small hosted database** (e.g. Firebase or Supabase) if we later want
+     logins, instant updates or tournament scoring.
+- Keep it light on privacy: first names or family names only, no phone
+  numbers or emails shown publicly.
 
 ## Next steps
 1. Confirm the exact reunion dates and venue/lodging
 2. Confirm the Red Sox game date and time and decide on group tickets
 3. Set Google Flights price alerts for each origin city (see travel research)
 4. Decide the RSVP method
-5. Build the site skeleton (Home, Calendar and Travel first, since that's what people need earliest)
-6. Pick and save the house photos for the Accommodation carousel
-7. Send a save-the-date with the site link
+5. Decide how sign-ups are stored (Google Sheet recommended)
+6. Rough out the daily itinerary and confirm which games and nights to include
+7. Build the site skeleton (Home, Calendar and Travel first, since that's what people need earliest)
+8. Pick and save the house photos for the Accommodation carousel
+9. Send a save-the-date with the site link
 
 ## Sources (Red Sox schedule)
 - [MLB.com — Red Sox to open 2027 season March 25 in Seattle](https://www.mlb.com/news/red-sox-to-open-2027-season-march-25-in-seattle)
