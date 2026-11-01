@@ -32,8 +32,10 @@ place for dates, travel, lodging, the schedule and RSVPs.
 7. **RSVP:** who's coming and how many. Flight, arrival and lodging
    details are shared on the Travel tab's "Who's coming & when" form, so
    nobody enters them twice
-8. **Family:** family tree and photo sharing
-9. **FAQ:** what to pack, beaches, kids' activities, contact info
+8. **About** (its own tab; see spec below): a short, subtly funny history
+   of our house and of Sandwich and Cape Cod
+9. **Family:** family tree and photo sharing
+10. **FAQ:** what to pack, beaches, kids' activities, contact info
 
 ## Home page: spec (not built yet)
 
@@ -50,7 +52,7 @@ The landing page should feel like a save-the-date: big, warm and simple.
 - Countdown: "X days until we're on the Cape"
 
 **Below the hero**
-- Navigation tabs: Home · Calendar · Travel · Accommodation · Itinerary · Things to Do · RSVP ·
+- Navigation tabs: Home · Calendar · Travel · Accommodation · Itinerary · Things to Do · About · RSVP ·
   Family · FAQ
 - Two or three quick cards linking to the most important pages, e.g.
   "Plan your trip" (Travel), "See the calendar" (Calendar), "RSVP"
@@ -239,6 +241,114 @@ Grouped by type:
   to Do** tab in the Google Sheet for the organizer to approve).
 - Re-check hours, closures (e.g. the boardwalk) and reservation policies in
   spring 2027.
+
+## About tab: spec (not built yet)
+
+**Tone:** warm, concise, quietly funny, like a museum placard written by
+the family's driest wit. Short paragraphs, a few "fun fact" callouts, and
+no more than a two-minute read. Facts stay accurate, and the jokes are in
+how they're told.
+
+**Layout**
+- Two sections: **About the House** and **About Sandwich & Cape Cod**
+- Each has an old photo or illustration, 2–3 short paragraphs and a little
+  sidebar timeline
+- Optional "📍 Within walking/driving distance" mini-map for the historic
+  sites
+- Privacy: no purchase prices, deed book numbers or full addresses on the
+  public site
+
+### About the House (draft copy, for tone)
+
+> **20 Roos Road: Est. Sometime Between 1889 and "Don't Ask the Plumbing"**
+>
+> On January 2, 1889, a Finnish immigrant named **Alexander Boght**, with a
+> baby on the way and the confidence of a man who had never heard of a
+> building inspector, bought this land from **Nathaniel C. Hoxie**. (Yes,
+> *that* Hoxie family. More on them below. Sandwich is small.)
+>
+> Alexander and his wife **Hannah** built a four-room homestead with a
+> kitchen out back. Alexander went on to become a **foreman in the
+> cranberry bogs**, which remains the most Cape Cod job title ever
+> recorded.
+>
+> The house became a **vacation home in 1922**, so when we say the family
+> is "coming to the Cape for the summer," we are technically honoring a
+> 100-year-old tradition.
+>
+> 💡 **Fun fact:** The house didn't get **electricity until 1963**. It ran
+> for 74 years on daylight, candles and grit, so any complaints about the
+> Wi-Fi will be reviewed accordingly.
+>
+> In 2004 an addition brought a dining room, living room, kitchen, two
+> bedrooms and two full bathrooms. Alexander would be astonished, mostly
+> by the bathrooms. In 2021 it became ours, and now it's yours for a week.
+> Please wipe your feet. It's been through a lot.
+
+**Sidebar timeline (from the house history document)**
+- **1889:** Alexander Boght buys the land from Nathaniel C. Hoxie
+- **1898:** Local paper reports "Alex Boght of Spring Hill is building a
+  new residence"
+- **1908:** Alexander is a cranberry bog foreman
+- **1922:** Becomes a summer home for a couple from Boston
+- **1946–1998:** The Shelleys, a Finnish couple, make it their home
+- **1963:** ⚡ Electricity arrives
+- **2004:** The big addition
+- **2021:** The Bakers (and Washburns) move in
+
+### About Sandwich & Cape Cod (draft copy, for tone)
+
+> **Sandwich: Oldest Town on the Cape (Yarmouth Disagrees)**
+>
+> Long before anyone named it after a lunch, this was **Wampanoag** land.
+> The Wampanoag helped the Pilgrims survive at Plymouth in the 1620s, and
+> history suggests the Pilgrims were not always great about returning the
+> favor.
+>
+> In **1637**, ten men from Saugus got permission from Plymouth Colony to
+> settle here, and in **1639** Sandwich was officially incorporated, making
+> it the **oldest town on Cape Cod**. (Yarmouth, also 1639, would like a
+> word. We're not taking questions.) It's named after **Sandwich, England**,
+> not the sandwich, though we will be serving several.
+>
+> **The Pilgrims** first made landfall at the tip of the Cape in 1620,
+> then settled at **Plymouth**, about 20 minutes up the road. It took them
+> 66 days to cross the Atlantic. Our Bend relatives will need just one
+> connection in Seattle, and they'll still complain.
+
+> 🏛️ **Neighborhood landmarks**
+> - **The Wing Fort House (1641)**, right down the road from us on
+>   **Spring Hill Road**, is one of the oldest wood-frame houses in North
+>   America. It has hosted the Wing family's reunions for generations, so
+>   we're in very experienced company.
+> - **Spring Hill Quaker Meeting (since 1657)**, also on our road, is the
+>   oldest continuously meeting group of Quakers in America. Please keep
+>   game night volume at a respectful level.
+> - **The Hoxie House (c. 1675)**, on Water Street in Sandwich village, is
+>   widely called the **oldest house on Cape Cod**. It's the same Hoxie
+>   family that sold Alexander his land, so we are basically
+>   architecturally adjacent to royalty.
+> - **Dexter Grist Mill**, the oldest grist mill on the Cape, still grinds
+>   corn. Bring a bag.
+> - **Sandwich glass**: in the 1800s the town was famous for pressed glass.
+>   The Sandwich Glass Museum has live glassblowing, and nothing breakable
+>   at kid height (we assume).
+
+> 👪 **Ancestors corner (to be confirmed)**: If any Bakers have Mayflower
+> or early-Sandwich roots, this is where we brag about it. *(Family to
+> supply details. Otherwise we'll leave it as: "We're not saying we're
+> descended from Pilgrims. We're just saying nobody's proven we aren't.")*
+
+**Fact notes for whoever writes the final copy**
+- The Hoxie House is on **Water Street (Route 130)** in Sandwich village,
+  not Spring Hill Road. The historic house on **Spring Hill Road** is the
+  **Wing Fort House** (1641). The Hoxie House is dated c. 1675 by the
+  state historical commission. The older "1637" date you'll see online is
+  folklore.
+- Sandwich's "oldest town" title is shared with Yarmouth (both
+  incorporated 1639). Sandwich was *settled* first (1637).
+- House history facts come from the family's 20 Roos Road history
+  document. Keep the deed references and sale prices off the public site.
 
 ## Accommodation tab: spec (not built yet)
 
@@ -496,9 +606,10 @@ they're getting there.
 7. Rough out the daily itinerary and confirm which games and nights to include
 8. Build the site skeleton (Home, Calendar and Travel first, since that's what people need earliest)
 9. Send the Airbnb guidebook recommendations (copy/paste or screenshots) for the Things to Do tab
-10. Pick and save the house photos for the Accommodation carousel
-11. Get a 2027 golf cart quote from C2 Vehicles (formerly CCE) and book by early spring
-12. Send a save-the-date with the site link
+10. Add any Baker ancestor or Mayflower facts for the About tab's "Ancestors corner", plus old photos of the house if you have them
+11. Pick and save the house photos for the Accommodation carousel
+12. Get a 2027 golf cart quote from C2 Vehicles (formerly CCE) and book by early spring
+13. Send a save-the-date with the site link
 
 ## Sources (things to do)
 - [Wanderlog — Sandwich family restaurants](https://wanderlog.com/list/geoCategory/555800/)
@@ -509,6 +620,17 @@ they're getting there.
 - [Wikivoyage — Sandwich (Massachusetts)](https://en.wikivoyage.org/wiki/Sandwich_(Massachusetts))
 - [Dan'l Webster Inn — Sandwich & Cape Cod activities](https://danlwebsterinn.com/attractions/)
 - [We Need a Vacation — Things to do in Sandwich](https://www.weneedavacation.com/blog/things-to-do-in-sandwich/)
+
+## Sources (About tab)
+- 20 Roos Road house history (family document, not published)
+- [Wikipedia — Sandwich, Massachusetts](https://en.wikipedia.org/wiki/Sandwich,_Massachusetts)
+- [Wikipedia — Hoxie House](https://en.wikipedia.org/wiki/Hoxie_House)
+- [Wikipedia — Spring Hill Historic District](https://en.wikipedia.org/wiki/Spring_Hill_Historic_District_(Sandwich,_Massachusetts))
+- [Cape Cod Quakers — History](https://capecodquakers.org/history/)
+- [Waterway Guide — Sandwich, oldest town on Cape Cod](https://waterwayguide.com/latest-news/news/3956/Sandwich-MA-Oldest-town-on-Cape-Cod)
+- [American Heritage — A lovely town called Sandwich](https://www.americanheritage.com/lovely-town-called-sandwich)
+- [Mass. Historical Commission — Sandwich town report](https://www.sec.state.ma.us/divisions/mhc/preservation/survey/town-reports/sdw.pdf)
+- [Wing Family — Spring Hill History Day](https://wingfamily.org/post/the-spring-hill-history-day-2023)
 
 ## Sources (golf carts)
 - 2021 CCE rental agreement (family records, not published)
