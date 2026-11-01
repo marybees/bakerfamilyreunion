@@ -128,17 +128,20 @@ The yard has **volleyball, badminton, croquet and bocce ball**.
 ### 3. Sign-ups: Game Night host & Dinner
 One sign-up board per night, each with **two slots**:
 
-**🎲 Game Night host** (one per night)
-- Fields: host name/family, game(s) planned (e.g. "Codenames + Spades"),
-  optional notes ("bring your own deck")
+**🎲 Game Night host** (one per night). Saved to the sheet's **Game Night
+Host Signup** tab
+- Fields (match the sheet's columns): **Date**, **Game** (e.g. "Codenames +
+  Spades"), **Hosted by** (name or family)
 - Each night should have a game night, so unclaimed nights show a friendly
   "**Needs a host!**" badge
 
-**🍽️ Dinner** (one lead per night, helpers welcome)
-- Fields: who's cooking or hosting, what's planned (e.g. "lobster rolls" or
-  "taco bar"), how many it feeds, optional "need help with…"
-- **Dietary requests**: anyone can add a note (vegetarian, gluten-free,
-  allergies, kids' picks) so whoever cooks can see them
+**🍽️ Dinner** (one per night). Saved to the sheet's **Dinner Host Signup**
+tab
+- Fields (match the sheet's columns): **Date**, **Cuisine** (e.g. "lobster
+  rolls" or "taco bar"), **Provided by** (name or family)
+- **Dietary requests** (later, optional): would need a new column or tab in
+  the sheet (e.g. a "Dietary Requests" tab with Name and Request columns)
+  so cooks can see vegetarian, gluten-free, allergy and kids' notes
 - Unclaimed nights show "**Dinner needed!**"
 
 **How it works for the family**
@@ -303,14 +306,31 @@ houses, to the beach or into Sandwich village.
   Eleventy) in this repo
 - Hosted free on **GitHub Pages**
 - RSVP via an embedded form (e.g. Google Form) at first. Upgrade later if needed.
-- **Sign-ups (dinners and game nights) need a place to save data**, since a
-  static site can't store anything on its own. Two options:
-  1. **Google Sheet + Google Apps Script (recommended to start):** free, and
-     the family organizer can see and fix sign-ups directly in the sheet.
-     The site sends sign-ups to the sheet and reads them back to fill the
-     Itinerary board and the Calendar.
-  2. **A small hosted database** (e.g. Firebase or Supabase) if we later want
-     logins, instant updates or tournament scoring.
+- **Sign-ups are stored in the family Google Sheet** (decided):
+  https://docs.google.com/spreadsheets/d/1-NZnvlRHNE7zUl2nkmGNHLoTnw7PlUIWrsRG9bzwx3Y/edit
+
+  | Sheet tab | Columns |
+  |---|---|
+  | **Game Night Host Signup** | Date · Game · Hosted by |
+  | **Dinner Host Signup** | Date · Cuisine · Provided by |
+
+  - **Writing:** a small **Google Apps Script** attached to the sheet,
+    deployed as a web app. The site's sign-up form sends Date + Game + Hosted
+    by (or Date + Cuisine + Provided by), and the script adds a row to the
+    right tab. It rejects a second sign-up for a date that's already taken.
+  - **Reading:** the same script returns both tabs as JSON, and the
+    Itinerary board and Calendar build themselves from it. One source of
+    truth.
+  - **Editing:** the organizer can fix or remove sign-ups directly in the
+    sheet, and the site picks up the change on the next page load.
+  - **Date format:** use one consistent format in the Date column (e.g.
+    `2027-06-30`), or format the column as a date, so the site matches rows
+    to calendar days reliably.
+  - **Security:** never put the sheet's edit link on the public site. The
+    sheet's own sharing can stay private, since the script runs as the
+    sheet owner.
+  - Upgrade path: a hosted database (e.g. Firebase or Supabase) only if we
+    later want logins, instant updates or tournament scoring.
 - Keep it light on privacy: first names or family names only, no phone
   numbers or emails shown publicly.
 
@@ -319,7 +339,7 @@ houses, to the beach or into Sandwich village.
 2. Confirm the Red Sox game date and time and decide on group tickets
 3. Set Google Flights price alerts for each origin city (see travel research)
 4. Decide the RSVP method
-5. Decide how sign-ups are stored (Google Sheet recommended)
+5. ~~Decide how sign-ups are stored~~ Done: family Google Sheet (two tabs)
 6. Rough out the daily itinerary and confirm which games and nights to include
 7. Build the site skeleton (Home, Calendar and Travel first, since that's what people need earliest)
 8. Pick and save the house photos for the Accommodation carousel
