@@ -82,6 +82,13 @@ summer 2027.
   morning, often for less money, and the drive to the Cape is easy before
   traffic builds.
 
+### Santa Barbara, CA (SBA)
+- **No nonstop to Boston from SBA.** One stop via SFO or Denver (United),
+  Seattle (Alaska), or Dallas/Phoenix (American). Confirm 2027 routes.
+- **Money saver:** drive about 2 hours to **LAX** for a wide choice of
+  nonstops, or about 1 hour to **Burbank (BUR)**. Compare the SBA fare
+  against LAX/BUR fare plus parking or a shuttle.
+
 ### San Diego, CA (SAN)
 - Nonstop BOS service has historically been on Alaska and JetBlue. Confirm
   for 2027. One-stop options on Delta, United, American and Southwest.
@@ -140,6 +147,7 @@ These are rough expectations to sanity-check against, not quotes:
 |---|---|---|
 | Bend (RDM) | $450–700 | $650–950+ |
 | Portland (PDX) | $350–550 | $500–800 |
+| Santa Barbara (SBA) | $450–700 | $650–950+ |
 | San Diego (SAN) | $350–550 | $500–800 |
 | Los Angeles (LAX) | $300–500 | $450–750 |
 | Atlanta (ATL) | $200–350 | $300–500 |

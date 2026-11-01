@@ -9,9 +9,11 @@ place for dates, travel, lodging, the schedule and RSVPs.
 - **Location:** Sandwich, MA (Cape Cod), with a day trip to Boston
 - **Dates:** July 4th week 2027. Proposed core window **Wed Jun 30 – Wed Jul 7**
   (see [travel-research.md](travel-research.md))
-- **Coming from:** Bend OR, Portland OR, San Diego CA, Los Angeles CA,
-  Atlanta GA, Columbus OH (flying), plus New Jersey, Altamont NY (upstate) and
-  Long Beach NY (driving)
+- **Coming from:** Bend OR, Portland OR, Santa Barbara CA, San Diego CA,
+  Los Angeles CA, Atlanta GA, Columbus OH (flying), plus New Jersey,
+  Altamont NY (upstate) and Long Beach NY (driving)
+- **History:** this is the **second** Baker Family Reunion. The first was in
+  2022.
 
 ## Design & tone: the whole site (not built yet)
 
@@ -98,8 +100,8 @@ It should still be instantly recognizable, but cartoon-ified:
 | Where | Idea |
 |---|---|
 | Site title | **Baker Family Reunion 2027** with a tiny "™" that, on hover, says "not actually trademarked" |
-| Home tagline | "Reconvening the Bakers since [year]. Attendance strongly encouraged." |
-| Home stats bar | "**9** cities · **1** house · **7** game nights · **0** electricity before 1963 · **∞** croquet grudges" |
+| Home tagline | "Reconvening the Bakers since 2022. Attendance strongly encouraged." Alt: **"Baker Family Reunion II: The Sequel"** |
+| Home stats bar | "**10** cities · **1** house · **7** game nights · **0** electricity before 1963 · **∞** croquet grudges" |
 | Countdown | "**143** days until mandatory fun" |
 | Buttons | "Claim your bunk" (Accommodation) · "Volunteer as tribute" (host game night) · "Feed the masses" (dinner sign-up) · "Report for duty" (RSVP) |
 | Testimonials strip | Fake-but-affectionate quotes: *"I was told there would be lobster." — A Baker, 2027* · *"Five stars. Would reunite again." — Also a Baker* |
@@ -128,7 +130,7 @@ has names engraved on it.)*
 - **The Trophy page** (linked from Home and the Schedule tab):
   - A caricature of the trophy, glowing, on a velvet pedestal
   - **Reigning champion(s)** with a caricature portrait. If it's the
-    Altamont Bakers, use Jenn's proud eyes-closed grin.
+    Altamont Bakers, use Jenny's proud eyes-closed grin.
   - **Hall of Champions:** past winners by year, copied from the
     engravings
   - **Official Rules:** a document that is almost entirely
@@ -323,7 +325,8 @@ you look.
 **"Meet the Bakers": a cartoon of each family**
 - One **caricature "family portrait"** per household, in the same cartoon
   style (big heads, everyone squeezed into the frame), holding something from their home city (e.g. Portland: coffee and
-  an umbrella; Bend: hiking poles; San Diego: surfboard; Atlanta: a peach;
+  an umbrella; Bend: hiking poles; Santa Barbara: a sun hat and beach
+  chair; San Diego: surfboard; Atlanta: a peach;
   Columbus: a buckeye; New Jersey: a bagel, held defensively).
 - Used in three places:
   1. **Home page:** a "Meet the Bakers" row below the hero
@@ -340,10 +343,14 @@ which stays out of the repo)
 |---|---|---|---|
 | **Uncle Mike** (Bend, OR) | Shaved head, big warm open-mouthed grin, sunglasses (black wraparounds, or tortoiseshell Ray-Bans in the photo with Michaela), a loud **Red Sox print button-up shirt**, thumbs-up, smartwatch | The grin, the thumbs-up, and the Red Sox shirt (it's his uniform) | Golf cart (#1): sunglasses on, thumbs up, one hand on the wheel · Gramps' mac & cheese (#3): chef hat over the sunglasses, still in the Red Sox shirt · Bonus: leading the charge on the **Red Sox game** calendar card · **The Bend Bakers** family portrait and Bend pin on the Trip map |
 | **Simon** (Altamont, NY) | Tousled dark hair, a skeptical raised-eyebrow smirk, a **black bow tie on a casual blue short-sleeve snap shirt**, orange-band smartwatch | The bow tie (formal-casual is his brand) and the eyebrow | **The Altamont Bakers** portrait. Natural fit for the corporate gag: *"Simon, Chief Formality Officer. Business on top, reunion on the bottom."* Possible game-night host or croquet referee |
-| **Jenn** (Altamont, NY) | Tan baseball cap, black tee, eyes-closed proud grin, **holding a gold trophy with a crown** | The proud grin and the trophy | Altamont portrait, holding the trophy aloft. Lawn games or game night champion vignette |
+| **Jenny** (Altamont, NY) | Tan baseball cap or glasses and a bright pink top (2022 photo), black tee, eyes-closed proud grin, **holding a gold trophy with a crown** | The proud grin and the trophy | Altamont portrait, holding the trophy aloft. Lawn games or game night champion vignette |
 | **Oliver** (Altamont, NY) | Teen, tousled dark hair, **NY Rangers tee**, perfectly deadpan expression | The deadpan look (he's seen it all) | Altamont portrait, handing over (or reclaiming) the trophy. Bocce or volleyball vignette. A Rangers fan in Bruins country: *"Here on a diplomatic visa."* |
 | **Thatcher** (Altamont, NY; youngest) | Big wide eyes with a suspicious side-eye, enthusiastic thumbs-up, **American flag handprint tee**, boxes of **red, white and blue sprinkle donuts** | The side-eye, the thumbs-up and the donuts | **July 4th mascot**: thumbs-up next to a towering stack of patriotic donuts on the July 4th calendar card and Home "Today" view. Caption: *"Thatcher, VP of Snack Procurement."* |
 | **Michaela** (Portland, OR; Uncle Mike's daughter) | Long wavy brown hair with sun-kissed blonde ends, teal sweatshirt, a **scrunched-up nose-and-eyes squint face** paired with a **peace sign** (from the photo with Uncle Mike), and big crouching hugs (from the hug photo with May) | The squint face, the peace sign, and the hug: arms wrapped all the way around, little hearts floating up | **The Portland Bakers** portrait (Portland props: coffee cup and umbrella). Vignette idea: the **welcome hug at arrival, with May running into her arms**, used on the Trip tab's arrivals board ("✅ Landed!") and the Home "Today" view. Caption: *"Michaela, Head of Arrivals & Welcome Hugs."* Family link: a dotted "Bend ⇄ Portland" line on the Trip map connecting her to Uncle Mike. **Father–daughter duo card:** Uncle Mike's giant grin next to Michaela's squint + peace sign. Caption: *"Pacific Northwest Division: one of us is smiling for the camera."* |
+| **Aunt Marion** (Santa Barbara, CA; married to Uncle Mike) | White bucket sun hat, sunglasses, plum top and jeans, a calm, gentle smile (2022 group photo) | The sun hat (supersized, practically a parasol) and the serene smile | **The Santa Barbara Bakers** portrait, or a joint card with Uncle Mike (ask how they'd like to be shown). Vignette idea: the one relaxing in the shade with a book while the lawn games rage around her. Caption: *"Aunt Marion, Chief Sun Safety Officer."* |
+| **Brennan** (San Diego area, CA) | Tall, navy baseball cap, sunglasses, black tee, easygoing grin, back row (2022 group photo) | The height (head above the crowd) and the cap | **The San Diego Bakers** portrait with Kelly (San Diego prop: surfboard). Volleyball vignette: spiking over the net with ease. Caption: *"Brennan, Vice President of Elevation."* |
+| **Kelly** (San Diego area, CA; Brennan's wife) | Long dark hair, sunglasses, black tee, big bright smile, water bottle in hand (2022 group photo) | The big smile and the sunglasses | San Diego portrait with Brennan. Caption: *"Kelly, Head of Hydration & Good Vibes."* |
+| **Erin** (Long Beach, NY) | Dark hair pulled back, purple tank, **plaid flannel tied around the waist**, red shorts, leaning in with a huge grin (2022 group photo). Her family isn't pictured yet | The lean-in and the grin, flannel flying | **The Long Beach Bakers** portrait once we have photos of her family. Caption idea: *"Erin, Long Beach Regional Office."* |
 | Uncle Sean | *(photo to come)* | Whistle, clipboard, "Kids Sports" shirt | #4 |
 | Amanda | *(photo to come)* | The swing | #5 |
 | **May** (Sandwich; the host family) | Blonde curls, sparkly dress and little sandals, all-in hugs. **Draw her a bit older than in the hug photo**, as she'll look in summer 2027 | The curls and the hugs | T-ball scene (#2), Michaela's welcome hug, and **the host family** portrait. Possible caption: *"May, Junior Hostess & Director of Hugs."* |
@@ -353,13 +360,19 @@ which stays out of the repo)
   (golf cart) and *"Uncle Mike, Executive Chef, Gramps' Recipe Division"*
   (mac & cheese). Optional Red Sox card caption: *"Official Team Spirit
   Officer. Has the shirt to prove it."*
-- **The Altamont Bakers** (Simon, Jenn, Oliver, Thatcher) drive in from
+- **2022 reunion group photo** (reference): Aunt Marion, Uncle Mike,
+  Simon, Jenny, Thatcher, Brennan, Kelly and Erin. A **"Then (2022) and
+  Now (2027)"** caricature pair of this group could anchor Our Story:
+  the 2022 group, then the same group five years later, with more kids,
+  more trophies and the same croquet grudges.
+- **The Altamont Bakers** (Simon, Jenny, Oliver, Thatcher) drive in from
   upstate New York, about 3.5 hours. Portrait idea: all four squeezed into
   the frame around **the gold crown trophy**, Thatcher's donuts front and
   center, with Simon's bow tie as the only formalwear. Deadpan title:
   *"The Altamont Bakers: Northeast Regional Office."*
-- **The trophy** in Jenn and Oliver's photo is the family's legendary
-  **reunion competition trophy** (see "The Trophy" running gag in Design &
+- **The trophy** in Jenny and Oliver's photo is the family's legendary
+  **reunion competition trophy** (awarded since the first reunion in
+  2022) (see "The Trophy" running gag in Design &
   tone).
 - Bend angle: he has the **longest trip in the family** (no nonstop, one
   connection, see the Trip tab). Trip map/arrivals gag: *"Bend Bakers:
@@ -706,7 +719,7 @@ later)
   town of their rental, so people can see who's nearby.
 - On the "Where we're coming from" map (see Travel below), each pin gets a little badge
   once that family shares plans: "✈️ booked! Arriving Wed 6/30".
-- **Progress line:** "**7 of 9 families have shared travel plans**"
+- **Progress line:** "**7 of 10 families have shared travel plans**" (count comes from the RSVP data)
 - **Airport buddies:** automatically highlights families landing at the same
   airport within about 2 hours of each other: "You and the Columbus Bakers
   both land at BOS Wed afternoon — share a rental car?"
@@ -742,8 +755,8 @@ and a small legend:
 
 #### 2. "Where we're coming from" graphic
 A simple, illustrated map of the continental US (not a heavy interactive map).
-- A **pin for each home city**: Bend, Portland, San Diego, Los Angeles,
-  Atlanta, Columbus, New Jersey, Altamont NY, Long Beach NY.
+- A **pin for each home city**: Bend, Portland, Santa Barbara, San Diego,
+  Los Angeles, Atlanta, Columbus, New Jersey, Altamont NY, Long Beach NY.
 - **Gently curved dashed lines** from each pin to Sandwich (a star on the
   Cape). Lines for flyers end at their suggested airport (BOS or PVD).
   Drivers get solid "road" lines.
@@ -761,6 +774,7 @@ prescriptive. Each card has a headline tip plus one or two extras:
 |---|---|---|
 | Bend, OR | BOS | "No nonstop from Redmond, so connect via Seattle, Denver or Salt Lake, or drive to Portland for the nonstop." |
 | Portland, OR | BOS | "Alaska's nonstop red-eye gets you to Boston by breakfast." |
+| Santa Barbara, CA | BOS | "No nonstop from SBA. Connect via SFO, Denver or Seattle, or drive about 2 hours to LAX for the nonstops." |
 | San Diego, CA | BOS | "Look for a nonstop first. One-stops are plentiful." |
 | Los Angeles, CA | BOS | "Lots of nonstops. Compare LAX with Burbank or Orange County." |
 | **Atlanta, GA** | **BOS or PVD** | "**Check Providence too.** Delta flies there and fares can be lower, with an easier airport and about the same drive to Sandwich." |
@@ -805,8 +819,8 @@ the reunion.
 a slightly longer rental for the full week; get a real quote):
 - About **$375–475 per 6-seat cart** for the week, plus tax
 - About **$185–225** delivery and pickup
-- **2 carts ≈ $1,000–1,250 total**, which works out to roughly $110–140 per
-  household if split among the 9 home cities
+- **2 carts ≈ $1,000–1,250 total**, which works out to roughly $100–125 per
+  household if split among the 10 home cities
 - On the site, show this as "**Estimated ~$400/cart for the week — split
   among families**" with a note that prices are estimates until quoted.
 
@@ -1084,7 +1098,7 @@ app: how it works" under Tech approach.)
 **Fun extras (optional)**
 - During reunion week, a "📸 **Photo Challenge**" list: *best croquet
   trash-talk face, Amanda's longest hit, the golf cart in motion, a sunset
-  from Tree House, all 9 families in one shot*. Uploaders can tag a photo
+  from Tree House, every family in one shot*. Uploaders can tag a photo
   with a challenge, and winners are announced at the farewell dinner.
 - After the reunion, the page flips to "**Relive it**" (gallery only, upload
   closed).
