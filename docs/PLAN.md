@@ -100,7 +100,23 @@ Purpose: help families find somewhere to stay on Cape Cod near Sandwich.
 **Launch version (keep it simple)**
 - Heading: **Where to Stay**
 - **Featured: our house.** A card for our house on Airbnb, showing:
-  - Name or short description of the house and a photo, if available
+  - **Photo carousel** of the house, using the photos from the Airbnb listing
+    - Swipe on phones. Arrows and dots on desktop. Don't auto-advance, or
+      make it gentle and pause on hover
+    - About 6–10 photos: outside, main house, the Old House, bedrooms, yard
+      or beach
+    - Save copies of the photos into the site (an `images/house/` folder)
+      instead of linking to Airbnb's image URLs, which can change or block
+      embedding
+    - Each photo gets a short caption and alt text (e.g. "The Old House,
+      front bedroom")
+  - Name or short description of the house
+  - **Availability callout**, styled as a badge:
+    > 🛏️ **4 bedrooms available for family**
+    > - Main house: the upstairs second bedroom
+    > - The Old House: all of its bedrooms
+  - Optional: a line on how to claim a room (e.g. "Reply on the RSVP form or
+    text us"). Mark rooms as taken once claimed
   - A **"View on Airbnb"** button linking to the listing:
     https://www.airbnb.com/h/twentyroos
 - **Placeholder notice** below the card, styled as a soft info banner:
@@ -200,7 +216,8 @@ A small side-by-side box below the cards:
 3. Set Google Flights price alerts for each origin city (see travel research)
 4. Decide the RSVP method
 5. Build the site skeleton (Home, Calendar and Travel first, since that's what people need earliest)
-6. Send a save-the-date with the site link
+6. Pick and save the house photos for the Accommodation carousel
+7. Send a save-the-date with the site link
 
 ## Sources (Red Sox schedule)
 - [MLB.com — Red Sox to open 2027 season March 25 in Seattle](https://www.mlb.com/news/red-sox-to-open-2027-season-march-25-in-seattle)
