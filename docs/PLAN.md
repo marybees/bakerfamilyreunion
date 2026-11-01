@@ -12,6 +12,79 @@ place for dates, travel, lodging, the schedule and RSVPs.
   Atlanta GA, Columbus OH (flying), plus New Jersey, upstate NY and
   Long Beach NY (driving)
 
+## Design & tone: the whole site (not built yet)
+
+**The big idea:** a family reunion website that takes itself *very*
+seriously. It should look as polished as a real company's site, with
+clean layout, confident typography and crisp photos, while the copy keeps
+quietly winking. **Professional on the surface, family reunion underneath.**
+The humor is in deadpan details, never slapstick.
+
+### Visual direction
+- **Palette: "Cape Cod, but make it corporate"**
+  - Deep **navy** (headers, footer)
+  - **Sand / off-white** (page background)
+  - **Sea-glass green** and **sky blue** (accents, links). The blues pair
+    nicely with the Agent Relay logo
+  - **Cranberry red** for highlights and calls to action, a nod to
+    Alexander Boght, cranberry bog foreman (see About tab)
+- **Type:** an elegant serif for headlines (e.g. Fraunces or Playfair) and
+  a clean sans-serif for body text (e.g. Inter). It should read like an
+  annual report.
+- **Imagery:** real photos of the house, beach and family, plus simple
+  line-drawn icons (croquet mallet, bocce ball, lobster, golf cart, dice)
+  in one consistent style.
+- **Details:** thin nautical-stripe dividers, rounded cards, generous white
+  space, light motion only (a gentle hover lift, nothing bouncy).
+- Mobile-first, accessible contrast, and it works in light mode, with dark
+  mode optional.
+
+### Humor guidelines (so it stays subtle)
+- **About one joke per section.** Let the design do the "professional" part.
+- **Deadpan corporate voice** applied to family things. That's the
+  running gag.
+- **Never at a specific relative's expense** (no names in jokes unless
+  they've opted in), and nothing that excludes in-laws or newcomers.
+- Jokes should never get in the way of real info: dates, addresses and
+  sign-ups stay crystal clear.
+
+### Running gags & microcopy ideas
+| Where | Idea |
+|---|---|
+| Site title | **Baker Family Reunion 2027** with a tiny "™" that, on hover, says "not actually trademarked" |
+| Home tagline | "Reconvening the Bakers since [year]. Attendance strongly encouraged." |
+| Home stats bar | "**9** cities · **1** house · **7** game nights · **0** electricity before 1963 · **∞** croquet grudges" |
+| Countdown | "**143** days until mandatory fun" |
+| Buttons | "Claim your bunk" (Accommodation) · "Volunteer as tribute" (host game night) · "Feed the masses" (dinner sign-up) · "Report for duty" (RSVP) |
+| Testimonials strip | Fake-but-affectionate quotes: *"I was told there would be lobster." — A Baker, 2027* · *"Five stars. Would reunite again." — Also a Baker* |
+| "As seen in" bar | "As seen in: the family group chat · Grandma's fridge · that one Christmas card" (text only, no real logos) |
+| Travel tab | "Our logistics team (Mary) has analyzed fare data so you don't have to." |
+| Itinerary | Game nights labeled as "**Executive Strategy Sessions**" in small caps, with "(it's Codenames)" underneath |
+| Calendar legend | "Amber = flying on this day is a choice, and you'll live with it" |
+| Golf carts | "Our fleet: two (2) vehicles. Range: the yard." |
+| Forms | Success message: "Got it. Your contribution has been logged with Corporate." |
+| Loading state | "Herding cousins…" |
+| 404 page | "This page went to the beach. Try the home page, or check the porch." |
+| Privacy note | "We take your privacy as seriously as we take croquet." |
+
+### Footer
+- Dark navy background, three columns:
+  1. **Quick links** (all tabs)
+  2. **Contact the Reunion Committee** (an email or form, no personal phone
+     numbers)
+  3. **Sponsor**: subtle and small, bottom-right:
+     > *Proudly sponsored by* **[Agent Relay logo]**
+     - Logo file: `assets/sponsors/agent-relay-logo.png` (already in the
+       repo, cropped, transparent background). The wordmark is **white**, so
+       it needs the **dark footer** to be visible. Display it about 120–160px
+       wide.
+     - Links to Agent Relay's website (**URL to confirm**), opening in a
+       new tab.
+     - Optional deadpan line under it in tiny text: "Official relay partner
+       of the Baker Family Reunion. Relay races not included."
+- Bottom line: "© 2027 Baker Family Reunion Holdings (not a real company).
+  Made with love, sunscreen and an unreasonable amount of planning."
+
 ## Proposed pages
 1. **Home:** title, dates, location, countdown, headline announcements
    (see Home page spec below)
@@ -42,6 +115,8 @@ place for dates, travel, lodging, the schedule and RSVPs.
 The landing page should feel like a save-the-date: big, warm and simple.
 
 **Hero (top of page)**
+- Styled like a polished company homepage hero (see Design & tone), with
+  one deadpan tagline
 - Headline: **Baker Family Reunion 2027**
 - Dates: **June 30 – July 7, 2027** (update once dates are final)
 - Location line: **Sandwich, Massachusetts · Cape Cod · Boston**
@@ -609,7 +684,8 @@ they're getting there.
 10. Add any Baker ancestor or Mayflower facts for the About tab's "Ancestors corner", plus old photos of the house if you have them
 11. Pick and save the house photos for the Accommodation carousel
 12. Get a 2027 golf cart quote from C2 Vehicles (formerly CCE) and book by early spring
-13. Send a save-the-date with the site link
+13. Confirm Agent Relay's website URL for the footer sponsor link
+14. Send a save-the-date with the site link
 
 ## Sources (things to do)
 - [Wanderlog — Sandwich family restaurants](https://wanderlog.com/list/geoCategory/555800/)
