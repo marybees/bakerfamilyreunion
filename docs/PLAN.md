@@ -5,7 +5,7 @@ A simple, mobile-friendly site that gives every branch of the family one
 place for dates, travel, lodging, the schedule and RSVPs.
 
 ## Key facts
-- **Location:** Sandwich, MA (Cape Cod)
+- **Location:** Sandwich, MA (Cape Cod), with a day trip to Boston
 - **Dates:** July 4th week 2027. Proposed core window **Wed Jun 30 – Wed Jul 7**
   (see [travel-research.md](travel-research.md))
 - **Coming from:** Bend OR, Portland OR, San Diego CA, Los Angeles CA,
@@ -13,18 +13,85 @@ place for dates, travel, lodging, the schedule and RSVPs.
   Long Beach NY (driving)
 
 ## Proposed pages
-1. **Home:** dates, location, countdown, headline announcements
-2. **Travel** (its own tab off Home; see detailed spec below): calendar,
+1. **Home:** title, dates, location, countdown, headline announcements
+   (see Home page spec below)
+2. **Calendar** (its own tab; see spec below): one calendar with toggle
+   views for Travel, Activities and Everything
+3. **Travel** (its own tab off Home; see detailed spec below): travel calendar view,
    "where we're coming from" map, BOS vs PVD, city-by-city tips, driving and bridge-traffic tips,
    rental cars and carpools
-3. **Lodging:** the main house or rentals, nearby hotels and campgrounds,
+4. **Lodging:** the main house or rentals, nearby hotels and campgrounds,
    who's staying where
-4. **Schedule:** day-by-day events (July 4th fireworks, beach day, family
-   dinner, photo)
-5. **RSVP:** who's coming, arrival and departure dates and flights (feeds
+5. **Schedule:** day-by-day event details (Red Sox game, July 4th
+   fireworks, beach day, family dinner, photo). Feeds the Activities
+   calendar view
+6. **RSVP:** who's coming, arrival and departure dates and flights (feeds
    airport-pickup coordination)
-6. **Family:** family tree and photo sharing
-7. **FAQ:** what to pack, beaches, kids' activities, contact info
+7. **Family:** family tree and photo sharing
+8. **FAQ:** what to pack, beaches, kids' activities, contact info
+
+## Home page: spec (not built yet)
+
+The landing page should feel like a save-the-date: big, warm and simple.
+
+**Hero (top of page)**
+- Headline: **Baker Family Reunion 2027**
+- Dates: **June 30 – July 7, 2027** (update once dates are final)
+- Location line: **Sandwich, Massachusetts · Cape Cod · Boston**
+  - Sandwich and Cape Cod are home base. Boston is mentioned because of the
+    Red Sox outing and because most people fly into Logan.
+- Background: a Cape Cod image (beach, dunes or the Sandwich boardwalk), or
+  an illustrated Cape outline with a star on Sandwich
+- Countdown: "X days until we're on the Cape"
+
+**Below the hero**
+- Navigation tabs: Home · Calendar · Travel · Lodging · Schedule · RSVP ·
+  Family · FAQ
+- Two or three quick cards linking to the most important pages, e.g.
+  "Plan your trip" (Travel), "See the calendar" (Calendar), "RSVP"
+- Short announcements area for updates like "Red Sox tickets on sale"
+
+## Calendar page: spec (not built yet)
+
+One calendar covering Sun Jun 27 – Sat Jul 10, 2027, with **toggle tabs** at
+the top to switch between views. Each view uses its own color family, and
+**Everything** combines them all.
+
+| Tab | Shows | Color family |
+|---|---|---|
+| **Travel** | Best arrival days, avoid-flying days, best departure days, holiday | Greens, ambers and blues (as in the Travel spec) |
+| **Activities** | Red Sox game, July 4th, beach day, family dinner, group photo, etc. | **Red** for the Red Sox game, purple or teal for other activities |
+| **Everything** | Travel and activities together | All colors, with a combined legend |
+
+**Behavior**
+- Tabs are a simple segmented toggle: `Travel | Activities | Everything`.
+  The default view is **Everything**.
+- Each day cell shows small color-coded chips (e.g. "⚾ Red Sox @ Fenway",
+  "🎆 July 4th"). Tapping a chip opens details: time, place, drive time and
+  links.
+- The legend below the calendar updates to match the selected tab.
+- On phones, the month grid becomes a day-by-day list with the same colors.
+- The Travel tab page embeds the **Travel** view, and the Schedule page links
+  to the **Activities** view, so there's one calendar and no duplicates to
+  keep in sync.
+- Colors need enough contrast, and every chip has an icon and label, so
+  meaning doesn't rely on color alone.
+- Optional: an "Add to my calendar" (.ics) link per event.
+
+**Red Sox game**
+- The 2027 MLB schedule is out. The Red Sox are home at Fenway around the
+  holiday weekend against the **Baltimore Orioles**. NBC Sports Boston lists
+  a game on **Sunday, July 4**, while ticket sites show games on Fri Jul 2
+  and Sat Jul 3. Game times are still TBD.
+- **To do:** confirm the exact date and time on MLB.com/redsox, pick the
+  game and decide on group tickets.
+- Fenway is about 1–1.5 hours from Sandwich, longer with holiday traffic.
+  Plan carpools or take the Plymouth & Brockton bus from the Sagamore park &
+  ride to South Station plus the T. Add a note to the event detail.
+- If the family is going to the July 4th game, plan around fireworks: Boston
+  (Esplanade) vs. local Cape fireworks that night.
+- Possible bonus: a **Cape Cod Baseball League** game (summer collegiate
+  league, free, very family-friendly). Several teams play near Sandwich.
 
 ## Travel tab: detailed spec (not built yet)
 
@@ -32,6 +99,7 @@ The Travel tab is linked from the main navigation on the Home page. It has
 three sections, top to bottom.
 
 ### 1. Calendar of proposed dates
+This is the **Travel view** of the shared calendar (see Calendar page spec).
 A June/July 2027 month view (Sun Jun 27 – Sat Jul 10) with color-coded days
 and a small legend:
 
@@ -101,7 +169,14 @@ A small side-by-side box below the cards:
 
 ## Next steps
 1. Confirm the exact reunion dates and venue/lodging
-2. Set Google Flights price alerts for each origin city (see travel research)
-3. Decide the RSVP method
-4. Build the site skeleton and Travel page first, since that's what people need earliest
-5. Send a save-the-date with the site link
+2. Confirm the Red Sox game date and time and decide on group tickets
+3. Set Google Flights price alerts for each origin city (see travel research)
+4. Decide the RSVP method
+5. Build the site skeleton (Home, Calendar and Travel first, since that's what people need earliest)
+6. Send a save-the-date with the site link
+
+## Sources (Red Sox schedule)
+- [MLB.com — Red Sox to open 2027 season March 25 in Seattle](https://www.mlb.com/news/red-sox-to-open-2027-season-march-25-in-seattle)
+- [NBC Sports Boston — Red Sox 2027 schedule](https://www.nbcsportsboston.com/mlb/boston-red-sox/2027-schedule-opening-day-yankees-series/795708/)
+- [TickPick — Red Sox vs. Orioles, Sat July 3, 2027](https://www.tickpick.com/buy-boston-red-sox-vs-baltimore-orioles-tickets-fenway-park-7-3-27-3am/8140167/)
+- [Sportsbrackets — 2027 Red Sox schedule](https://sportsbrackets.net/2026/06/04/2027-boston-red-sox-schedule/)
