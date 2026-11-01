@@ -296,8 +296,8 @@ the reunion.
 a slightly longer rental for the full week; get a real quote):
 - About **$375–475 per 6-seat cart** for the week, plus tax
 - About **$185–225** delivery and pickup
-- **2 carts ≈ $1,000–1,250 total**, which works out to roughly $85–105 per
-  family if split among ~12 households
+- **2 carts ≈ $1,000–1,250 total**, which works out to roughly $110–140 per
+  household if split among the 9 home cities
 - On the site, show this as "**Estimated ~$400/cart for the week — split
   among families**" with a note that prices are estimates until quoted.
 
