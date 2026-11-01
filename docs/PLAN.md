@@ -300,8 +300,9 @@ which stays out of the repo)
   (mac & cheese). Optional Red Sox card caption: *"Official Team Spirit
   Officer. Has the shirt to prove it."*
 - Bend angle: he has the **longest trip in the family** (no nonstop, one
-  connection, see the Trip tab). Trip map/arrivals gag: *"Uncle Mike:
-  traveled farther than the Pilgrims' landing party, complained less."*
+  connection, see the Trip tab). Trip map/arrivals gag: *"Bend Bakers:
+  longest commute in the company. Awarded the Frequent Flyer Medal of
+  Honor."*
   Bend family portrait prop: hiking poles, plus a Red Sox cap, because some
   loyalties don't change with the time zone.
 - Remember the rule: exaggerate the grin, the shirt and the thumbs-up, not
@@ -433,8 +434,8 @@ how they're told.
 >
 > **The Pilgrims** first made landfall at the tip of the Cape in 1620,
 > then settled at **Plymouth**, about 20 minutes up the road. It took them
-> 66 days to cross the Atlantic. Our Bend relatives will need just one
-> connection in Seattle, and they'll still complain.
+> 66 days to cross the Atlantic. Our Bend relatives will do it in one
+> connection through Seattle, which we consider a major improvement.
 
 > 🏛️ **Neighborhood landmarks**
 > - **The Wing Fort House (1641)**, on **Spring Hill Road**, is **within
