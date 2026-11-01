@@ -102,7 +102,7 @@ Purpose: help families find somewhere to stay on Cape Cod near Sandwich.
 - **Featured: our house.** A card for our house on Airbnb, showing:
   - Name or short description of the house and a photo, if available
   - A **"View on Airbnb"** button linking to the listing:
-    `AIRBNB_LINK_TBD` (link to come)
+    https://www.airbnb.com/h/twentyroos
 - **Placeholder notice** below the card, styled as a soft info banner:
   > 🏡 **More places to stay coming soon!** We're gathering rental house
   > suggestions around Sandwich and Cape Cod, and we'll add them here in
@@ -197,11 +197,10 @@ A small side-by-side box below the cards:
 ## Next steps
 1. Confirm the exact reunion dates and venue/lodging
 2. Confirm the Red Sox game date and time and decide on group tickets
-3. Send the Airbnb link for our house (for the Accommodation tab)
-4. Set Google Flights price alerts for each origin city (see travel research)
-5. Decide the RSVP method
-6. Build the site skeleton (Home, Calendar and Travel first, since that's what people need earliest)
-7. Send a save-the-date with the site link
+3. Set Google Flights price alerts for each origin city (see travel research)
+4. Decide the RSVP method
+5. Build the site skeleton (Home, Calendar and Travel first, since that's what people need earliest)
+6. Send a save-the-date with the site link
 
 ## Sources (Red Sox schedule)
 - [MLB.com — Red Sox to open 2027 season March 25 in Seattle](https://www.mlb.com/news/red-sox-to-open-2027-season-march-25-in-seattle)
