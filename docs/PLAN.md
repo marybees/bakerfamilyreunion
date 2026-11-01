@@ -377,7 +377,7 @@ which stays out of the repo)
     cabin" earns its name
   - **2027:** the first East Coast edition, at 20 Roos Road (shown on the
     site as "the house in Sandwich")
-- **Tubby** (the host family's dog; she/her) | see her row in the table
+- **Tubby** (the host family's dog; she/her): see her row in the table
   above. She's the face of the Explore tab.
 - **The Altamont Bakers** (Simon, Jenny, Oliver, Thatcher) drive in from
   upstate New York, about 3.5 hours. Portrait idea: all four squeezed into
