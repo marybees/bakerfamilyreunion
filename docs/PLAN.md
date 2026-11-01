@@ -268,30 +268,61 @@ A small side-by-side box below the cards:
   **Worth checking when fares are cheaper, especially from Atlanta.**
 - Tip: search both airports at once in Google Flights ("BOS, PVD").
 
-### 5. Getting around on the Cape: golf cart rentals
-A friendly section for getting around once everyone's here: zipping between
-houses, to the beach or into Sandwich village.
+### 5. Golf cart rentals
+A friendly section for renting golf carts to get around the property during
+the reunion.
 
-- **Card for the rental company we've used before** (in Buzzards Bay or
-  Bourne). Name and link to be confirmed by the family. Show the name,
-  town, link, phone, and whether they deliver to the house.
-- **Lead found so far:** [C2 Vehicles](https://c2vehicles.com/pages/cape-cod-golf-carts),
-  based in **Wareham** (right next to Buzzards Bay). Their site says they
-  serve Bourne and Sandwich and deliver across Cape Cod. Confirm whether
-  this is the company we used, and whether they do short-term rentals for
-  a week.
-- Room for one or two more options once found.
-- **Good-to-know tips:**
-  - **Book early.** July 4th week is the busiest week of the summer.
-  - In Massachusetts a regular golf cart isn't street-legal. Rent a
-    **street-legal low-speed vehicle (LSV)** with lights, mirrors, seat belts
-    and a windshield. These are generally allowed only on roads posted at
-    30 mph or less, and rules vary by town.
-  - A licensed driver is required. Follow the seat-belt and kids rules.
-  - Note how many carts the family might want (e.g. one 6-seater per house)
-    so someone can place a group order.
-- Optional: a "Want a golf cart?" checkbox on the RSVP form to gauge
-  interest.
+**Recommended company: CCE Golf Carts (now C2 Vehicles)**
+- We rented from **Country Club Enterprises (CCE)** in 2021. CCE now
+  operates as **C2 Vehicles**, at the same address.
+- **Website:** https://c2vehicles.com (golf cart page:
+  https://c2vehicles.com/pages/cape-cod-golf-carts, online booking:
+  https://book.c2vehicles.com)
+- **Location:** 2D Express Drive, Wareham, MA 02571 (next to Buzzards Bay)
+- **Phone:** (508) 273-9939 · weekdays 8–5, Saturdays by appointment
+- They **deliver to and pick up from the house**.
+- Card on the site shows the logo or name, "Family favorite — we used them
+  in 2021", a **"Visit C2 Vehicles"** button, and the phone number.
+
+**What we paid in 2021 (starting point for budgeting)**
+
+| Item | 2021 price |
+|---|---|
+| Gas Club Car **6-passenger** w/ windshield, canopy & headlights | **$315 per cart** for a 5-day rental (Thu–Tue), + 6.25% MA tax |
+| Delivery + pickup to East Sandwich | **$160** (flat, round trip) |
+| **Total for 2 carts** | **$829.38** |
+
+**Rough 2027 estimate** (assumes about 15–30% price increases since 2021 and
+a slightly longer rental for the full week; get a real quote):
+- About **$375–475 per 6-seat cart** for the week, plus tax
+- About **$185–225** delivery and pickup
+- **2 carts ≈ $1,000–1,250 total**, which works out to roughly $85–105 per
+  family if split among ~12 households
+- On the site, show this as "**Estimated ~$400/cart for the week — split
+  among families**" with a note that prices are estimates until quoted.
+
+**Important rules from the rental agreement (show as a short "Know before
+you ride" box)**
+- 🚫 **Carts stay on the property.** They are **not street-legal**, and the
+  agreement prohibits driving them on public roads. They're not for trips to
+  the beach or into town.
+- 🪪 **Every driver needs a valid driver's license.**
+- 👥 **Max 2 people per bench seat** (6 per cart). No standing on the back.
+- 🔑 Remove keys after each use and store carts safely overnight.
+- 🧼 Return carts clean. The renter pays for any damage.
+- If C2 now rents **street-legal LSVs** (they sell them), ask about that
+  option for beach and village trips. Rules vary by town and are limited to
+  roads posted at 30 mph or less.
+
+**Booking plan**
+- One person places a **group order**, likely 2 carts as in 2021, adjusted
+  for headcount.
+- Call or book by **early spring 2027**. July 4th week is peak season, and
+  delivery slots fill up.
+- Optional "Chip in for golf carts" line or checkbox on the RSVP form to
+  gauge interest and split costs.
+- Privacy: don't put personal details from the old rental agreement (names,
+  address, phone, email) on the website or in the repo.
 
 ### 6. Smaller supporting bits
 - "When to book" tip: set price alerts now, aim to book by March–April 2027,
@@ -346,10 +377,14 @@ houses, to the beach or into Sandwich village.
 6. Rough out the daily itinerary and confirm which games and nights to include
 7. Build the site skeleton (Home, Calendar and Travel first, since that's what people need earliest)
 8. Pick and save the house photos for the Accommodation carousel
-9. Confirm the golf cart rental company we used before (Buzzards Bay or Bourne) and add its link
+9. Get a 2027 golf cart quote from C2 Vehicles (formerly CCE) and book by early spring
 10. Send a save-the-date with the site link
 
 ## Sources (golf carts)
+- 2021 CCE rental agreement (family records, not published)
+- [C2 Vehicles — About us (formerly Country Club Enterprises)](https://c2vehicles.com/pages/about-us)
+- [C2 Vehicles — Contact](https://c2vehicles.com/pages/contact)
+- [C2 Vehicles — Online booking](https://book.c2vehicles.com/)
 - [C2 Vehicles — Cape Cod golf carts](https://c2vehicles.com/pages/cape-cod-golf-carts)
 - [C2 Vehicles — Street-legal golf cart laws in New England](https://c2vehicles.com/blogs/news/street-legal-golf-cart-laws-new-england)
 
