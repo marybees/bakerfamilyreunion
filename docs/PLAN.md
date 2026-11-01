@@ -122,9 +122,86 @@ The landing page should feel like a save-the-date: big, warm and simple.
 - Location line: **Sandwich, Massachusetts · Cape Cod · Boston**
   - Sandwich and Cape Cod are home base. Boston is mentioned because of the
     Red Sox outing and because most people fly into Logan.
-- Background: a Cape Cod image (beach, dunes or the Sandwich boardwalk), or
-  an illustrated Cape outline with a star on Sandwich
+- **Centerpiece: the watercolor illustration of our house**
+  (`assets/images/house-watercolor.png`, already in the repo) on a soft
+  watercolor-paper background, with the headline above it. See "Hero
+  illustration & family vignettes" below.
 - Countdown: "X days until we're on the Cape"
+
+### Hero illustration & family vignettes
+
+The house watercolor is the stage, and small **illustrated vignettes of
+family members** are layered on top in the same watercolor style. Together
+they form a living picture of reunion week. It looks like a polished
+illustration at first glance, and the jokes reveal themselves the longer
+you look.
+
+**Vignettes (first set)**
+
+| # | Scene | Where it sits on the illustration | The subtle joke |
+|---|---|---|---|
+| 1 | **Uncle Mike in a golf cart** | Cruising the gravel driveway toward the white picket gate | Tiny sign on the cart: "Fleet vehicle #1 of 2." Tooltip: "Range: the yard." |
+| 2 | **Freddy and May playing t-ball** in the yard | The lawn in front of the house (based on the t-ball photo) | The ball is still on the tee. The bat is mostly decorative |
+| 3 | **Uncle Mike making Gramps' famous macaroni and cheese** | In the kitchen window, or on a porch grill-side table | Steam shaped like a tiny trophy. Tooltip: "Recipe classified. Clearance level: Gramps." |
+| 4 | **Uncle Sean hosting game night** *and/or* **teaching kids sports** | Game night: lit window at dusk. Kids sports: side lawn with cones and a whistle | Shirt or clipboard reads **"Kids Sports"** (his business). Tooltip: "Head Coach, Department of Mandatory Fun." |
+| 5 | **Amanda playing professional softball on the t-ball field**, dominating | Same lawn as #2, in full pro gear | She's sent a ball over the trees (a tiny star twinkle in the sky). Toddlers stare in awe. Scoreboard on the fence: "AMANDA 47 · EVERYONE ELSE 0" |
+| 6 | **A cartoon of each family** | See "Meet the Bakers" below | |
+
+**How it works on the page**
+- **Desktop:** vignettes are layered images positioned over the house
+  illustration. Hovering over one gently lifts it and shows a caption, e.g.
+  *"Uncle Mike, Director of Fleet Operations."*
+- **Phone:** the house image stays clean. Vignettes appear as a swipeable
+  strip of round "character cards" right below it, each with a caption.
+- Optional delight: on each page load a **different vignette animates
+  slightly** (cart rolls a few pixels, ball pops off the tee), with
+  reduced-motion respected.
+- Alt text for every vignette (e.g. "Illustration of Uncle Mike driving a
+  golf cart up the driveway").
+
+**"Meet the Bakers": a cartoon of each family**
+- One illustrated "family portrait" per household, in the same watercolor
+  style, holding something from their home city (e.g. Portland: coffee and
+  an umbrella; Bend: hiking poles; San Diego: surfboard; Atlanta: a peach;
+  Columbus: a buckeye; New Jersey: a bagel, held defensively).
+- Used in three places:
+  1. **Home page:** a "Meet the Bakers" row below the hero
+  2. **Travel tab map:** each family's cartoon sits on their home-city pin
+     and "travels" to the Cape along the route line
+  3. **Arrivals board and Calendar:** small avatar on their arrival chip
+- Each card: family name, home city, and a deadpan "title" (e.g. "The
+  Atlanta Bakers: Southeast Regional Office").
+
+**Making the illustrations (AI-generated)**
+- Generate with an AI image tool, using family photos as **reference** and
+  the house watercolor as the **style reference**, so everything looks like
+  one artist made it.
+- Shared style prompt (starting point):
+  > *Loose, warm watercolor illustration on textured paper, soft pastel
+  > palette matching a Cape Cod saltbox house painting, gentle ink outlines,
+  > whimsical and affectionate, storybook feel, transparent background,
+  > no text.*
+- Scene prompts, one per vignette, e.g.:
+  > *[style prompt] + a cheerful middle-aged man (based on reference photo)
+  > driving a six-seat golf cart with a canopy down a gravel driveway
+  > toward a white picket gate, small sign on the cart reads "#1".*
+- Output: **transparent PNGs** (so they layer over the house), about 2×
+  display size for sharp screens.
+- Generate a few options per scene, and let the family vote on favorites
+  (it could even be an RSVP-page poll).
+- **Get a yes from each person** (or their parents for kids) before their
+  likeness goes on the site.
+
+**Assets & privacy**
+- House watercolor: `assets/images/house-watercolor.png` (898×449). **A
+  higher-resolution version (2000px+ wide) is needed** for a sharp
+  full-width hero. Send the original file if you have it.
+- Family reference photos are **kept out of the repo**. They're only used
+  to make the illustrations. GitHub Pages sites (on free accounts) are
+  served from public repos, so anything committed is public. Only the
+  finished illustrations go into the site.
+- Use first names only in captions (as above). No last names, ages or
+  schools for kids.
 
 **Below the hero**
 - Navigation tabs: Home · Calendar · Travel · Accommodation · Itinerary · Things to Do · About · RSVP ·
@@ -779,9 +856,11 @@ they're getting there.
 7. Rough out the daily itinerary and confirm which games and nights to include
 8. Build the site skeleton (Home, Calendar and Travel first, since that's what people need earliest)
 9. Add any Baker ancestor or Mayflower facts for the About tab's "Ancestors corner", plus old photos of the house if you have them
-10. Pick and save the house photos for the Accommodation carousel
-11. Get a 2027 golf cart quote from C2 Vehicles (formerly CCE) and book by early spring
-12. Send a save-the-date with the site link
+10. Send family photos (and home cities) for the illustrations, confirm who's in the t-ball photo, and get everyone's OK to be illustrated
+11. Send a high-resolution version of the house watercolor
+12. Pick and save the house photos for the Accommodation carousel
+13. Get a 2027 golf cart quote from C2 Vehicles (formerly CCE) and book by early spring
+14. Send a save-the-date with the site link
 
 ## Sources (things to do)
 - [Wanderlog — Sandwich family restaurants](https://wanderlog.com/list/geoCategory/555800/)
