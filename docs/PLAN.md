@@ -263,55 +263,106 @@ tab
 A guide to Sandwich and nearby for downtime between lawn games and dinners.
 It has two sections, toggled like the Calendar: `Restaurants | Activities`.
 
-**Starting point: our Airbnb listing.** Pull in the recommendations from the
-listing's description and guidebook (https://www.airbnb.com/h/twentyroos),
-then add family favorites. *(Claude couldn't reach Airbnb from this session.
-Copy and paste the guidebook text or screenshots to bring them in.)*
+**Starting point: our Airbnb guidebook.** The house's guidebook
+recommendations (received as screenshots, November 2026) are the core of
+this tab. Each one gets a ⭐ **"House pick"** badge. Other ideas are
+labeled "Also nearby".
 
-**Card layout (both sections)**
+**Card layout (all sections)**
 - Photo, name, short "why we love it" line, town and **drive time from the
   house**
-- Tags: 👨‍👩‍👧 kid-friendly · 🌧️ rainy-day · 💲–💲💲💲 · 🐕 dog-friendly ·
-  🚲 bikeable
+- Tags: 👨‍👩‍👧 kid-friendly · 🌧️ rainy-day · 💲–💲💲💲 · 🛟 lifeguards ·
+  📞 reserve ahead · 🚲 bikeable
 - Buttons: **Website** and **Map** (opens Google/Apple Maps)
-- ⭐ **"Baker family favorite"** badge for places the family already loves
 - Optional mini-map showing every pin around the house
 - Optional "👍 I want to go!" button per card (stored in the Google Sheet) to
   spot group outings. Popular picks can become Calendar events
+- **Running gag:** a small gray **"Recommended, not personally verified"**
+  ribbon on places the hosts admit they haven't done (the Glass Museum and
+  the Wing Fort House), with a tooltip: "We've heard great things. We've
+  just been busy with croquet."
 
-### Restaurants
-Grouped so people can find what they need fast:
+### Restaurants (from the guidebook)
 
-| Group | Starter ideas (verify hours and details before launch) |
-|---|---|
-| **Seafood & lobster** | **Fishermen's View** (Sandwich marina, canal views, deck, fish market) · **Seafood Sam's** (casual, kid-friendly, budget lobster dinners) · **Captain Scott's Seafood** (beachy, covered outdoor seating) |
-| **Lobster to cook at the house** | **Superior Lobster & Seafood** (market with live lobsters and fresh fish). Great for a dinner sign-up night |
-| **Breakfast & coffee** | *(add from the Airbnb guidebook and family favorites)* |
-| **Ice cream & treats** | *(add family favorites)* |
-| **Big-group friendly** | Flag places that take reservations for 15+ or have large outdoor tables. Call ahead for July 4th week |
-| **Takeout / pizza** | Good for arrival nights or when nobody's signed up for dinner |
+| Place | The pitch (condensed from the guidebook) | Tags |
+|---|---|---|
+| ⭐ **Fishermen's View Seafood Market & Restaurant** | Exactly what the name promises: a great view of the Cape Cod Canal. Boats deliver fish straight to the restaurant. Our go-to when hosting guests. **Get the lobster & crab bucket** (great photos). Super-fresh sushi, solid lobster knuckle sandwich. Takeout from the seafood market via the Toast app | 📞 reserve ahead (waits get crazy) · 💲💲 |
+| ⭐ **Seafood Sam's** | A Sandwich staple right next to the Canal Visitor Center. Fresh and fast. Big fans of the **hot lobster roll and fried clams**. Walk the canal bike trail after | 👨‍👩‍👧 · 💲 |
+| ⭐ **Off The Grid** | Friends from Oklahoma say the **barbecue is legit**, need we say more? Food-truck-style, family-friendly outdoor spot with live summer music. Perfect after a beach day | 👨‍👩‍👧 · 💲 |
+| ⭐ **Pilot House Restaurant and Lounge** | A Sandwich native called it "the most expensive restaurant in Sandwich," and that's probably true. The food isn't Fishermen's View-level (in our opinion), but it's *the* place to celebrate and have drinks, with live music all summer. **The only nightlife in Sandwich we know of** | 💲💲💲 · 🎵 |
+| ⭐ **Estia** (at Mashpee Commons) | Great Greek restaurant. **We love the grilled octopus** | 💲💲 |
 
-- Tip on the page: **July 4th week is the busiest week of the year. Reserve
-  ahead for big groups.**
+**Also nearby / for dinner sign-up nights**
+- **Superior Lobster & Seafood**: live lobsters and fresh fish to cook at
+  the house. Ideal for a "lobster night" dinner sign-up
+- Fishermen's View market takeout (Toast app) also works for a dinner night
+- Still to add: **breakfast & coffee**, **ice cream**, **pizza / takeout**
+  (family favorites wanted)
+- Page tip: **July 4th week is the busiest week of the year. Reserve ahead
+  for big groups, especially Fishermen's View.**
 
-### Activities
-Grouped by type:
+### Activities (from the guidebook)
 
-| Group | Starter ideas |
-|---|---|
-| **Beaches** | **Town Neck Beach** (via the Sandwich Boardwalk; check boardwalk status) · **Scusset Beach** (gentle surf, canal views, good for families) · Sagamore Beach |
-| **Outdoors & biking** | **Cape Cod Canal bike path** (~7 miles each side, flat and paved) · Canal Visitor Center (watch ships and tugs) · Scusset Beach trails · Green Briar Nature Center (East Sandwich) |
-| **Family & kids** | **Heritage Museums & Gardens** (100 acres of gardens, antique cars, vintage carousel, Adventure Park ropes course) · Sandwich Fish Hatchery |
-| **History & culture** | **Sandwich Glass Museum** (live glassblowing demos) · **Wing Fort House** (1641, walking distance on Spring Hill Road. We've never toured it, but you're welcome to) · Dexter Grist Mill (historic Sandwich village) |
-| **Sports** | **Cape Cod Baseball League** game (free, summer college league) · Red Sox at Fenway (see Calendar) · nearby golf courses |
-| **Rainy day** | Glass Museum, Heritage Museums, movie theater, board games at the house |
-| **Day trips** | Boston, Provincetown, Martha's Vineyard or Nantucket ferry (book ahead) |
+**🏖️ Beaches**
 
-- July 4th specials get their own highlight box: local parades, fireworks
-  and town events (to research closer to the date)
+| Beach | Drive | The pitch | Lifeguards |
+|---|---|---|---|
+| ⭐ **Scorton Creek** | **7 min** | Hidden gem. Calm, shallow water for swimming, floating, kayaking or inner tubes, plus hiking trails | — |
+| ⭐ **Town Neck Beach** | 9 min | Popular Sandwich beach with views of Cape Cod Bay and the canal entrance. Sand and pebbles, calm, clear water, good for swimming and paddleboarding | ❌ none |
+| ⭐ **East Sandwich Beach** | 10 min | Small, sometimes pebbly, laid-back. **It looks walkable on a map. It is not.** The route crosses private beaches, so drive | ❌ none |
+| ⭐ **Sandy Neck Beach** | 10 min | The big one: a wide stretch of sand, the classic Cape Cod beach day, plenty of parking. Watch for **piping plovers** and respect the roped-off nesting areas | ✅ yes, the safest bet for little swimmers |
+
+**🚣 On the water & on wheels**
+- ⭐ **Rideaway Adventures**: kayak and paddleboard rentals with
+  **pickup right at Scorton Creek**
+- ⭐ **Bike Zone Plus**: bike and **e-bike** rentals (multiple
+  locations). Hosts' pick: e-bike the **Cape Cod Rail Trail all the way to
+  Chatham**. Toddler **bike carriages** available. **Call ahead in peak
+  season**
+- Also nearby: the **Cape Cod Canal bike path** (flat, paved, starts by
+  Seafood Sam's)
+
+**🏛️ Sightseeing**
+- ⭐ **Cape Cod Canal Visitor Center**: interactive exhibits on the
+  canal's history and operations. Pair it with lunch at Seafood Sam's
+  (next door) or Fishermen's View
+- ⭐ **Heritage Museums & Gardens**: 100 acres of art, history and
+  nature. Antique cars, gardens, windmill and carousel. *(The guidebook's
+  favorite time is the May Rhododendron Festival, which we'll miss, so
+  skip that part on the site.)*
+- ⭐ **Sandwich Glass Museum** 🎗️ *recommended, not personally verified*:
+  5,000+ pieces of Sandwich glass and live glassblowing demos. Great rainy-day
+  pick
+- ⭐ **Wing Fort House** 🎗️ *recommended, not personally verified*: 63
+  Spring Hill Road, **walking distance**. The oldest house in New England
+  continuously owned by the same family for over three centuries. Pleasant
+  stroll, but **watch for speeding cars on Spring Hill Road**
+
+**🛍️ Shopping & rainy days**
+- ⭐ **Mashpee Commons**: open-air shopping village with boutiques,
+  big-name stores and lots of restaurants. Great on a rainy day. Includes
+  **Estia** (see Restaurants) and **The Lanes** bowling alley (a possible
+  family bowling tournament?)
+- ⭐ **Titcomb's Bookshop**: charming family-run bookstore in a historic
+  building. New and used books, gifts and Cape Cod titles. Look for the
+  colonial bookseller statue out front
+
+**Also nearby (not in the guidebook)**
+- **Sports:** Cape Cod Baseball League game (free) · Red Sox at Fenway (see
+  Calendar)
+- **History:** Dexter Grist Mill, Spring Hill Quaker Meeting House
+- **More beaches:** Scusset Beach, Sagamore Beach
+- **Day trips:** Boston, Provincetown, Martha's Vineyard or Nantucket ferry
+  (book ahead)
+- **July 4th highlight box:** local parades, fireworks and town events (to
+  research closer to the date)
+
+**Possible guidebook sections not yet received:** the screenshots start at
+Seafood Sam's. If the guidebook has entries above it (e.g. breakfast or
+coffee spots), send those too.
 
 **Content source & upkeep**
-- Start with the Airbnb guidebook plus the lists above, then let family
+- Start with the Airbnb guidebook (above), plus the "also nearby" ideas, then let family
   suggest additions through a "Suggest a place" form (adds to a **Things
   to Do** tab in the Google Sheet for the organizer to approve).
 - Re-check hours, closures (e.g. the boardwalk) and reservation policies in
@@ -680,11 +731,10 @@ they're getting there.
    under Tech approach
 7. Rough out the daily itinerary and confirm which games and nights to include
 8. Build the site skeleton (Home, Calendar and Travel first, since that's what people need earliest)
-9. Send the Airbnb guidebook recommendations (copy/paste or screenshots) for the Things to Do tab
-10. Add any Baker ancestor or Mayflower facts for the About tab's "Ancestors corner", plus old photos of the house if you have them
-11. Pick and save the house photos for the Accommodation carousel
-12. Get a 2027 golf cart quote from C2 Vehicles (formerly CCE) and book by early spring
-13. Send a save-the-date with the site link
+9. Add any Baker ancestor or Mayflower facts for the About tab's "Ancestors corner", plus old photos of the house if you have them
+10. Pick and save the house photos for the Accommodation carousel
+11. Get a 2027 golf cart quote from C2 Vehicles (formerly CCE) and book by early spring
+12. Send a save-the-date with the site link
 
 ## Sources (things to do)
 - [Wanderlog — Sandwich family restaurants](https://wanderlog.com/list/geoCategory/555800/)
