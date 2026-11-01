@@ -18,6 +18,7 @@ place for dates, travel, lodging, the schedule and RSVPs.
 2. **Calendar** (its own tab; see spec below): one calendar with toggle
    views for Travel, Activities and Everything
 3. **Travel** (its own tab off Home; see detailed spec below): travel calendar view,
+   "who's coming & when" shared travel plans,
    "where we're coming from" map, BOS vs PVD, city-by-city tips, driving and bridge-traffic tips,
    rental cars, carpools and golf cart rentals
 4. **Accommodation** (its own tab; see spec below): our house's Airbnb
@@ -26,8 +27,9 @@ place for dates, travel, lodging, the schedule and RSVPs.
    day-by-day plan (lawn games, Red Sox, July 4th) plus **sign-ups to host
    game night and dinner each night**. Sign-ups update the calendar
    automatically
-6. **RSVP:** who's coming, arrival and departure dates and flights (feeds
-   airport-pickup coordination)
+6. **RSVP:** who's coming and how many. Flight, arrival and lodging
+   details are shared on the Travel tab's "Who's coming & when" form, so
+   nobody enters them twice
 7. **Family:** family tree and photo sharing
 8. **FAQ:** what to pack, beaches, kids' activities, contact info
 
@@ -60,9 +62,9 @@ the top to switch between views. Each view uses its own color family, and
 
 | Tab | Shows | Color family |
 |---|---|---|
-| **Travel** | Best arrival days, avoid-flying days, best departure days, holiday | Greens, ambers and blues (as in the Travel spec) |
+| **Travel** | Best arrival days, avoid-flying days, best departure days, holiday, **plus everyone's shared arrivals and departures** | Greens, ambers and blues (as in the Travel spec). **Pink ✈️ arrival** and **gray 👋 departure** chips |
 | **Activities** | Red Sox game, July 4th, lawn games, dinners, game nights, group photo | **Red** Red Sox, **teal** lawn games, **orange** dinners, **purple** game nights |
-| **Everything** | Travel and activities together | All colors, with a combined legend |
+| **Everything** | Travel, arrivals/departures and activities together: the **master itinerary** | All colors, with a combined legend |
 
 **Behavior**
 - Tabs are a simple segmented toggle: `Travel | Activities | Everything`.
@@ -78,6 +80,18 @@ the top to switch between views. Each view uses its own color family, and
 - Colors need enough contrast, and every chip has an icon and label, so
   meaning doesn't rely on color alone.
 - Optional: an "Add to my calendar" (.ics) link per event.
+
+**Arrivals & departures (master itinerary)**
+- Every shared travel plan (see Travel tab §6) shows on its day:
+  - ✈️ **Arrival chip**, e.g. "✈️ Portland Bakers land BOS 7:05am"
+  - 👋 **Departure chip**, e.g. "👋 Atlanta Bakers fly home from PVD"
+  - 🚗 **Drivers too**, e.g. "🚗 NJ Bakers arrive ~3pm"
+- If a day has many arrivals, collapse them into one chip ("✈️ 6 families
+  arriving") that expands on tap.
+- **Headcount per day:** a small "👨‍👩‍👧 23 on the Cape" counter on each day,
+  calculated from arrival and departure dates. It shows when the house is
+  fullest and helps dinner hosts plan portions.
+- Optional filter: "Show only my family's arrival."
 
 **Red Sox game**
 - The 2027 MLB schedule is out. The Red Sox are home at Fenway around the
@@ -324,11 +338,52 @@ you ride" box)**
 - Privacy: don't put personal details from the old rental agreement (names,
   address, phone, email) on the website or in the repo.
 
-### 6. Smaller supporting bits
+### 6. "Who's coming & when": share your travel plans
+A fun, excitement-building section where each family shares how and when
+they're getting there.
+
+**Share form** (short, no login)
+- Name or family (e.g. "The Portland Bakers") and how many people
+- Coming from (pick from the home cities)
+- **Getting there:** ✈️ Flying / 🚗 Driving
+- **Arrival:** date, time, airport (BOS / PVD / other), airline + flight
+  number (optional)
+- **Departure:** date, time, airport, airline + flight number (optional)
+- **Where we're staying** (optional): "At the house", or the name or town of
+  a rental (e.g. "Airbnb in Sandwich village")
+- Fun optional extras: "Most excited for…" (e.g. "croquet revenge!") and a
+  photo or emoji
+- Checkboxes: "Need a ride from the airport", "Have room in my rental car
+  for N"
+- Families can update their entry later (same edit approach as the
+  dinner/game night sign-ups)
+
+**How it's shown**
+- **Arrivals board**, styled like an airport departures/arrivals screen
+  (a fun flip-board look): family · from · airline/flight · lands · airport.
+  Sorted by arrival time, with a "✅ Landed!" status the week of.
+- **"Where everyone's staying"** list: families grouped by the house or the
+  town of their rental, so people can see who's nearby.
+- On the "Where we're coming from" map (§2), each pin gets a little badge
+  once that family shares plans: "✈️ booked! Arriving Wed 6/30".
+- **Progress line:** "**7 of 9 families have shared travel plans**"
+- **Airport buddies:** automatically highlights families landing at the same
+  airport within about 2 hours of each other: "You and the Columbus Bakers
+  both land at BOS Wed afternoon — share a rental car?"
+- All of this feeds the **Calendar's arrivals and departures** (see Calendar
+  spec), which makes the **master itinerary**.
+
+**Privacy**
+- Shows family names, cities, dates/times, airports and flight numbers
+  only. No phone numbers, emails or home addresses.
+- Rental addresses are **not** shown, just the town or "near the house".
+  Exact addresses go to the organizer only.
+
+### 7. Smaller supporting bits
 - "When to book" tip: set price alerts now, aim to book by March–April 2027,
   and choose fares with free changes.
-- Rental cars and carpools: who's landing when (pulls from RSVP arrival info
-  later).
+- Rental cars and carpools: powered by the shared travel plans (§6), with
+  airport pickups and "airport buddies".
 - Content source: [travel-research.md](travel-research.md). Routes and dates
   must be re-verified before launch.
 
@@ -344,6 +399,7 @@ you ride" box)**
   |---|---|
   | **Game Night Host Signup** | Date · Game · Hosted by |
   | **Dinner Host Signup** | Date · Cuisine · Provided by |
+  | **Travel Plans** *(new tab to add)* | Family · People · From · Mode (Fly/Drive) · Arrival Date · Arrival Time · Arrival Airport · Arrival Flight · Departure Date · Departure Time · Departure Airport · Departure Flight · Staying At · Excited For · Needs Ride · Seats to Share |
 
   - **Two-way sync:** the website both **reads from** and **writes to** the
     sheet. Signing up on the site adds a row to the sheet, and typing in the
@@ -374,11 +430,13 @@ you ride" box)**
 3. Set Google Flights price alerts for each origin city (see travel research)
 4. Decide the RSVP method
 5. ~~Decide how sign-ups are stored~~ Done: family Google Sheet (two tabs)
-6. Rough out the daily itinerary and confirm which games and nights to include
-7. Build the site skeleton (Home, Calendar and Travel first, since that's what people need earliest)
-8. Pick and save the house photos for the Accommodation carousel
-9. Get a 2027 golf cart quote from C2 Vehicles (formerly CCE) and book by early spring
-10. Send a save-the-date with the site link
+6. Add a **Travel Plans** tab to the Google Sheet with the columns listed
+   under Tech approach
+7. Rough out the daily itinerary and confirm which games and nights to include
+8. Build the site skeleton (Home, Calendar and Travel first, since that's what people need earliest)
+9. Pick and save the house photos for the Accommodation carousel
+10. Get a 2027 golf cart quote from C2 Vehicles (formerly CCE) and book by early spring
+11. Send a save-the-date with the site link
 
 ## Sources (golf carts)
 - 2021 CCE rental agreement (family records, not published)
