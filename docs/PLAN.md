@@ -263,9 +263,11 @@ tab
 A guide to Sandwich and nearby for downtime between lawn games and dinners.
 It has two sections, toggled like the Calendar: `Restaurants | Activities`.
 
-**Starting point: our Airbnb guidebook.** The house's guidebook
-recommendations (received as screenshots, November 2026) are the core of
-this tab. Each one gets a ⭐ **"House pick"** badge. Other ideas are
+**Starting point: our Airbnb guidebook, "Tubby's Guide to Sandwich & The
+Cape."** Its recommendations (received as screenshots, November 2026) are
+the core of this tab. **Keep the name:** title the tab's intro "**Tubby's
+Guide to Sandwich & The Cape** (Reunion Edition)". Guidebook picks can carry
+a small **"Tubby-approved"** stamp as their ⭐ badge. Each one gets a ⭐ **"House pick"** badge. Other ideas are
 labeled "Also nearby".
 
 **Card layout (all sections)**
@@ -283,23 +285,72 @@ labeled "Also nearby".
   just been busy with croquet."
 
 ### Restaurants (from the guidebook)
+Grouped by meal so hungry relatives can find what they need fast.
 
-| Place | The pitch (condensed from the guidebook) | Tags |
+**☕ Coffee & breakfast**
+
+| Place | The pitch (condensed from the guidebook) | Order this |
 |---|---|---|
-| ⭐ **Fishermen's View Seafood Market & Restaurant** | Exactly what the name promises: a great view of the Cape Cod Canal. Boats deliver fish straight to the restaurant. Our go-to when hosting guests. **Get the lobster & crab bucket** (great photos). Super-fresh sushi, solid lobster knuckle sandwich. Takeout from the seafood market via the Toast app | 📞 reserve ahead (waits get crazy) · 💲💲 |
-| ⭐ **Seafood Sam's** | A Sandwich staple right next to the Canal Visitor Center. Fresh and fast. Big fans of the **hot lobster roll and fried clams**. Walk the canal bike trail after | 👨‍👩‍👧 · 💲 |
-| ⭐ **Off The Grid** | Friends from Oklahoma say the **barbecue is legit**, need we say more? Food-truck-style, family-friendly outdoor spot with live summer music. Perfect after a beach day | 👨‍👩‍👧 · 💲 |
-| ⭐ **Pilot House Restaurant and Lounge** | A Sandwich native called it "the most expensive restaurant in Sandwich," and that's probably true. The food isn't Fishermen's View-level (in our opinion), but it's *the* place to celebrate and have drinks, with live music all summer. **The only nightlife in Sandwich we know of** | 💲💲💲 · 🎵 |
-| ⭐ **Estia** (at Mashpee Commons) | Great Greek restaurant. **We love the grilled octopus** | 💲💲 |
+| ⭐ **Snowy Owl Cafe & Roastery** | The best coffee in Sandwich, a few minutes from the house on 6A. Seriously good empanadas, though few other food options | Breakfast empanada + iced almond-milk latte |
+| ⭐ **Café Chew** | "No trip to Sandwich is complete without grabbing a sandwich at Café Chew." Breakfast, brunch or lunch, dine in or to go | **The Cody Chew** (breakfast) · **The Mother Hen** (lunch) |
+| ⭐ **Café Riverview** | Breakfast to go, perfect before kayaking Scorton Creek. Supports the local Riverview School for students with learning challenges | Bacon, egg & cheese on a Portuguese roll · green smoothie |
+| ⭐ **The Deli** | A recent find with great breakfast sandwiches. Call ahead to skip the wait. *Don't expect NY-caliber bagels.* | Bacon, egg & cheese on a bagel |
 
-**Also nearby / for dinner sign-up nights**
-- **Superior Lobster & Seafood**: live lobsters and fresh fish to cook at
-  the house. Ideal for a "lobster night" dinner sign-up
-- Fishermen's View market takeout (Toast app) also works for a dinner night
-- Still to add: **breakfast & coffee**, **ice cream**, **pizza / takeout**
-  (family favorites wanted)
+> 🥯 *Site note:* The Deli card gets a tiny disclaimer for our New York and
+> New Jersey contingent: "Bagel expectations should be adjusted upon
+> crossing the Sagamore Bridge."
+
+**🥪 Lunch, bakeries & picnic supplies**
+
+| Place | The pitch | Order this |
+|---|---|---|
+| ⭐ **Beth's Bakery & Cafe** | Lunch spot in downtown Sandwich for sandwiches and salads, with a vintage country-cafe vibe. **Fun fact: Beth made our wedding cake** | Scones and éclairs (must-try) |
+| ⭐ **Lambert's Farm Market** | The best freshly baked **giant chocolate chip cookies**, need we say more? Great deli subs for a **Sandy Neck picnic**, plus a hot buffet and soup bar | **The Chairman's Club** sub |
+
+**🍔 Casual dinner, pizza & takeout**
+
+| Place | The pitch | Order this |
+|---|---|---|
+| ⭐ **Father's Kitchen & Taphouse** | **The closest restaurant and bar to the house**: a 3-minute drive or a 20-minute walk through the Norse Pines neighborhood (nice if you like looking at big houses). **With kids, note the short stretch of busy 6A with no sidewalk.** Surprisingly good Irish pub food, pizza and craft beer. A favorite spot outside with Tubby | Fish tacos on **Taco Tuesday** · meatball sausage pizza |
+| ⭐ **Sweet Tomatoes Pizza** | Onto something with their **drive-thru thin-crust pizza**. Our go-to, 7 minutes away. No delivery, but worth the trip | Classic pepperoni |
+| ⭐ **JD's Burger Co & Sushi** | Great takeout through the Toast app. Sushi and burgers sound like an odd combo, but they do both well | Takeout for a crowd |
+| ⭐ **Next Door Burger Bar** | Downtown Sandwich in a renovated Victorian. **Sit outside in the backyard**, it's a great vibe | Burgers + waffle fries |
+| ⭐ **Off The Grid** | Friends from Oklahoma say the **barbecue is legit**, need we say more? Food-truck-style, family-friendly outdoor spot with live summer music. Perfect after a beach day | BBQ |
+
+> 🌮 *Calendar tie-in:* **Tuesday, July 6, 2027 is a Taco Tuesday.** Suggest
+> a group walk/drive to Father's that night (or make it the farewell-eve
+> outing) and add it to the Activities calendar as an optional event.
+
+**🦞 Seafood**
+
+| Place | The pitch | Order this |
+|---|---|---|
+| ⭐ **Fishermen's View Seafood Market & Restaurant** | Exactly what the name promises: a great view of the Cape Cod Canal. Boats deliver fish straight to the restaurant. **Our go-to dinner spot when hosting guests.** Very popular, so **reserve ahead**. Takeout from the market via the Toast app | **Lobster & crab bucket** (great photos) · sushi · lobster knuckle sandwich |
+| ⭐ **Seafood Sam's** | A Sandwich staple right next to the Canal Visitor Center. Fresh and fast. Walk the canal bike trail after | Hot lobster roll · fried clams |
+| ⭐ **Pilot House Restaurant and Lounge** | A Sandwich native called it "the most expensive restaurant in Sandwich," and that's probably true. Not Fishermen's View-level food (in our opinion), but *the* place to celebrate and have drinks, with live music all summer. **The only nightlife in Sandwich we know of** | Drinks + celebrating |
+| ⭐ **Estia** (at Mashpee Commons) | Great Greek restaurant | **Grilled octopus** |
+
+**🍺 Drinks & sunsets**
+- ⭐ **Tree House Brewing – Cape Cod**: the newest gem in Sandwich.
+  Scenic drinks, great non-alcoholic seltzers and **beer to-go** for
+  barbecues at the house (reserve a pickup time on their website).
+  Apparently also pizza and lobster rolls ("new to us!"). **Tip: go at
+  sunset and grab an Adirondack chair on the upstairs balcony.** Possible
+  group sunset outing for the Activities calendar.
+
+**🛒 Groceries & dinner sign-up supplies**
+- ⭐ **Stop & Shop (Route 6A)**: nicer and less crowded than the one off
+  Cotuit Rd
+- **Superior Lobster & Seafood** (also nearby): live lobsters and fresh fish
+  for a "lobster night" dinner sign-up
+- Lambert's (subs, cookies), Fishermen's View market (Toast app) and Tree
+  House (beer to-go) also make dinner nights easy
+
+**Still to add:** 🍦 **ice cream** (family favorites wanted). It's the one
+category the guidebook doesn't cover.
+
 - Page tip: **July 4th week is the busiest week of the year. Reserve ahead
-  for big groups, especially Fishermen's View.**
+  for big groups, especially Fishermen's View, and call ahead to The Deli.**
 
 ### Activities (from the guidebook)
 
@@ -356,10 +407,6 @@ labeled "Also nearby".
   (book ahead)
 - **July 4th highlight box:** local parades, fireworks and town events (to
   research closer to the date)
-
-**Possible guidebook sections not yet received:** the screenshots start at
-Seafood Sam's. If the guidebook has entries above it (e.g. breakfast or
-coffee spots), send those too.
 
 **Content source & upkeep**
 - Start with the Airbnb guidebook (above), plus the "also nearby" ideas, then let family
