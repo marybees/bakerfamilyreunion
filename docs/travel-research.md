@@ -109,7 +109,7 @@ summer 2027.
 |---|---|
 | New Jersey | 4.5–5.5 hr |
 | Long Beach, NY | ~4.5 hr |
-| Upstate New York | 4–6 hr depending on town |
+| Altamont, NY (upstate, near Albany) | ~3.5 hr via the Mass Pike |
 
 Same advice as the flyers: **arrive Tue/Wed, avoid Friday July 2**, and
 cross the Sagamore Bridge early in the morning or late in the evening.

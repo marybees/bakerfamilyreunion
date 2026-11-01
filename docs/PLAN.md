@@ -10,7 +10,7 @@ place for dates, travel, lodging, the schedule and RSVPs.
 - **Dates:** July 4th week 2027. Proposed core window **Wed Jun 30 – Wed Jul 7**
   (see [travel-research.md](travel-research.md))
 - **Coming from:** Bend OR, Portland OR, San Diego CA, Los Angeles CA,
-  Atlanta GA, Columbus OH (flying), plus New Jersey, upstate NY and
+  Atlanta GA, Columbus OH (flying), plus New Jersey, Altamont NY (upstate) and
   Long Beach NY (driving)
 
 ## Design & tone: the whole site (not built yet)
@@ -291,6 +291,10 @@ which stays out of the repo)
 | Person | Signature look to capture | Supersized for the caricature | Appears in |
 |---|---|---|---|
 | **Uncle Mike** (Bend, OR) | Shaved head, big warm grin, black wraparound sunglasses, a loud **Red Sox print button-up shirt**, thumbs-up, smartwatch | The grin, the thumbs-up, and the Red Sox shirt (it's his uniform) | Golf cart (#1): sunglasses on, thumbs up, one hand on the wheel · Gramps' mac & cheese (#3): chef hat over the sunglasses, still in the Red Sox shirt · Bonus: leading the charge on the **Red Sox game** calendar card · **The Bend Bakers** family portrait and Bend pin on the Trip map |
+| **Simon** (Altamont, NY) | Tousled dark hair, a skeptical raised-eyebrow smirk, a **black bow tie on a casual blue short-sleeve snap shirt**, orange-band smartwatch | The bow tie (formal-casual is his brand) and the eyebrow | **The Altamont Bakers** portrait. Natural fit for the corporate gag: *"Simon, Chief Formality Officer. Business on top, reunion on the bottom."* Possible game-night host or croquet referee |
+| **Jenn** (Altamont, NY) | Tan baseball cap, black tee, eyes-closed proud grin, **holding a gold trophy with a crown** | The proud grin and the trophy | Altamont portrait, holding the trophy aloft. Lawn games or game night champion vignette |
+| **Oliver** (Altamont, NY) | Teen, tousled dark hair, **NY Rangers tee**, perfectly deadpan expression | The deadpan look (he's seen it all) | Altamont portrait, handing over (or reclaiming) the trophy. Bocce or volleyball vignette. A Rangers fan in Bruins country: *"Here on a diplomatic visa."* |
+| **Thatcher** (Altamont, NY; youngest) | Big wide eyes with a suspicious side-eye, enthusiastic thumbs-up, **American flag handprint tee**, boxes of **red, white and blue sprinkle donuts** | The side-eye, the thumbs-up and the donuts | **July 4th mascot**: thumbs-up next to a towering stack of patriotic donuts on the July 4th calendar card and Home "Today" view. Caption: *"Thatcher, VP of Snack Procurement."* |
 | Uncle Sean | *(photo to come)* | Whistle, clipboard, "Kids Sports" shirt | #4 |
 | Amanda | *(photo to come)* | The swing | #5 |
 | Freddy & May | *(photo to come)* | | #2 |
@@ -299,6 +303,14 @@ which stays out of the repo)
   (golf cart) and *"Uncle Mike, Executive Chef, Gramps' Recipe Division"*
   (mac & cheese). Optional Red Sox card caption: *"Official Team Spirit
   Officer. Has the shirt to prove it."*
+- **The Altamont Bakers** (Simon, Jenn, Oliver, Thatcher) drive in from
+  upstate New York, about 3.5 hours. Portrait idea: all four squeezed into
+  the frame around **the gold crown trophy**, Thatcher's donuts front and
+  center, with Simon's bow tie as the only formalwear. Deadpan title:
+  *"The Altamont Bakers: Northeast Regional Office."*
+- **The trophy** in Jenn and Oliver's photo could become a running site
+  element (e.g. a game night or Baker Games championship trophy shown on
+  the Schedule tab). *What is it? Confirm before using.*
 - Bend angle: he has the **longest trip in the family** (no nonstop, one
   connection, see the Trip tab). Trip map/arrivals gag: *"Bend Bakers:
   longest commute in the company. Awarded the Frequent Flyer Medal of
@@ -681,7 +693,7 @@ and a small legend:
 #### 2. "Where we're coming from" graphic
 A simple, illustrated map of the continental US (not a heavy interactive map).
 - A **pin for each home city**: Bend, Portland, San Diego, Los Angeles,
-  Atlanta, Columbus, New Jersey, upstate New York, Long Beach NY.
+  Atlanta, Columbus, New Jersey, Altamont NY, Long Beach NY.
 - **Gently curved dashed lines** from each pin to Sandwich (a star on the
   Cape). Lines for flyers end at their suggested airport (BOS or PVD).
   Drivers get solid "road" lines.
@@ -704,7 +716,7 @@ prescriptive. Each card has a headline tip plus one or two extras:
 | **Atlanta, GA** | **BOS or PVD** | "**Check Providence too.** Delta flies there and fares can be lower, with an easier airport and about the same drive to Sandwich." |
 | Columbus, OH | BOS (check PVD) | "Nonstops to Boston on Delta and American." |
 | New Jersey | Drive | "About 5 hours. Leave early to beat bridge traffic." |
-| Upstate NY | Drive | "4–6 hours. Plan to cross the Sagamore Bridge in the morning." |
+| Altamont, NY (upstate) | Drive | "About 3.5 hours via the Mass Pike, longer with holiday traffic. Plan to cross the Sagamore Bridge in the morning." |
 | Long Beach, NY | Drive | "About 4.5 hours. Avoid Friday, July 2." |
 
 #### 4. "Boston or Providence?" callout
