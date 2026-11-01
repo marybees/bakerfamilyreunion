@@ -36,8 +36,8 @@ The humor is in deadpan details, never slapstick.
   in one consistent style.
 - **Details:** thin nautical-stripe dividers, rounded cards, generous white
   space, light motion only (a gentle hover lift, nothing bouncy).
-- Mobile-first, accessible contrast, and it works in light mode, with dark
-  mode optional.
+- **Mobile-first** (see the next section), accessible contrast, and it works
+  in light mode, with dark mode optional.
 
 ### Humor guidelines (so it stays subtle)
 - **About one joke per section.** Let the design do the "professional" part.
@@ -84,6 +84,78 @@ The humor is in deadpan details, never slapstick.
        of the Baker Family Reunion. Relay races not included."
 - Bottom line: "© 2027 Baker Family Reunion Holdings (not a real company).
   Made with love, sunscreen and an unreasonable amount of planning."
+
+## Mobile-first web app (applies to every page)
+
+Most of the family will use this on their phones: at the airport, in the
+car and on the lawn. So **design for a phone first**, then let it stretch
+to tablets and desktops. It should feel like an app, not a website.
+
+### Install it like an app (PWA)
+- Build it as a **Progressive Web App**: "Add to Home Screen" on iPhone and
+  Android puts a **Baker Reunion app icon** (the watercolor house) on the
+  phone, which opens full-screen without the browser bars.
+- A friendly prompt on the Home page: *"Install the app. It's free, and
+  frankly the best app you'll download this year."* With a short "how
+  to" for iPhone (Share → Add to Home Screen).
+- **Works offline / on bad Cape cell service:** the essentials are saved
+  on the phone: house address and directions, the itinerary, the calendar,
+  sign-ups as last loaded, Things to Do and the FAQ. Shows "Last updated
+  2 hours ago" when offline.
+- Optional, later: **push notifications** for reunion-week announcements
+  ("Dinner is at 6," "Golf carts have arrived"). Works on Android, and on
+  iPhone once the app is installed to the home screen.
+
+### Navigation
+- **Bottom tab bar** (thumb-friendly), always visible on phones, with 5
+  tabs:
+  🏠 **Home** · 📅 **Calendar** · 🍽️ **Sign-ups** (Itinerary) ·
+  📸 **Photos** · ☰ **More**
+- **More** opens a clean list: Travel, Accommodation, Things to Do, About,
+  RSVP, Family, FAQ.
+- On desktop, the same items become a normal top menu (with "Plan" and "On
+  the Cape" drop-downs).
+- **During reunion week**, the Home tab becomes a "**Today**" view: today's
+  events, tonight's dinner and game-night hosts, the weather, and who's
+  arriving or leaving.
+
+### Phone-friendly design rules
+- **Big tap targets** (at least 44×44 px), with buttons within thumb reach
+  near the bottom. Main actions (Sign up, Upload, RSVP) are **sticky at
+  the bottom** of their pages.
+- **One column** on phones, with cards instead of tables. Every table in
+  this plan (city tips, beaches, restaurants) becomes a stack of
+  swipeable or tappable cards.
+- **Calendar:** on phones it defaults to a **day-by-day agenda list** with
+  the colored chips, and the month grid is optional.
+- **Maps:** the "Where we're coming from" map simplifies on small screens
+  (pins + list). Every address is a **tap to open in Apple/Google Maps**
+  link.
+- **Tap-to-act everywhere:** tap to call (restaurants, C2 Vehicles), tap
+  to text the organizer, tap for directions.
+- **Forms built for thumbs:** native date and time pickers, the right
+  keyboards (numbers for flight numbers, etc.), autofill, short forms, and
+  big "Done" buttons. The photo upload opens the **camera roll or camera**
+  directly.
+- **Bottom sheets** instead of pop-ups for details (event details, a
+  restaurant card), swipe down to close.
+- **Hero illustration:** the house watercolor fits the phone screen, and
+  vignettes become a swipeable character-card strip (see Home page spec).
+
+### Speed (Cape Cod cell service is not great)
+- Lightweight pages: aim for the Home page to load in **under 2 seconds on
+  a slow 4G connection**.
+- Images in modern formats (WebP/AVIF), sized for phones, lazy-loaded.
+- Minimal JavaScript. The sign-up, travel and photo data load after the
+  page shows, with skeleton placeholders ("Herding cousins…").
+
+### Testing
+- Test on a real **iPhone (Safari)** and a real **Android (Chrome)** before
+  sharing, plus a small phone (iPhone SE size) and a tablet.
+- Check installing to the home screen, offline mode, photo upload from the
+  camera roll, and sign-ups on cellular.
+- Accessibility: readable text sizes (16px+), works with larger system
+  fonts, VoiceOver/TalkBack labels, and reduced-motion support.
 
 ## Proposed pages
 1. **Home:** title, dates, location, countdown, headline announcements
@@ -866,9 +938,11 @@ they're getting there.
   must be re-verified before launch.
 
 ## Tech approach (proposal)
-- Static site (plain HTML/CSS, or a lightweight generator like Astro or
-  Eleventy) in this repo
-- Hosted free on **GitHub Pages**
+- **Mobile-first Progressive Web App**: a static site (plain HTML/CSS, or a
+  lightweight generator like Astro or Eleventy) in this repo, plus a **web
+  app manifest** (name, icons, theme colors) and a **service worker** for
+  offline caching
+- Hosted free on **GitHub Pages** (HTTPS, which PWAs require)
 - RSVP via an embedded form (e.g. Google Form) at first. Upgrade later if needed.
 - **Sign-ups are stored in the family Google Sheet** (decided):
   https://docs.google.com/spreadsheets/d/1-NZnvlRHNE7zUl2nkmGNHLoTnw7PlUIWrsRG9bzwx3Y/edit
