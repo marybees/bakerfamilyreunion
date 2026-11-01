@@ -20,8 +20,8 @@ place for dates, travel, lodging, the schedule and RSVPs.
 3. **Travel** (its own tab off Home; see detailed spec below): travel calendar view,
    "where we're coming from" map, BOS vs PVD, city-by-city tips, driving and bridge-traffic tips,
    rental cars and carpools
-4. **Lodging:** the main house or rentals, nearby hotels and campgrounds,
-   who's staying where
+4. **Accommodation** (its own tab; see spec below): our house's Airbnb
+   listing now. Cape Cod rental house suggestions come in early 2027
 5. **Schedule:** day-by-day event details (Red Sox game, July 4th
    fireworks, beach day, family dinner, photo). Feeds the Activities
    calendar view
@@ -45,7 +45,7 @@ The landing page should feel like a save-the-date: big, warm and simple.
 - Countdown: "X days until we're on the Cape"
 
 **Below the hero**
-- Navigation tabs: Home · Calendar · Travel · Lodging · Schedule · RSVP ·
+- Navigation tabs: Home · Calendar · Travel · Accommodation · Schedule · RSVP ·
   Family · FAQ
 - Two or three quick cards linking to the most important pages, e.g.
   "Plan your trip" (Travel), "See the calendar" (Calendar), "RSVP"
@@ -92,6 +92,33 @@ the top to switch between views. Each view uses its own color family, and
   (Esplanade) vs. local Cape fireworks that night.
 - Possible bonus: a **Cape Cod Baseball League** game (summer collegiate
   league, free, very family-friendly). Several teams play near Sandwich.
+
+## Accommodation tab: spec (not built yet)
+
+Purpose: help families find somewhere to stay on Cape Cod near Sandwich.
+
+**Launch version (keep it simple)**
+- Heading: **Where to Stay**
+- **Featured: our house.** A card for our house on Airbnb, showing:
+  - Name or short description of the house and a photo, if available
+  - A **"View on Airbnb"** button linking to the listing:
+    `AIRBNB_LINK_TBD` (link to come)
+- **Placeholder notice** below the card, styled as a soft info banner:
+  > 🏡 **More places to stay coming soon!** We're gathering rental house
+  > suggestions around Sandwich and Cape Cod, and we'll add them here in
+  > **early 2027**. Check back later for updates.
+
+**Later version (early 2027)**
+- A grid of rental house cards, each with:
+  - Photo, name and town (Sandwich, Bourne, Barnstable, Falmouth, etc.)
+  - Sleeps X, bedrooms and bathrooms, rough price per night
+  - Drive time to the reunion house
+  - Link to the listing (Airbnb, VRBO, etc.)
+- Optional filters: sleeps 6+, walk to the beach, pet-friendly
+- Optional "Who's staying where" list (pulls from RSVP) so families can
+  coordinate or share houses
+- Tip for families: Cape rentals for July 4th week book up early and many
+  are Saturday-to-Saturday. Book soon once options are posted.
 
 ## Travel tab: detailed spec (not built yet)
 
@@ -170,10 +197,11 @@ A small side-by-side box below the cards:
 ## Next steps
 1. Confirm the exact reunion dates and venue/lodging
 2. Confirm the Red Sox game date and time and decide on group tickets
-3. Set Google Flights price alerts for each origin city (see travel research)
-4. Decide the RSVP method
-5. Build the site skeleton (Home, Calendar and Travel first, since that's what people need earliest)
-6. Send a save-the-date with the site link
+3. Send the Airbnb link for our house (for the Accommodation tab)
+4. Set Google Flights price alerts for each origin city (see travel research)
+5. Decide the RSVP method
+6. Build the site skeleton (Home, Calendar and Travel first, since that's what people need earliest)
+7. Send a save-the-date with the site link
 
 ## Sources (Red Sox schedule)
 - [MLB.com — Red Sox to open 2027 season March 25 in Seattle](https://www.mlb.com/news/red-sox-to-open-2027-season-march-25-in-seattle)
