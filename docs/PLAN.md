@@ -125,7 +125,7 @@ It should still be instantly recognizable, but cartoon-ified:
 | Trip tab | "Our logistics team (Mary) has analyzed fare data so you don't have to." |
 | Schedule | Game nights labeled as "**Executive Strategy Sessions**" in small caps, with "(it's Codenames)" underneath |
 | Calendar legend | "Amber = flying on this day is a choice, and you'll live with it" |
-| Golf carts | "Our fleet: two (2) vehicles. Range: the yard." |
+| Golf carts | "The Uncle Mike Fleet Program. Our fleet: two (2) vehicles. Primary driver: Uncle Mike. Range: the yard." |
 | Forms | Success message: "Got it. Your contribution has been logged with Corporate." |
 | Loading state | "Herding cousins…" |
 | 404 page | "This page went to the beach. Try the home page, or check the porch." |
@@ -342,7 +342,7 @@ you look.
 
 | # | Scene | Where it sits on the illustration | The subtle joke |
 |---|---|---|---|
-| 1 | **Uncle Mike in a golf cart** | Cruising the gravel driveway toward the white picket gate | Tiny sign on the cart: "Fleet vehicle #1 of 2." Tooltip: "Range: the yard." |
+| 1 | **Uncle Mike in a golf cart** | Cruising the gravel driveway toward the white picket gate | Tiny sign on the cart: "Fleet vehicle #1 of 2 · Reserved: Uncle Mike." A tiny Gator photo is taped to the dashboard, for morale. Tooltip: "Range: the yard. Walking: not observed." |
 | 2 | **Freddy and May playing t-ball** in the yard | The big lawn by the gravel driveway and white picket gate (from the t-ball photo) | The ball is still on the tee. The bat is mostly decorative |
 | 3 | **Uncle Mike making Gramps' famous macaroni and cheese** | In the kitchen window, or on a porch grill-side table | Steam shaped like a tiny trophy. Tooltip: "Recipe classified. Clearance level: Gramps." |
 | 4 | **Uncle Sean hosting game night** *and/or* **teaching kids sports** | Game night: lit window at dusk. Kids sports: side lawn with cones and a whistle | Shirt or clipboard reads **"Kids Sports"** (his business). Tooltip: "Head Coach, Department of Mandatory Fun." |
@@ -398,6 +398,11 @@ which stays out of the repo)
 | **May** (Sandwich; the host family) | Blonde curls, sparkly dress and little sandals, all-in hugs. **Draw her a bit older than in the hug photo**, as she'll look in summer 2027 | The curls and the hugs | T-ball scene (#2), Michaela's welcome hug, and **the host family** portrait. Possible caption: *"May, Junior Hostess & Director of Hugs."* |
 | **Freddy** (Sandwich; the host family) | Blonde curls, round toddler belly, **bat slung over his shoulder like a pro**, serious batter's focus, red t-ball stand with a yellow ball (from the t-ball photo). **Draw him a bit older than in the photo**, and put him in little shorts or a tiny Red Sox shirt instead of a diaper | The pro-hitter swagger and the very serious concentration | **T-ball scene (#2)** with May on the big lawn. Optional: the Red Sox calendar card next to Uncle Mike, matching shirts. Caption idea: *"Freddy, Head of Player Development (t-ball division)."* Running joke: the ball is still on the tee, and he's the only one Amanda's softball scoreboard has spared |
 
+- **The Gator:** at Camp Whittier (2022, 2024) Uncle Mike was always
+  driving his beloved green-and-yellow **John Deere Gator**, everywhere,
+  constantly. It's his signature prop in the Camp Whittier timeline
+  cards, it's hidden in the 2024 shirt logo, and the 2027 golf carts are
+  rented in its honor. Reference photo kept out of the repo.
 - 2023 lore (see The Official Timeline): he led everyone on the hike to the
   kayaks, then didn't kayak. Optional title for his Meet the Bakers card:
   *"Director of Shore Operations. Undefeated against the lake."* Possible
@@ -512,6 +517,8 @@ next to Our Story and the T-Shirt Hall of Fame.
 > - **May is born the following month** (August 2022), making her the
 >   **youngest attendee in reunion history** and the only Baker to attend
 >   her first reunion before being born.
+> - **Uncle Mike drives the Gator everywhere.** Distances previously
+>   considered walkable are reclassified as "Gator distances."
 > - **Tubby completes a cross-country road trip** to attend and **meets the
 >   family**. Reviews: unanimously positive. She does not RSVP for
 >   herself, an oversight the committee has since forgiven.
@@ -650,7 +657,8 @@ next to Our Story and the T-Shirt Hall of Fame.
 > - **Back on the Fourth of July**, by popular demand and in full
 >   compliance with everyone's PTO calendars. The committee thanks the
 >   Columbus Convergence for the data.
-> - Golf carts are procured. Range: the yard.
+> - Golf carts are procured, **specifically for Uncle Mike**, to fill the
+>   Gator-shaped hole in his heart. Range: the yard.
 > - May attends **as a hostess**. Freddy makes his t-ball debut, and his
 >   first reunion **on the outside**.
 > - *(Mary to confirm before publishing:)* Mary attends **not pregnant**
@@ -1091,9 +1099,29 @@ A small side-by-side box below the cards:
   **Worth checking when fares are cheaper, especially from Atlanta.**
 - Tip: search both airports at once in Google Flights ("BOS, PVD").
 
-#### 5. Golf cart rentals
-A friendly section for renting golf carts to get around the property during
-the reunion.
+#### 5. Golf cart rentals: The Uncle Mike Fleet Program
+At Camp Whittier, Uncle Mike was famously inseparable from his beloved
+**John Deere Gator** (green and yellow, four seats, rarely parked). He
+drove it everywhere, all the time, often to places within easy walking
+distance. Since the Gator can't make the trip to Cape Cod, the committee
+is **renting golf carts specifically for him**, so he can continue his
+important work.
+
+Section intro copy (draft):
+> *"**The Uncle Mike Fleet Program.** In recognition of Uncle Mike's
+> years of distinguished service behind the wheel of the Camp Whittier
+> Gator, the committee has procured a replacement vehicle for the Cape Cod
+> campaign. Other family members may ride along **at the Director's
+> discretion**. Walking remains available to everyone else."*
+
+- A small **"In Memoriam (it's fine, it's just in California)"** photo
+  card of the Gator, rendered as a caricature: the Gator with a tiny halo
+  and the caption *"The Gator. Still in active service in Santa Barbara
+  County. Deeply missed on the East Coast."*
+- Fleet stats panel (deadpan): *"Uncle Mike's recorded walking distance
+  at Camp Whittier: unknown. Researchers believe it to be zero."*
+- The rest of this section (rental company, prices, rules) stays as is
+  below.
 
 **Recommended company: CCE Golf Carts (now C2 Vehicles)**
 - We rented from **Country Club Enterprises (CCE)** in 2021. CCE now
