@@ -362,6 +362,8 @@ which stays out of the repo)
 | **Kelly** (San Diego area, CA; Brennan's wife) | Long dark hair, sunglasses, black tee, big bright smile, water bottle in hand (2022 group photo) | The big smile and the sunglasses | San Diego portrait with Brennan. Caption: *"Kelly, Head of Hydration & Good Vibes."* |
 | **Erin** (Long Beach, NY) | Dark hair pulled back, purple tank, **plaid flannel tied around the waist**, red shorts, leaning in with a huge grin (2022 group photo). Her family isn't pictured yet | The lean-in and the grin, flannel flying | **The Long Beach Bakers** portrait once we have photos of her family. Caption idea: *"Erin, Long Beach Regional Office."* |
 | **Tubby** 🐶 (Sandwich; the host family's dog, she/her) | Fluffy cream-white doodle, a curly cloud of fur, floppy ears, dark button eyes, calm "I own this bed" expression (from the photo lounging on a bunk in **May's cabin** at the Santa Barbara camp). Also peeking from behind the tree in the t-ball photo | The fluff (she's 80% cloud), the regal lounging | **Mascot of the Explore tab** ("Tubby's Guide"): her caricature on the Explore header, wearing tiny sunglasses or a travel-guide hat, and as the "Tubby-approved" paw stamp on every house pick. Cameo in the host family portrait and peeking out from behind things in the Home illustration (a find-Tubby Easter egg). Titles: *"Tubby, Chief Morale Officer"* and *"Most Reunions Attended (Canine Division). Drove cross-country to the first one in 2022."* |
+| **Sarah** (Mary's sister) | *(photo to come)* | | Her 40th birthday party closed out the 2025 reunion. Family portrait, once we know her household and city |
+| **Ryan** (Mary's brother; upstate NY) | *(photo to come)* | Sunglasses indoors, a leather jacket, an aura of exclusivity | **Special Guest Star (2023)**. On Meet the Bakers, his card is a **"Limited Edition"** foil trading card. Caption: *"Ryan. Appearances: 1. Legend: established."* Kind joke only, celebrating the cameo, never guilting the no-shows |
 | Uncle Sean | *(photo to come)* | Whistle, clipboard, "Kids Sports" shirt | #4 |
 | Amanda | *(photo to come)* | The swing | #5 |
 | **May** (Sandwich; the host family) | Blonde curls, sparkly dress and little sandals, all-in hugs. **Draw her a bit older than in the hug photo**, as she'll look in summer 2027 | The curls and the hugs | T-ball scene (#2), Michaela's welcome hug, and **the host family** portrait. Possible caption: *"May, Junior Hostess & Director of Hugs."* |
@@ -518,6 +520,10 @@ next to Our Story and the T-Shirt Hall of Fame.
 >   fantastic homemade **[cuisine TBD]** dinner, raising the bar for every
 >   dinner sign-up since. *(The archives are precise on the date and
 >   suspiciously vague on the menu.)*
+> - **Special Guest Star:** Mary's brother **Ryan**, who lives in upstate
+>   New York, makes a **limited-engagement guest appearance**. Critics
+>   called it "a rare and exclusive performance." It has not been
+>   repeated. *(See Ryan's 2027 status below.)*
 > - The **New York State shirt** debuts, designed by Mom. The upstate
 >   delegation is thrilled. **Short sleeves are achieved.**
 
@@ -564,7 +570,7 @@ next to Our Story and the T-Shirt Hall of Fame.
 >   committee regrets to report, the ones in Sandwich. *(See the Explore
 >   tab's bagel disclaimer.)*
 > - **Grand finale:** the weekend wraps with **Sarah's 40th birthday
->   party**, the first reunion to end with a milestone celebration, and
+>   party** (Mary's sister), the first reunion to end with a milestone celebration, and
 >   the bar for reunion finales has now been raised.
 
 > **2026 · The Bend Experiment**
@@ -606,6 +612,12 @@ next to Our Story and the T-Shirt Hall of Fame.
 > *Sandwich, Cape Cod, MA*
 > - First reunion on Cape Cod, at the house in Sandwich (est. 1889,
 >   electricity est. 1963).
+> - **Ryan watch:** Mary's brother Ryan, last seen at a reunion in 2023,
+>   has received a formal invitation. His representatives have not
+>   responded. The committee remains hopeful and has reserved him a
+>   **VIP seat** (a lawn chair with a velvet rope). A small "Ryan
+>   Sighting Probability" meter on the Trip tab's arrivals board updates
+>   as July approaches. *(Currently: "Cloudy, with a chance of Ryan.")*
 > - **Back on the Fourth of July**, by popular demand and in full
 >   compliance with everyone's PTO calendars. The committee thanks the
 >   Columbus Convergence for the data.
