@@ -13,7 +13,8 @@ place for dates, travel, lodging, the schedule and RSVPs.
   Los Angeles CA, Atlanta GA, Columbus OH (flying), plus New Jersey,
   Altamont NY (upstate) and Long Beach NY (driving)
 - **History:** the reunions started in **2022**. At least two were hosted at
-  **Uncle Mike's old Boys & Girls Club camp in Santa Barbara**, CA (home of
+  **Camp Whittier**, Uncle Mike's old Boys & Girls Club camp near Lake
+  Cachuma, Santa Barbara County, CA (home of
   "May's cabin"). **2027 is the first one on the East Coast**, at our house.
   *(Confirm the full list of past reunion years and places.)*
 
@@ -366,20 +367,10 @@ which stays out of the repo)
 - **2022 reunion group photo** (reference): Aunt Marion, Uncle Mike,
   Simon, Jenny, Thatcher, Brennan, Kelly and Erin. A **"Then (2022) and
   Now (2027)"** caricature pair of this group could anchor Our Story:
-  the 2022 group at the Santa Barbara camp, then the same group five years
+  the 2022 group at Camp Whittier, then the same group five years
   later on the Cape, with more kids, more trophies and the same croquet
   grudges.
-- **Reunion history timeline** for Our Story (years to confirm):
-  - **2022:** the first reunion, at Uncle Mike's old Boys & Girls Club camp
-    in Santa Barbara. Tubby drove cross-country to attend, and May attended
-    in utero (technically her first reunion)
-  - **2023** *(confirm location)*: the New York State shirt, designed by
-    Mom
-  - **2024** *(confirm location; likely the Santa Barbara camp again)*:
-    "May's cabin" earns its name. Shirt designed by Will & Mary (see
-    T-Shirt Hall of Fame)
-  - **2027:** the first East Coast edition, at 20 Roos Road (shown on the
-    site as "the house in Sandwich")
+- **Reunion history:** see "📜 The Official Timeline" on the Home tab.
 - **Tubby** (the host family's dog; she/her): see her row in the table
   above. She's the face of the Explore tab.
 - **The Altamont Bakers** (Simon, Jenny, Oliver, Thatcher) drive in from
@@ -448,6 +439,71 @@ which stays out of the repo)
 - **Meet the Bakers** row (family cartoons, see above)
 - **Our Story** (the funny house and Sandwich history, see below)
 
+### 📜 The Official Timeline
+
+The history of the Baker Family Reunion, written like a **corporate
+"Our History" page** (the kind with milestones, founding dates and a sense
+of destiny) for an event involving lawn games and a dog. Lives on Home
+next to Our Story and the T-Shirt Hall of Fame.
+
+**Design**
+- A vertical timeline (great on phones): a line running down the page with
+  a **caricature milestone card** for each reunion, plus small "sub-event"
+  dots for notable moments.
+- Each card: year, location, a little caricature scene, a headline in
+  press-release voice, and 3–5 "notable developments."
+- Each year links to its shirt in the T-Shirt Hall of Fame and its champion
+  in The Trophy's Hall of Champions.
+- Final card: **"2027: The East Coast Edition"** with a pulsing "You are
+  here" dot and the countdown.
+
+**Draft entries**
+
+> **2022 · The Founding Summit**
+> *Camp Whittier, Santa Barbara County, CA (Uncle Mike's old Boys & Girls
+> Club camp, by Lake Cachuma)*
+>
+> The inaugural Baker Family Reunion is convened. Historians mark it as the
+> moment the Bakers became an organization.
+> - **Founding attendance** includes Mary, **very pregnant with May**, who
+>   attends in utero and is already networking.
+> - **May is born the following month** (August 2022), making her the
+>   **youngest attendee in reunion history** and, technically, the only
+>   person to have attended every reunion while not yet born, then while
+>   born.
+> - **Tubby completes a cross-country road trip** to attend and **meets the
+>   family**. Reviews: unanimously positive. She does not RSVP for
+>   herself, an oversight the committee has since forgiven.
+> - The 2022 group photo is taken. Everyone is squinting.
+> - *(Confirm: first trophy awarded? Was there a 2022 shirt?)*
+
+> **2023 · Expansion into the Empire State** *(location to confirm)*
+> - The **New York State shirt** debuts, designed by Mom. The upstate
+>   delegation is thrilled.
+> - Short sleeves are achieved.
+
+> **2024 · Return to Camp Whittier** *(confirm)*
+> - **"May's cabin"** is officially named. May, then a toddler, accepts
+>   the honor without comment.
+> - Will & Mary release the long-sleeve shirt to **mixed reviews**. Uncle
+>   Mike appears on a gator, in the logo.
+> - Short sleeves are abandoned.
+
+> **2025–2026 · The Quiet Years** *(or fill in if there were reunions)*
+> - The committee regroups. The trophy remains in custody. Tallies continue
+>   to be calculated by unknown means.
+
+> **2027 · The East Coast Edition** 📍 *You are here*
+> *Sandwich, Cape Cod, MA*
+> - First reunion on the East Coast, at the house in Sandwich (est. 1889,
+>   electricity est. 1963).
+> - Golf carts are procured. Range: the yard.
+> - May attends **as a hostess**. Freddy makes his t-ball debut.
+
+**Privacy note:** the timeline says "born the following month (August
+2022)" and never shows May's exact birth date. Full birth dates for kids
+stay off the public site and out of the repo.
+
 ### 👕 T-Shirt Hall of Fame
 
 Every reunion gets a shirt, and every shirt gets a place in the Hall. It
@@ -461,7 +517,7 @@ a **museum exhibit**: very serious placards for very casual shirts.
   - **The shirt**: a clean flat-lay photo, or a caricature illustration
     of the shirt on a hanger (better than photos of people wearing them,
     for privacy and consistency)
-  - **Year and location** (e.g. *2024 · Santa Barbara camp*)
+  - **Year and location** (e.g. *2024 · Camp Whittier*)
   - **Designed by** (e.g. *Will & Mary*)
   - **Museum placard** in deadpan curator voice, e.g.:
     > *"Untitled (Mountains), 2024. Screen print on dusty-blue cotton,
@@ -497,9 +553,9 @@ a **museum exhibit**: very serious placards for very casual shirts.
 **Shirts so far**
 | Year | Where | Design | Credit | Notes |
 |---|---|---|---|---|
-| 2022 | Santa Barbara camp | *(to come: was there a shirt?)* | | First reunion |
+| 2022 | Camp Whittier, Santa Barbara County | *(to come: was there a shirt?)* | | First reunion |
 | **2023** | *(confirm where; upstate New York?)* | White short-sleeve tee. Front: a **red New York State silhouette** (with a small white mark inside, maybe the reunion location, to confirm), **BAKER** in bold navy, **FAMILY REUNION** in navy and **JULY 2023** in red | **Mom** *(confirm)* | Fan favorite with the upstate New Yorkers. Reference photo kept out of the repo. Get a flat-lay photo or the design file |
-| **2024** | Santa Barbara camp *(confirm)* | Dusty-blue long sleeve. Back print: a round badge with a mountain range, sun and birds, with **BAKER** across a banner and **FAMILY REUNION** below. Hidden detail: **Uncle Mike on the gator** inside the logo | **Will & Mary** | Reviews: mixed. Great colors, a snug fit for women, and long sleeves in California heat. On the site, add a **"🔍 Spot Uncle Mike"** zoom on the logo. Reference photo kept out of the repo. Get a flat-lay photo or the original design file |
+| **2024** | Camp Whittier *(confirm)* | Dusty-blue long sleeve. Back print: a round badge with a mountain range, sun and birds, with **BAKER** across a banner and **FAMILY REUNION** below. Hidden detail: **Uncle Mike on the gator** inside the logo | **Will & Mary** | Reviews: mixed. Great colors, a snug fit for women, and long sleeves in California heat. On the site, add a **"🔍 Spot Uncle Mike"** zoom on the logo. Reference photo kept out of the repo. Get a flat-lay photo or the original design file |
 | **2027** | Sandwich, Cape Cod | *(to be designed)* | | First East Coast edition |
 
 **Lessons learned for 2027** (shown on the 2027 card as a deadpan
