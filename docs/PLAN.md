@@ -494,9 +494,11 @@ next to Our Story and the T-Shirt Hall of Fame.
 > - **Post-event review:** the committee has formally recommended that
 >   future reunions be hosted **within an hour of the snack bar the family
 >   actually intends to visit**.
-> - **Culinary highlight:** **Amanda and her wife** prepare a fantastic
->   homemade **[cuisine TBD]** dinner, raising the bar for every dinner
->   sign-up since.
+> - **Culinary highlight (July 2, 2023):** on this date, now observed by
+>   the family as a minor holiday, **Amanda and her wife** prepare a
+>   fantastic homemade **[cuisine TBD]** dinner, raising the bar for every
+>   dinner sign-up since. *(The archives are precise on the date and
+>   suspiciously vague on the menu.)*
 > - The **New York State shirt** debuts, designed by Mom. The upstate
 >   delegation is thrilled. **Short sleeves are achieved.**
 
