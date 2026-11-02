@@ -13,7 +13,8 @@ place for dates, travel, lodging, the schedule and RSVPs.
   **Casey** (& Aunt Karen; Georgia; daughters **Jenny**, married to Simon,
   in Altamont NY, and **Erin**, in Long Beach NY), **Carrie** (& Aunt Trish; youngest son
   Josh), **Darren** (Mary's dad; kids Mary, Sarah and Ryan), **Sean**
-  (son Jordan, who married Rachel in October 2026) and **Mike** (& Aunt
+  (Atlanta, GA; runs Kids Sports; son Jordan, who married Rachel in October
+  2026) and **Mike** (& Aunt
   Marion; kids include Michaela and Brennan). *(Spellings and branches to
   confirm.)*
 - **Coming from:** Bend OR, Portland OR, Santa Barbara CA, San Diego CA,
@@ -349,7 +350,7 @@ you look.
 | 1 | **Uncle Mike in a golf cart** | Cruising the gravel driveway toward the white picket gate | Tiny sign on the cart: "Fleet vehicle #1 of 2 · Reserved: Uncle Mike." A tiny Gator photo is taped to the dashboard, for morale. Tooltip: "Range: the yard. Walking: not observed." |
 | 2 | **Freddy and May playing t-ball** in the yard | The big lawn by the gravel driveway and white picket gate (from the t-ball photo) | The ball is still on the tee. The bat is mostly decorative |
 | 3 | **Uncle Mike making Gramps' famous macaroni and cheese** | In the kitchen window, or on a porch grill-side table | Steam shaped like a tiny trophy. Tooltip: "Recipe classified. Clearance level: Gramps." |
-| 4 | **Uncle Sean hosting game night** *and/or* **teaching kids sports** | Game night: lit window at dusk. Kids sports: side lawn with cones and a whistle | Shirt or clipboard reads **"Kids Sports"** (his business). Tooltip: "Head Coach, Department of Mandatory Fun." |
+| 4 | **Uncle Sean, the Games Master**, presiding over game night *and* **coaching the kids** | Game night: a lit window at dusk, Sean at the head of the table with a stack of game boxes taller than he is. Kids sports: the side lawn with cones, a whistle and a line of tiny athletes (May, Freddy, Thatcher) | Shirt reads **"Kids Sports"** (his business: he teaches preschoolers to play sports). Tooltips: *"Uncle Sean, Games Master. Rulings are final."* and *"Head Coach, Department of Mandatory Fun."* |
 | 5 | **Amanda playing professional softball on the t-ball field**, dominating | Same lawn as #2, in full pro gear | She's sent a ball over the trees (a tiny star twinkle in the sky). Toddlers stare in awe. Scoreboard on the fence: "AMANDA 47 · EVERYONE ELSE 0" |
 | 6 | **A cartoon of each family** | See "Meet the Bakers" below | |
 
@@ -397,7 +398,7 @@ which stays out of the repo)
 | **Tubby** 🐶 (Sandwich; the host family's dog, she/her) | Fluffy cream-white doodle, a curly cloud of fur, floppy ears, dark button eyes, calm "I own this bed" expression (from the photo lounging on a bunk in **May's cabin** at the Santa Barbara camp). Also peeking from behind the tree in the t-ball photo | The fluff (she's 80% cloud), the regal lounging | **Mascot of the Explore tab** ("Tubby's Guide"): her caricature on the Explore header, wearing tiny sunglasses or a travel-guide hat, and as the "Tubby-approved" paw stamp on every house pick. Cameo in the host family portrait and peeking out from behind things in the Home illustration (a find-Tubby Easter egg). Titles: *"Tubby, Chief Morale Officer"* and *"Most Reunions Attended (Canine Division). Drove cross-country to the first one in 2022."* |
 | **Sarah** (Mary's sister) | *(photo to come)* | | Her 40th birthday party closed out the 2025 reunion. Family portrait, once we know her household and city |
 | **Ryan** (Mary's brother; upstate NY) | *(photo to come)* | Sunglasses indoors, a leather jacket, an aura of exclusivity | **Special Guest Star (2023)**. On Meet the Bakers, his card is a **"Limited Edition"** foil trading card. Caption: *"Ryan. Appearances: 1. Legend: established."* Kind joke only, celebrating the cameo, never guilting the no-shows |
-| Uncle Sean | *(photo to come)* | Whistle, clipboard, "Kids Sports" shirt | #4 |
+| **Uncle Sean** (Atlanta, GA; father of Jordan) | *(photo to come)* | Whistle, clipboard, **"Kids Sports" shirt**, and a towering stack of board games | #4 (game night + coaching). **The Atlanta Bakers** portrait (Atlanta prop: a peach, plus a whistle). Famously the family's **game night host and Games Master** |
 | Amanda | *(photo to come)* | The swing | #5 |
 | **May** (Sandwich; the host family) | Blonde curls, sparkly dress and little sandals, all-in hugs. **Draw her a bit older than in the hug photo**, as she'll look in summer 2027 | The curls and the hugs | T-ball scene (#2), Michaela's welcome hug, and **the host family** portrait. Possible caption: *"May, Junior Hostess & Director of Hugs."* |
 | **Freddy** (Sandwich; the host family) | Blonde curls, round toddler belly, **bat slung over his shoulder like a pro**, serious batter's focus, red t-ball stand with a yellow ball (from the t-ball photo). **Draw him a bit older than in the photo**, and put him in little shorts or a tiny Red Sox shirt instead of a diaper | The pro-hitter swagger and the very serious concentration | **T-ball scene (#2)** with May on the big lawn. Optional: the Red Sox calendar card next to Uncle Mike, matching shirts. Caption idea: *"Freddy, Head of Player Development (t-ball division)."* Running joke: the ball is still on the tee, and he's the only one Amanda's softball scoreboard has spared |
@@ -953,7 +954,12 @@ The yard has **volleyball, badminton, croquet and bocce ball**.
 #### 3. Sign-ups: Game Night host & Dinner
 One sign-up board per night, each with **two slots**:
 
-**🎲 Game Night host** (one per night). Saved to the sheet's **Game Night
+**🎲 Game Night host** (one per night). Officially **sanctioned by the Games
+Master, Uncle Sean**, the family's longtime game night host. Small print
+under the sign-up board: *"All game selections subject to review by the
+Games Master. Rulings are final. Appeals may be filed with the Games
+Master."* Suggest holding **opening night (Wed Jun 30)** for Uncle Sean,
+if he's up for it. Saved to the sheet's **Game Night
 Host Signup** tab
 - Fields (match the sheet's columns): **Date**, **Game** (e.g. "Codenames +
   Spades"), **Hosted by** (name or family)
@@ -1089,7 +1095,7 @@ prescriptive. Each card has a headline tip plus one or two extras:
 | Santa Barbara, CA | BOS | "No nonstop from SBA. Connect via SFO, Denver or Seattle, or drive about 2 hours to LAX for the nonstops." |
 | San Diego, CA | BOS | "Look for a nonstop first. One-stops are plentiful." |
 | Los Angeles, CA | BOS | "Lots of nonstops. Compare LAX with Burbank or Orange County." |
-| **Atlanta, GA** | **BOS or PVD** | "**Check Providence too.** Delta flies there and fares can be lower, with an easier airport and about the same drive to Sandwich." |
+| **Atlanta, GA** (Uncle Sean) | **BOS or PVD** | "**Check Providence too.** Delta flies there and fares can be lower, with an easier airport and about the same drive to Sandwich. Please pack the games." |
 | Columbus, OH | BOS (check PVD) | "Nonstops to Boston on Delta and American." |
 | New Jersey | Drive | "About 5 hours. Leave early to beat bridge traffic." |
 | Altamont, NY (upstate) | Drive | "About 3.5 hours via the Mass Pike, longer with holiday traffic. Plan to cross the Sagamore Bridge in the morning." |
@@ -1461,7 +1467,7 @@ family will fully get. Add to this list anytime.
 | **Oliver** | Rangers fan in Bruins country; deadpan | Altamont portrait, Australia line |
 | **Thatcher** | Patriotic donuts, side-eye, thumbs-up | July 4th mascot, Australia line |
 | **Amanda & Petra** | The legendary dinner of **July 2, 2023** | 2023 timeline, optional "Anniversary of The Dinner" chip on Jul 2, 2027 |
-| **Uncle Sean** | Kids Sports business; father of the groom (Jordan) | Coaching vignette, Columbus wedding entry |
+| **Uncle Sean** | Lives in **Atlanta**. Runs **Kids Sports**, teaching preschoolers to play sports. Famously the family's **game night host and Games Master**. Father of the groom (Jordan) | Game night + coaching vignette · **Schedule tab:** game night sign-ups are "sanctioned by the Games Master" · **Trip map:** Atlanta pin with a tiny whistle · Columbus wedding entry |
 | **Rachel & Jordan** | Married October 2026 in Columbus | "Columbus Convergence" timeline entry |
 | **Colin & Elena** | Married during the 2024 reunion trip | 2024 timeline |
 | **Erin, Mark, Michael & James** | Hosted 2025 in Long Beach; Michael and James are lifeguards (rare sightings) | 2025 timeline |
