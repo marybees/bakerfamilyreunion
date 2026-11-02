@@ -373,8 +373,9 @@ which stays out of the repo)
   - **2022:** the first reunion, at Uncle Mike's old Boys & Girls Club camp
     in Santa Barbara. Tubby drove cross-country to attend, and May attended
     in utero (technically her first reunion)
-  - **Santa Barbara camp, again:** a second reunion at the camp. "May's
-    cabin" earns its name
+  - **2024** *(confirm location; likely the Santa Barbara camp again)*:
+    "May's cabin" earns its name. Shirt designed by Will & Mary (see
+    T-Shirt Hall of Fame)
   - **2027:** the first East Coast edition, at 20 Roos Road (shown on the
     site as "the house in Sandwich")
 - **Tubby** (the host family's dog; she/her): see her row in the table
@@ -444,6 +445,48 @@ which stays out of the repo)
 - Short announcements area for updates like "Red Sox tickets on sale"
 - **Meet the Bakers** row (family cartoons, see above)
 - **Our Story** (the funny house and Sandwich history, see below)
+
+### 👕 T-Shirt Hall of Fame
+
+Every reunion gets a shirt, and every shirt gets a place in the Hall. It
+sits on Home below Our Story (with a link from the footer), presented like
+a **museum exhibit**: very serious placards for very casual shirts.
+
+**Layout**
+- A horizontal, swipeable **gallery of shirts**, one card per reunion year,
+  newest first. On desktop it's a row of framed shirts on a gallery wall.
+- Each card:
+  - **The shirt**: a clean flat-lay photo, or a caricature illustration
+    of the shirt on a hanger (better than photos of people wearing them,
+    for privacy and consistency)
+  - **Year and location** (e.g. *2024 · Santa Barbara camp*)
+  - **Designed by** (e.g. *Will & Mary*)
+  - **Museum placard** in deadpan curator voice, e.g.:
+    > *"Untitled (Mountains), 2024. Screen print on dusty-blue cotton,
+    > long sleeve. Designed by Will & Mary. Note the sun, the birds and the
+    > mountain range, none of which were negotiable. Currently on loan to
+    > every family member's dresser."*
+  - Tap to enlarge, plus a "Wearers spotted" count fed by Photo
+    Challenge photos (optional)
+- **2027 card** shows a velvet rope and *"Coming soon. Design under
+  embargo."* until the new shirt is revealed. Then a **big reveal moment**
+  on Home ("The 2027 shirt has arrived").
+- Running gag tie-in: the 2027 placard notes the shirt is the first in
+  the collection to feature **no mountains**, "owing to Cape Cod's
+  regrettable lack of them" (if the 2027 design fits that joke).
+
+**Shirts so far**
+| Year | Where | Design | Credit | Notes |
+|---|---|---|---|---|
+| 2022 | Santa Barbara camp | *(to come: was there a shirt?)* | | First reunion |
+| **2024** | Santa Barbara camp *(confirm)* | Dusty-blue long sleeve. Back print: a round badge with a mountain range, sun and birds, with **BAKER** across a banner and **FAMILY REUNION** below | **Will & Mary** | Reference photo kept out of the repo. Get a flat-lay photo or the original design file for the site |
+| **2027** | Sandwich, Cape Cod | *(to be designed)* | | First East Coast edition |
+
+**2027 shirt ordering**
+- Add a **T-shirt size** question to the Trip tab's RSVP form (one size per
+  person, kids' sizes included) so the order can be placed in one go.
+- Optional: a **shirt design vote** (2–3 mockups) on the RSVP form, or keep
+  the design a surprise for the reveal.
 
 ### "Today" mode (reunion week)
 - From Jun 30 to Jul 7, the top of Home switches to **Today**: today's
@@ -710,6 +753,7 @@ later)
 - **Are you coming?** Yes! / Maybe / Sadly no
 - Name or family (e.g. "The Portland Bakers"), and how many adults and kids
 - Dietary notes (feeds the dinner sign-ups)
+- **T-shirt sizes** for everyone in the family (for the 2027 reunion shirt)
 - "Want in on a golf cart?" (gauges golf cart interest)
 - Coming from (pick from the home cities)
 - **Getting there:** ✈️ Flying / 🚗 Driving
@@ -1168,7 +1212,7 @@ app: how it works" under Tech approach.)
   | **Game Night Host Signup** | Date · Game · Hosted by |
   | **Dinner Host Signup** | Date · Cuisine · Provided by |
   | **Trophy** *(new tab to add)* | Team · Points · Note (for the cryptic explanations) |
-  | **RSVP & Travel Plans** *(new tab to add)* | Family · Coming? (Yes/Maybe/No) · Adults · Kids · Dietary Notes · Golf Cart Interest · From · Mode (Fly/Drive) · Arrival Date · Arrival Time · Arrival Airport · Arrival Flight · Departure Date · Departure Time · Departure Airport · Departure Flight · Staying At · Excited For · Needs Ride · Seats to Share |
+  | **RSVP & Travel Plans** *(new tab to add)* | Family · Coming? (Yes/Maybe/No) · Adults · Kids · Dietary Notes · T-Shirt Sizes · Golf Cart Interest · From · Mode (Fly/Drive) · Arrival Date · Arrival Time · Arrival Airport · Arrival Flight · Departure Date · Departure Time · Departure Airport · Departure Flight · Staying At · Excited For · Needs Ride · Seats to Share |
 
   - **Two-way sync:** the website both **reads from** and **writes to** the
     sheet. Signing up on the site adds a row to the sheet, and typing in the
