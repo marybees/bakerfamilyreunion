@@ -121,7 +121,7 @@ It should still be instantly recognizable, but cartoon-ified:
 | Countdown | "**143** days until mandatory fun" |
 | Buttons | "Claim your bunk" (Accommodation) · "Volunteer as tribute" (host game night) · "Feed the masses" (dinner sign-up) · "Report for duty" (RSVP) |
 | Testimonials strip | Fake-but-affectionate quotes: *"I was told there would be lobster." — A Baker, 2027* · *"Five stars. Would reunite again." — Also a Baker* |
-| "As seen in" bar | "As seen in: the family group chat · Grandma's fridge · that one Christmas card" (text only, no real logos) |
+| "As seen in" bar | "As seen in: the family group chat · the family fridge · that one Christmas card" (text only, no real logos) |
 | Trip tab | "Our logistics team (Mary) has analyzed fare data so you don't have to." |
 | Schedule | Game nights labeled as "**Executive Strategy Sessions**" in small caps, with "(it's Codenames)" underneath |
 | Calendar legend | "Amber = flying on this day is a choice, and you'll live with it" |
@@ -179,26 +179,29 @@ has names engraved on it.)*
 never anyone's score. No last place shaming. Negative points always come
 with an absurd, obviously fake reason.
 
-### Running gag: "100% Irish" ☘️ (a tribute to Grandma)
+### Running gag: "100% Irish" ☘️ (a tribute to Grandmama)
 
-Grandma, who has passed away, always said she was **100% Irish**, even
+Grandmama, who has passed away, always said she was **100% Irish**, even
 though she wasn't. The site honors her claim **with complete corporate
 confidence**, and it's subtle enough that people who know will smile.
 
 - **Footer seal:** a small, official-looking certification badge next to
   the sponsor logo, styled like an "ISO certified" or "Made in USA" seal:
   > ☘️ **Certified 100% Irish\***
-  > *\*Per Grandma. Not verified by any DNA test, and we're not asking.*
+  > *\*Per Grandmama. Not verified by any DNA test, and we're not asking.*
 - **Our Story → Ancestors corner:** a line in the family-heritage
-  section: *"Heritage: **100% Irish**, as confirmed by Grandma, our
+  section: *"Heritage: **100% Irish**, as confirmed by Grandmama, our
   family's leading (and only) authority on the subject."*
 - **Easter egg:** the shamrock in the footer seal is tappable and opens a
-  small card: *"In loving memory of Grandma, who was 100% Irish in every
+  small card: *"In loving memory of Grandmama, who was 100% Irish in every
   way that counted."* A warm, quiet tribute, not a joke at her expense.
 - **Explore tab tie-in (optional):** on the card for **Father's Kitchen &
   Taphouse** (the Irish pub nearest the house): *"Recommended for
-  descendants of 100% Irish ancestry, which, per Grandma, is all of us."*
+  descendants of 100% Irish ancestry, which, per Grandmama, is all of us."*
 - Keep it to these few spots so it stays subtle.
+- **Never pair Grandmama with Gramps** anywhere on the site (no joint
+  tributes, no "grandparents" sections that group them). Grandmama's
+  ☘️ tribute and Gramps' mac & cheese stay completely separate.
 
 ### Footer
 - Dark navy background, three columns:
@@ -1118,7 +1121,7 @@ Section intro copy (draft):
   caricature with a little heart over it and the caption *"The Gator.
   Still in active service in Santa Barbara County. Deeply missed on the
   East Coast."* (Not an "In Memoriam" joke, since the site has a real
-  tribute to Grandma.)
+  tribute to Grandmama.)
 - Fleet stats panel (deadpan): *"Uncle Mike's recorded walking distance
   at Camp Whittier: unknown. Researchers believe it to be zero."*
 - The rest of this section (rental company, prices, rules) stays as is
