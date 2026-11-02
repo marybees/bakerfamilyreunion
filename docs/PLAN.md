@@ -10,7 +10,8 @@ place for dates, travel, lodging, the schedule and RSVPs.
 - **Dates:** July 4th week 2027. Proposed core window **Wed Jun 30 – Wed Jul 7**
   (see [travel-research.md](travel-research.md))
 - **The family:** the **five Baker brothers**, oldest to youngest:
-  **Casey** (& Aunt Karen; Georgia), **Carrie** (& Aunt Trish; youngest son
+  **Casey** (& Aunt Karen; Georgia; daughters **Jenny**, married to Simon,
+  in Altamont NY, and **Erin**, in Long Beach NY), **Carrie** (& Aunt Trish; youngest son
   Josh), **Darren** (Mary's dad; kids Mary, Sarah and Ryan), **Sean**
   (son Jordan, who married Rachel in October 2026) and **Mike** (& Aunt
   Marion; kids include Michaela and Brennan). *(Spellings and branches to
@@ -1456,7 +1457,7 @@ family will fully get. Add to this list anytime.
 | **Aunt Marion** | Sun hat; co-host of the 2024 reunion | Shade vignette, 2024 timeline |
 | **Michaela** | Squint face + peace sign; big hugs; Portland | Welcome-hug vignette, father–daughter card |
 | **Brennan & Kelly** | San Diego area; Brennan tall, Kelly's big smile | Volleyball vignette, San Diego portrait |
-| **Jenny** | Proud trophy grin; co-host of 2023 | Trophy page, 2023 timeline |
+| **Jenny** | Proud trophy grin; co-host of 2023. Uncle Casey & Aunt Karen's daughter, Erin's sister. Works (or worked) in **operations at Chick-fil-A** | **Sign-up success message easter egg:** one in every few confirmations reads *"My pleasure."* (a quiet Chick-fil-A nod, no logos) · **Careers / Meet the Bakers title:** *"Jenny, Chief Operating Officer. Has opinions about line efficiency."* · 2023 timeline: *"Jenny, an operations professional, is reported to be the only attendee unbothered by the Jumpin' Jack's line."* · Keep it about her ops skills, not her employer |
 | **Oliver** | Rangers fan in Bruins country; deadpan | Altamont portrait, Australia line |
 | **Thatcher** | Patriotic donuts, side-eye, thumbs-up | July 4th mascot, Australia line |
 | **Amanda & Petra** | The legendary dinner of **July 2, 2023** | 2023 timeline, optional "Anniversary of The Dinner" chip on Jul 2, 2027 |
@@ -1535,6 +1536,8 @@ Each seat shows a small "Board meetings attended" badge (kept playful:
 > **About the role:** after 2026, the committee identified **lack of PTO**
 > as the #1 reason relatives miss reunions. Our analysts noticed you are
 > **retired**, which means you have, technically, **all of the PTO**.
+> **References:** **both of your daughters have hosted a reunion** (Jenny
+> in 2023, Erin in 2025). The family strongly recommends their parents.
 > **Perks:** a nonstop flight from Atlanta to Boston, a golf cart with a
 > driver (Uncle Mike, your youngest brother, Director of Fleet Operations),
 > and the respect owed to the Chairman.
