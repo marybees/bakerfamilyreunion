@@ -179,6 +179,27 @@ has names engraved on it.)*
 never anyone's score. No last place shaming. Negative points always come
 with an absurd, obviously fake reason.
 
+### Running gag: "100% Irish" ☘️ (a tribute to Grandma)
+
+Grandma, who has passed away, always said she was **100% Irish**, even
+though she wasn't. The site honors her claim **with complete corporate
+confidence**, and it's subtle enough that people who know will smile.
+
+- **Footer seal:** a small, official-looking certification badge next to
+  the sponsor logo, styled like an "ISO certified" or "Made in USA" seal:
+  > ☘️ **Certified 100% Irish\***
+  > *\*Per Grandma. Not verified by any DNA test, and we're not asking.*
+- **Our Story → Ancestors corner:** a line in the family-heritage
+  section: *"Heritage: **100% Irish**, as confirmed by Grandma, our
+  family's leading (and only) authority on the subject."*
+- **Easter egg:** the shamrock in the footer seal is tappable and opens a
+  small card: *"In loving memory of Grandma, who was 100% Irish in every
+  way that counted."* A warm, quiet tribute, not a joke at her expense.
+- **Explore tab tie-in (optional):** on the card for **Father's Kitchen &
+  Taphouse** (the Irish pub nearest the house): *"Recommended for
+  descendants of 100% Irish ancestry, which, per Grandma, is all of us."*
+- Keep it to these few spots so it stays subtle.
+
 ### Footer
 - Dark navy background, three columns:
   1. **Quick links** (all tabs)
@@ -194,6 +215,8 @@ with an absurd, obviously fake reason.
        in a new tab.
      - Optional deadpan line under it in tiny text: "Official relay partner
        of the Baker Family Reunion. Relay races not included."
+- **"Certified 100% Irish\*" seal** beside the sponsor (see the running gag
+  above).
 - Bottom line: "© 2027 Baker Family Reunion Holdings (not a real company).
   Made with love, sunscreen and an unreasonable amount of planning."
 
