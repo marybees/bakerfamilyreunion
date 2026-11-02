@@ -12,16 +12,18 @@ place for dates, travel, lodging, the schedule and RSVPs.
 - **Coming from:** Bend OR, Portland OR, Santa Barbara CA, San Diego CA,
   Los Angeles CA, Atlanta GA, Columbus OH (flying), plus New Jersey,
   Altamont NY (upstate) and Long Beach NY (driving)
-- **History:** a reunion **every year since 2022, always over the 4th of
-  July**:
+- **History:** a reunion **every year since 2022**, over the **4th of July**
+  every year except 2026:
   - 2022: Camp Whittier, Santa Barbara County, CA (Uncle Mike's old Boys &
     Girls Club camp near Lake Cachuma)
   - 2023: Camp Dippikill, Adirondacks, NY (hosted by Jenny & Simon)
   - 2024: Camp Whittier again (hosted by Uncle Mike, Aunt Marion & family)
   - 2025: Long Beach, NY (hosted by Erin, Mark, Michael & James)
-  - 2026: *(confirm: was there one?)*
-  - **2027: Sandwich, Cape Cod, at our house**, the first **Cape Cod
-    edition**
+  - 2026: Bend, OR (hosted by Uncle Mike, on his new Boys & Girls Club
+    turf). Not over the 4th, and turnout was small. Then in **October 2026**,
+    most of the family gathered in **Columbus, OH** for **Rachel & Jordan's
+    wedding**, the unofficial "make-up reunion"
+  - **2027: Sandwich, Cape Cod, at our house**, back on the 4th of July
 
 ## Design & tone: the whole site (not built yet)
 
@@ -108,7 +110,7 @@ It should still be instantly recognizable, but cartoon-ified:
 | Where | Idea |
 |---|---|
 | Site title | **Baker Family Reunion 2027** with a tiny "™" that, on hover, says "not actually trademarked" |
-| Home tagline | "Reconvening the Bakers since 2022. Attendance strongly encouraged." Alt: **"Baker Family Reunion: Cape Cod Edition"** · "Five years. Five Fourths of July. Zero days off." |
+| Home tagline | "Reconvening the Bakers since 2022. Attendance strongly encouraged." Alt: **"Baker Family Reunion: Cape Cod Edition"** · "Back on the Fourth, where we belong." |
 | Home stats bar | "**10** cities · **1** house · **7** game nights · **0** electricity before 1963 · **∞** croquet grudges" |
 | Countdown | "**143** days until mandatory fun" |
 | Buttons | "Claim your bunk" (Accommodation) · "Volunteer as tribute" (host game night) · "Feed the masses" (dinner sign-up) · "Report for duty" (RSVP) |
@@ -512,7 +514,7 @@ next to Our Story and the T-Shirt Hall of Fame.
 >   **100% of the hiking and 0% of the paddling**, and remains, to this
 >   day, **undefeated against the lake**.
 > - **Culinary highlight (July 2, 2023):** on this date, now observed by
->   the family as a minor holiday, **Amanda and her wife** prepare a
+>   the family as a minor holiday, **Amanda and her wife, Petra,** prepare a
 >   fantastic homemade **[cuisine TBD]** dinner, raising the bar for every
 >   dinner sign-up since. *(The archives are precise on the date and
 >   suspiciously vague on the menu.)*
@@ -565,14 +567,49 @@ next to Our Story and the T-Shirt Hall of Fame.
 >   party**, the first reunion to end with a milestone celebration, and
 >   the bar for reunion finales has now been raised.
 
-> **2026** *(confirm: was there a reunion? If not: "The Gap Year. The
-> committee regroups. The trophy remains in custody. Tallies continue to be
-> calculated by unknown means.")*
+> **2026 · The Bend Experiment**
+> *Bend, OR. Hosted by Uncle Mike, newly employed by the Boys & Girls Club
+> and eager to show off his new turf.*
+>
+> In a bold strategic pivot, the committee moves the reunion **off the
+> Fourth of July weekend** for the first time in company history.
+> - **Attendance:** an elite, hand-selected group: **Uncle Mike's
+>   family, Erin's family and Jenny's family**. Historians refer to them
+>   as **"The Loyalists."** They report a wonderful time and plenty of
+>   elbow room.
+> - **Everyone else:** unable to attend, for reasons the committee has
+>   traced to a single root cause: **a regular week in the summer is just
+>   a regular week at work.** No PTO was harmed in the making of this
+>   reunion, because no PTO was available.
+> - **Findings:** the committee's experiment was a success, in that it
+>   conclusively proved the **Fourth of July is load-bearing**. The trophy,
+>   meanwhile, was defended by a very small field.
+
+> **October 2026 · The Columbus Convergence (Unofficial Reunion)**
+> *Columbus, OH. Disguised as a wedding.*
+>
+> Three months later, the Bakers discover a loophole: **if you call it a
+> wedding, everyone comes.** **Rachel & Jordan** tie the knot, and most of
+> the family turns up for what historians now classify as the **2026
+> make-up reunion**.
+> - **In attendance:** Uncle Carrie & Aunt Trish and family; Amanda and
+>   Petra; **Uncle Sean, father of the groom** (beaming, presumably also
+>   coaching); Uncle Mike, Aunt Marion, Michaela, Brennan and Kelly; and
+>   **Mary and May, on a solo girls' trip** (Freddy and Will held down
+>   the fort).
+> - **Attendance vs. the official 2026 reunion:** dramatically higher.
+>   The committee is not upset. The committee is taking notes.
+> - **Lesson learned:** families will travel for a wedding or for the Fourth
+>   of July. Ideally both. *(Rachel & Jordan: no pressure for the
+>   anniversary.)*
 
 > **2027 · The Cape Cod Edition** 📍 *You are here*
 > *Sandwich, Cape Cod, MA*
 > - First reunion on Cape Cod, at the house in Sandwich (est. 1889,
 >   electricity est. 1963).
+> - **Back on the Fourth of July**, by popular demand and in full
+>   compliance with everyone's PTO calendars. The committee thanks the
+>   Columbus Convergence for the data.
 > - Golf carts are procured. Range: the yard.
 > - May attends **as a hostess**. Freddy makes his t-ball debut, and his
 >   first reunion **on the outside**.
