@@ -595,8 +595,7 @@ next to Our Story and the T-Shirt Hall of Fame.
 > - **In attendance:** Uncle Carrie & Aunt Trish and family; Amanda and
 >   Petra; **Uncle Sean, father of the groom** (beaming, presumably also
 >   coaching); Uncle Mike, Aunt Marion, Michaela, Brennan and Kelly; and
->   **Mary and May, on a solo girls' trip** (Freddy and Will held down
->   the fort).
+>   **Mary and May, on a solo girls' trip**.
 > - **Attendance vs. the official 2026 reunion:** dramatically higher.
 >   The committee is not upset. The committee is taking notes.
 > - **Lesson learned:** families will travel for a wedding or for the Fourth
