@@ -360,6 +360,10 @@ which stays out of the repo)
 | **May** (Sandwich; the host family) | Blonde curls, sparkly dress and little sandals, all-in hugs. **Draw her a bit older than in the hug photo**, as she'll look in summer 2027 | The curls and the hugs | T-ball scene (#2), Michaela's welcome hug, and **the host family** portrait. Possible caption: *"May, Junior Hostess & Director of Hugs."* |
 | **Freddy** (Sandwich; the host family) | Blonde curls, round toddler belly, **bat slung over his shoulder like a pro**, serious batter's focus, red t-ball stand with a yellow ball (from the t-ball photo). **Draw him a bit older than in the photo**, and put him in little shorts or a tiny Red Sox shirt instead of a diaper | The pro-hitter swagger and the very serious concentration | **T-ball scene (#2)** with May on the big lawn. Optional: the Red Sox calendar card next to Uncle Mike, matching shirts. Caption idea: *"Freddy, Head of Player Development (t-ball division)."* Running joke: the ball is still on the tee, and he's the only one Amanda's softball scoreboard has spared |
 
+- 2023 lore (see The Official Timeline): he led everyone on the hike to the
+  kayaks, then didn't kayak. Optional title for his Meet the Bakers card:
+  *"Director of Shore Operations. Undefeated against the lake."* Possible
+  2027 callback: a tiny kayak in the golf cart's back seat, unused.
 - Captions for Uncle Mike: *"Uncle Mike, Director of Fleet Operations"*
   (golf cart) and *"Uncle Mike, Executive Chef, Gramps' Recipe Division"*
   (mac & cheese). Optional Red Sox card caption: *"Official Team Spirit
@@ -494,6 +498,14 @@ next to Our Story and the T-Shirt Hall of Fame.
 > - **Post-event review:** the committee has formally recommended that
 >   future reunions be hosted **within an hour of the snack bar the family
 >   actually intends to visit**.
+> - **Kayak Expedition:** **Uncle Mike** heroically **leads the entire
+>   family on the hike out to the kayaks**, navigating the trail with the
+>   confidence of a seasoned guide. Upon arrival, he ensures everyone is
+>   safely launched, then **declines to kayak himself**, citing his
+>   duties as *Director of Shore Operations*. Witnesses describe his
+>   supervision from dry land as "extremely thorough." He is credited with
+>   **100% of the hiking and 0% of the paddling**, and remains, to this
+>   day, **undefeated against the lake**.
 > - **Culinary highlight (July 2, 2023):** on this date, now observed by
 >   the family as a minor holiday, **Amanda and her wife** prepare a
 >   fantastic homemade **[cuisine TBD]** dinner, raising the bar for every
