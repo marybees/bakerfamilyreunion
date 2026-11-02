@@ -1443,6 +1443,44 @@ app: how it works" under Tech approach.)
   the site don't see kids' photos.
 - The organizer can remove any photo from the album in Google Photos.
 
+## 📝 Family lore bank: subtle references (so everyone feels seen)
+
+A running list of personal details to sprinkle across the site. Goal:
+**every person shows up at least once**, warmly, in a way that only the
+family will fully get. Add to this list anytime.
+
+| Who | Lore | Where it can appear |
+|---|---|---|
+| **Simon** | **Australian**, and gets affectionately teased for it, and for some of the things he says. After the **2024** reunion, **Simon, Oliver and Thatcher headed to Australia** *(confirm year and who went)*. Bow tie on a casual shirt | **"🇦🇺 Simon Mode" toggle** (tiny, in the footer): flips a handful of words site-wide into Aussie: dinner → **tea**, flip-flops → **thongs**, cooler → **esky**, barbecue → **barbie**, afternoon → **arvo**, sunglasses → **sunnies**, swimsuit → **cossie**, breakfast → **brekkie**, "How are you?" → **"How ya going?"** Tooltip: *"Translated for our Australian colleague. G'day, Simon."* · 2024 timeline: *"Simon, Oliver and Thatcher depart for Australia, setting the record for **longest post-reunion commute**. They are believed to have arrived upside down."* · Trip map: a tiny dotted line from the Cape off the edge of the map, labeled *"→ Australia (Simon's other office)"* |
+| **Uncle Mike** | The Gator (always driving); led the 2023 kayak hike but didn't kayak; Red Sox shirt; host of three reunions; new Boys & Girls Club job in Bend | Uncle Mike Fleet Program, timeline, Careers org chart, Red Sox card |
+| **Aunt Marion** | Sun hat; co-host of the 2024 reunion | Shade vignette, 2024 timeline |
+| **Michaela** | Squint face + peace sign; big hugs; Portland | Welcome-hug vignette, father–daughter card |
+| **Brennan & Kelly** | San Diego area; Brennan tall, Kelly's big smile | Volleyball vignette, San Diego portrait |
+| **Jenny** | Proud trophy grin; co-host of 2023 | Trophy page, 2023 timeline |
+| **Oliver** | Rangers fan in Bruins country; deadpan | Altamont portrait, Australia line |
+| **Thatcher** | Patriotic donuts, side-eye, thumbs-up | July 4th mascot, Australia line |
+| **Amanda & Petra** | The legendary dinner of **July 2, 2023** | 2023 timeline, optional "Anniversary of The Dinner" chip on Jul 2, 2027 |
+| **Uncle Sean** | Kids Sports business; father of the groom (Jordan) | Coaching vignette, Columbus wedding entry |
+| **Rachel & Jordan** | Married October 2026 in Columbus | "Columbus Convergence" timeline entry |
+| **Colin & Elena** | Married during the 2024 reunion trip | 2024 timeline |
+| **Erin, Mark, Michael & James** | Hosted 2025 in Long Beach; Michael and James are lifeguards (rare sightings) | 2025 timeline |
+| **Sarah** | Mary's sister; 40th birthday closed out 2025 | 2025 timeline |
+| **Ryan** | Mary's brother; 2023 special guest star | Limited Edition card, Careers, Ryan Sighting Probability |
+| **Uncle Carrie & Aunt Trish** | At the Columbus wedding; youngest son Josh | Columbus entry, Careers (Josh) |
+| **Uncle Casey & Aunt Karen** | Retired in Georgia | Careers ("all of the PTO") |
+| **Darren** (Mary's dad) | SVP of Showing Up | Careers |
+| **Mom** | Designed the 2023 shirt *(confirm)* | T-Shirt Hall of Fame |
+| **Grandmama** | "100% Irish" | Footer seal + tribute card (never paired with Gramps) |
+| **Gramps** | Famous macaroni and cheese | Uncle Mike's mac & cheese vignette |
+| **Mary** | Pregnant at 2 of the first 3 reunions; gave everyone COVID in 2024 | Timeline (2022, 2024, 2027) |
+| **Will** | Co-designed the 2024 shirt (with Uncle Mike hidden on the Gator) | T-Shirt Hall of Fame |
+| **May & Freddy** | May attended 2022 in utero; Freddy attended 2024 in utero; t-ball | Timeline, t-ball vignette |
+| **Tubby** | Drove cross-country in 2022; May's cabin bunk | Explore mascot, timeline, Careers footer |
+
+**Coverage check (before launch):** go down the RSVP list and make sure
+every attendee and every household appears somewhere at least once,
+including in-laws, partners and kids. Anyone missing gets a line.
+
 ## 💼 Careers at Baker: the recruiting page (footer link + RSVP banner)
 
 **The idea:** some family members have rarely or never made it to a
