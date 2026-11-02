@@ -468,13 +468,13 @@ next to Our Story and the T-Shirt Hall of Fame.
 > - **Founding attendance** includes Mary, **very pregnant with May**, who
 >   attends in utero and is already networking.
 > - **May is born the following month** (August 2022), making her the
->   **youngest attendee in reunion history** and, technically, the only
->   person to have attended every reunion while not yet born, then while
->   born.
+>   **youngest attendee in reunion history** and the only Baker to attend
+>   her first reunion before being born.
 > - **Tubby completes a cross-country road trip** to attend and **meets the
 >   family**. Reviews: unanimously positive. She does not RSVP for
 >   herself, an oversight the committee has since forgiven.
-> - The 2022 group photo is taken. Everyone is squinting.
+> - The 2022 group photo is taken at the lake overlook. Sunglasses: worn
+>   by most.
 > - *(Confirm: first trophy awarded? Was there a 2022 shirt?)*
 
 > **2023 · Expansion into the Empire State** *(location to confirm)*
