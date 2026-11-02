@@ -1114,10 +1114,11 @@ Section intro copy (draft):
 > campaign. Other family members may ride along **at the Director's
 > discretion**. Walking remains available to everyone else."*
 
-- A small **"In Memoriam (it's fine, it's just in California)"** photo
-  card of the Gator, rendered as a caricature: the Gator with a tiny halo
-  and the caption *"The Gator. Still in active service in Santa Barbara
-  County. Deeply missed on the East Coast."*
+- A small **"Long-Distance Relationship"** card for the Gator, drawn as a
+  caricature with a little heart over it and the caption *"The Gator.
+  Still in active service in Santa Barbara County. Deeply missed on the
+  East Coast."* (Not an "In Memoriam" joke, since the site has a real
+  tribute to Grandma.)
 - Fleet stats panel (deadpan): *"Uncle Mike's recorded walking distance
   at Camp Whittier: unknown. Researchers believe it to be zero."*
 - The rest of this section (rental company, prices, rules) stays as is
