@@ -12,11 +12,16 @@ place for dates, travel, lodging, the schedule and RSVPs.
 - **Coming from:** Bend OR, Portland OR, Santa Barbara CA, San Diego CA,
   Los Angeles CA, Atlanta GA, Columbus OH (flying), plus New Jersey,
   Altamont NY (upstate) and Long Beach NY (driving)
-- **History:** the reunions started in **2022**. At least two were hosted at
-  **Camp Whittier**, Uncle Mike's old Boys & Girls Club camp near Lake
-  Cachuma, Santa Barbara County, CA (home of
-  "May's cabin"). **2027 is the first one on the East Coast**, at our house.
-  *(Confirm the full list of past reunion years and places.)*
+- **History:** a reunion **every year since 2022, always over the 4th of
+  July**:
+  - 2022: Camp Whittier, Santa Barbara County, CA (Uncle Mike's old Boys &
+    Girls Club camp near Lake Cachuma)
+  - 2023: Camp Dippikill, Adirondacks, NY (hosted by Jenny & Simon)
+  - 2024: Camp Whittier again (hosted by Uncle Mike, Aunt Marion & family)
+  - 2025: Long Beach, NY (hosted by Erin, Mark, Michael & James)
+  - 2026: *(confirm: was there one?)*
+  - **2027: Sandwich, Cape Cod, at our house**, the first **Cape Cod
+    edition**
 
 ## Design & tone: the whole site (not built yet)
 
@@ -103,7 +108,7 @@ It should still be instantly recognizable, but cartoon-ified:
 | Where | Idea |
 |---|---|
 | Site title | **Baker Family Reunion 2027** with a tiny "™" that, on hover, says "not actually trademarked" |
-| Home tagline | "Reconvening the Bakers since 2022. Attendance strongly encouraged." Alt: **"Baker Family Reunion: East Coast Edition"** |
+| Home tagline | "Reconvening the Bakers since 2022. Attendance strongly encouraged." Alt: **"Baker Family Reunion: Cape Cod Edition"** · "Five years. Five Fourths of July. Zero days off." |
 | Home stats bar | "**10** cities · **1** house · **7** game nights · **0** electricity before 1963 · **∞** croquet grudges" |
 | Countdown | "**143** days until mandatory fun" |
 | Buttons | "Claim your bunk" (Accommodation) · "Volunteer as tribute" (host game night) · "Feed the masses" (dinner sign-up) · "Report for duty" (RSVP) |
@@ -458,7 +463,7 @@ next to Our Story and the T-Shirt Hall of Fame.
   press-release voice, and 3–5 "notable developments."
 - Each year links to its shirt in the T-Shirt Hall of Fame and its champion
   in The Trophy's Hall of Champions.
-- Final card: **"2027: The East Coast Edition"** with a pulsing "You are
+- Final card: **"2027: The Cape Cod Edition"** with a pulsing "You are
   here" dot and the countdown.
 
 **Draft entries**
@@ -539,13 +544,34 @@ next to Our Story and the T-Shirt Hall of Fame.
 > - Will & Mary release the long-sleeve shirt to **mixed reviews**. Uncle
 >   Mike appears on a gator, in the logo. **Short sleeves are abandoned.**
 
-> **2025–2026 · The Quiet Years** *(or fill in if there were reunions)*
-> - The committee regroups. The trophy remains in custody. Tallies continue
->   to be calculated by unknown means.
+> **2025 · The Bagel Accords**
+> *Long Beach, NY. Hosted by Erin, Mark, Michael & James. Fourth of July
+> weekend, as tradition (and federal law, probably) demands.*
+>
+> The reunion returns to the East Coast and, for the first time,
+> to an actual beach town.
+> - **Beach operations:** attendees walk everywhere and go to the beach,
+>   activities the committee notes are much easier when the venue is **not
+>   an hour from the nearest Jumpin' Jack's**.
+> - **Rare sighting:** **Michael and James**, both **lifeguards** who are
+>   usually on duty during reunions, are spotted *at* the reunion. Family
+>   members were overjoyed. It was, statistically, the **safest beach day
+>   in reunion history**.
+> - **Bagel consumption:** extensive. The family is exposed to **real New
+>   York bagels**, permanently ruining all other bagels, including, the
+>   committee regrets to report, the ones in Sandwich. *(See the Explore
+>   tab's bagel disclaimer.)*
+> - **Grand finale:** the weekend wraps with **Sarah's 40th birthday
+>   party**, the first reunion to end with a milestone celebration, and
+>   the bar for reunion finales has now been raised.
 
-> **2027 · The East Coast Edition** 📍 *You are here*
+> **2026** *(confirm: was there a reunion? If not: "The Gap Year. The
+> committee regroups. The trophy remains in custody. Tallies continue to be
+> calculated by unknown means.")*
+
+> **2027 · The Cape Cod Edition** 📍 *You are here*
 > *Sandwich, Cape Cod, MA*
-> - First reunion on the East Coast, at the house in Sandwich (est. 1889,
+> - First reunion on Cape Cod, at the house in Sandwich (est. 1889,
 >   electricity est. 1963).
 > - Golf carts are procured. Range: the yard.
 > - May attends **as a hostess**. Freddy makes his t-ball debut, and his
@@ -611,7 +637,8 @@ a **museum exhibit**: very serious placards for very casual shirts.
 | 2022 | Camp Whittier, Santa Barbara County | *(to come: was there a shirt?)* | | First reunion |
 | **2023** | Camp Dippikill, Adirondacks, NY (hosted by Jenny & Simon) | White short-sleeve tee. Front: a **red New York State silhouette** (with a small white mark inside, maybe the reunion location, to confirm), **BAKER** in bold navy, **FAMILY REUNION** in navy and **JULY 2023** in red | **Mom** *(confirm)* | Fan favorite with the upstate New Yorkers. Reference photo kept out of the repo. Get a flat-lay photo or the design file |
 | **2024** | Camp Whittier (hosted by Uncle Mike, Aunt Marion & family) | Dusty-blue long sleeve. Back print: a round badge with a mountain range, sun and birds, with **BAKER** across a banner and **FAMILY REUNION** below. Hidden detail: **Uncle Mike on the gator** inside the logo | **Will & Mary** | Reviews: mixed. Great colors, a snug fit for women, and long sleeves in California heat. On the site, add a **"🔍 Spot Uncle Mike"** zoom on the logo. Reference photo kept out of the repo. Get a flat-lay photo or the original design file |
-| **2027** | Sandwich, Cape Cod | *(to be designed)* | | First East Coast edition |
+| 2025 | Long Beach, NY (hosted by Erin, Mark, Michael & James) | *(to come: was there a shirt?)* | | Bagels |
+| **2027** | Sandwich, Cape Cod | *(to be designed)* | | First Cape Cod edition |
 
 **Lessons learned for 2027** (shown on the 2027 card as a deadpan
 "Curator's note": *"The committee has reviewed the feedback."*)
