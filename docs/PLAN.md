@@ -373,6 +373,8 @@ which stays out of the repo)
   - **2022:** the first reunion, at Uncle Mike's old Boys & Girls Club camp
     in Santa Barbara. Tubby drove cross-country to attend, and May attended
     in utero (technically her first reunion)
+  - **2023** *(confirm location)*: the New York State shirt, designed by
+    Mom
   - **2024** *(confirm location; likely the Santa Barbara camp again)*:
     "May's cabin" earns its name. Shirt designed by Will & Mary (see
     T-Shirt Hall of Fame)
@@ -474,6 +476,15 @@ a **museum exhibit**: very serious placards for very casual shirts.
     >
     > *Currently on loan to every family member's dresser, where it remains
     > folded until October."*
+  - Second example (2023):
+    > *"Empire State of Mind, 2023. Screen print on white cotton, short
+    > sleeve. Designed by Mom.*
+    >
+    > *A **fan favorite among the upstate New York delegation**, who wore it
+    > with regional pride. Reviews from the West Coast contingent remain
+    > pending. Historians note the 2023 committee achieved **short
+    > sleeves**, an innovation the 2024 committee boldly chose to
+    > abandon."*
   - Tap to enlarge, plus a "Wearers spotted" count fed by Photo
     Challenge photos (optional)
 - **2027 card** shows a velvet rope and *"Coming soon. Design under
@@ -487,6 +498,7 @@ a **museum exhibit**: very serious placards for very casual shirts.
 | Year | Where | Design | Credit | Notes |
 |---|---|---|---|---|
 | 2022 | Santa Barbara camp | *(to come: was there a shirt?)* | | First reunion |
+| **2023** | *(confirm where; upstate New York?)* | White short-sleeve tee. Front: a **red New York State silhouette** (with a small white mark inside, maybe the reunion location, to confirm), **BAKER** in bold navy, **FAMILY REUNION** in navy and **JULY 2023** in red | **Mom** *(confirm)* | Fan favorite with the upstate New Yorkers. Reference photo kept out of the repo. Get a flat-lay photo or the design file |
 | **2024** | Santa Barbara camp *(confirm)* | Dusty-blue long sleeve. Back print: a round badge with a mountain range, sun and birds, with **BAKER** across a banner and **FAMILY REUNION** below. Hidden detail: **Uncle Mike on the gator** inside the logo | **Will & Mary** | Reviews: mixed. Great colors, a snug fit for women, and long sleeves in California heat. On the site, add a **"🔍 Spot Uncle Mike"** zoom on the logo. Reference photo kept out of the repo. Get a flat-lay photo or the original design file |
 | **2027** | Sandwich, Cape Cod | *(to be designed)* | | First East Coast edition |
 
