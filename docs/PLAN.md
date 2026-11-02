@@ -1283,13 +1283,14 @@ app: how it works" under Tech approach.)
 8. Rough out the daily itinerary and confirm which games and nights to include
 9. Talk to Will Washburn's agent about setting up `reunion.twentyroosroad.com` (DNS CNAME to GitHub Pages, like the wedding website)
 10. Build the site skeleton with the 5 tabs (Home, Schedule and Trip first, since that's what people need earliest)
-11. Add any Baker ancestor or Mayflower facts for Our Story's "Ancestors corner", plus old photos of the house if you have them
-12. Send family photos (and home cities) for the illustrations, confirm who's in the t-ball photo, and get everyone's OK to be illustrated
-13. Send a high-resolution version of the house watercolor (the reference for the caricature house)
-14. Pick and save the house photos for the Where to stay carousel (Trip tab)
-15. Get a 2027 golf cart quote from C2 Vehicles (formerly CCE) and book by early spring
-16. Set up the photos app: Google Cloud project + Photos Library API, create the "Baker Family Reunion 2027" album, then share it by link in Google Photos
-17. Send a save-the-date with the site link
+11. Gather past reunion shirts for the T-Shirt Hall of Fame (flat-lay photos or design files, years, designers) and decide on the 2027 shirt
+12. Add any Baker ancestor or Mayflower facts for Our Story's "Ancestors corner", plus old photos of the house if you have them
+13. Send family photos (and home cities) for the illustrations, confirm who's in the t-ball photo, and get everyone's OK to be illustrated
+14. Send a high-resolution version of the house watercolor (the reference for the caricature house)
+15. Pick and save the house photos for the Where to stay carousel (Trip tab)
+16. Get a 2027 golf cart quote from C2 Vehicles (formerly CCE) and book by early spring
+17. Set up the photos app: Google Cloud project + Photos Library API, create the "Baker Family Reunion 2027" album, then share it by link in Google Photos
+18. Send a save-the-date with the site link
 
 ## Sources (Explore)
 - [Wanderlog — Sandwich family restaurants](https://wanderlog.com/list/geoCategory/555800/)
