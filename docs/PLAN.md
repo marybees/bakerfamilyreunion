@@ -463,9 +463,17 @@ a **museum exhibit**: very serious placards for very casual shirts.
   - **Designed by** (e.g. *Will & Mary*)
   - **Museum placard** in deadpan curator voice, e.g.:
     > *"Untitled (Mountains), 2024. Screen print on dusty-blue cotton,
-    > long sleeve. Designed by Will & Mary. Note the sun, the birds and the
-    > mountain range, none of which were negotiable. Currently on loan to
-    > every family member's dresser."*
+    > long sleeve. Designed by Will & Mary.*
+    >
+    > *The work was met with **mixed reviews**. Critics praised the color
+    > palette but noted the fit was **less than forgiving on women**, and
+    > questioned the decision to issue **long sleeves for a California
+    > summer**. Scholars agree, however, that the piece's true genius lies in
+    > its details: look closely within the logo and you'll find **Uncle Mike
+    > on the gator**, a subtle touch the artists considered essential.*
+    >
+    > *Currently on loan to every family member's dresser, where it remains
+    > folded until October."*
   - Tap to enlarge, plus a "Wearers spotted" count fed by Photo
     Challenge photos (optional)
 - **2027 card** shows a velvet rope and *"Coming soon. Design under
@@ -479,8 +487,15 @@ a **museum exhibit**: very serious placards for very casual shirts.
 | Year | Where | Design | Credit | Notes |
 |---|---|---|---|---|
 | 2022 | Santa Barbara camp | *(to come: was there a shirt?)* | | First reunion |
-| **2024** | Santa Barbara camp *(confirm)* | Dusty-blue long sleeve. Back print: a round badge with a mountain range, sun and birds, with **BAKER** across a banner and **FAMILY REUNION** below | **Will & Mary** | Reference photo kept out of the repo. Get a flat-lay photo or the original design file for the site |
+| **2024** | Santa Barbara camp *(confirm)* | Dusty-blue long sleeve. Back print: a round badge with a mountain range, sun and birds, with **BAKER** across a banner and **FAMILY REUNION** below. Hidden detail: **Uncle Mike on the gator** inside the logo | **Will & Mary** | Reviews: mixed. Great colors, a snug fit for women, and long sleeves in California heat. On the site, add a **"🔍 Spot Uncle Mike"** zoom on the logo. Reference photo kept out of the repo. Get a flat-lay photo or the original design file |
 | **2027** | Sandwich, Cape Cod | *(to be designed)* | | First East Coast edition |
+
+**Lessons learned for 2027** (shown on the 2027 card as a deadpan
+"Curator's note": *"The committee has reviewed the feedback."*)
+- **Short sleeves** (or a tank option) for a Cape Cod July
+- **Women's/relaxed fits** alongside unisex, plus kids' sizes
+- Keep a **hidden-detail tradition**: a tiny family Easter egg inside the
+  logo every year (e.g. Uncle Mike in the golf cart, Tubby, or the trophy)
 
 **2027 shirt ordering**
 - Add a **T-shirt size** question to the Trip tab's RSVP form (one size per
