@@ -477,10 +477,28 @@ next to Our Story and the T-Shirt Hall of Fame.
 >   by most.
 > - *(Confirm: first trophy awarded? Was there a 2022 shirt?)*
 
-> **2023 · Expansion into the Empire State** *(location to confirm)*
+> **2023 · The Adirondack Expedition (Briefly)**
+> *Camp Dippikill Wilderness Retreat, Adirondacks, NY (owned by UAlbany).
+> Hosted by Jenny & Simon of Altamont.*
+>
+> The committee selects a remote **Adirondack wilderness retreat**,
+> chosen for its natural beauty, its seclusion, and its distance from
+> civilization. The family then spends **nearly an entire day driving back
+> to Scotia for Jumpin' Jack's Drive-In**, at the urgent request of the
+> Scotia-born-and-raised delegation.
+> - **Time spent in the Adirondacks:** limited. The wilderness was
+>   observed, mostly through car windows, at highway speed.
+> - **Time spent in line at Jumpin' Jack's:** considerable. Worth it,
+>   according to everyone from Scotia. *(Everyone else's reviews: also
+>   positive, but tired.)*
+> - **Post-event review:** the committee has formally recommended that
+>   future reunions be hosted **within an hour of the snack bar the family
+>   actually intends to visit**.
+> - **Culinary highlight:** **Amanda and her wife** prepare a fantastic
+>   homemade **[cuisine TBD]** dinner, raising the bar for every dinner
+>   sign-up since.
 > - The **New York State shirt** debuts, designed by Mom. The upstate
->   delegation is thrilled.
-> - Short sleeves are achieved.
+>   delegation is thrilled. **Short sleeves are achieved.**
 
 > **2024 · Return to Camp Whittier** *(confirm)*
 > - **"May's cabin"** is officially named. May, then a toddler, accepts
@@ -554,7 +572,7 @@ a **museum exhibit**: very serious placards for very casual shirts.
 | Year | Where | Design | Credit | Notes |
 |---|---|---|---|---|
 | 2022 | Camp Whittier, Santa Barbara County | *(to come: was there a shirt?)* | | First reunion |
-| **2023** | *(confirm where; upstate New York?)* | White short-sleeve tee. Front: a **red New York State silhouette** (with a small white mark inside, maybe the reunion location, to confirm), **BAKER** in bold navy, **FAMILY REUNION** in navy and **JULY 2023** in red | **Mom** *(confirm)* | Fan favorite with the upstate New Yorkers. Reference photo kept out of the repo. Get a flat-lay photo or the design file |
+| **2023** | Camp Dippikill, Adirondacks, NY (hosted by Jenny & Simon) | White short-sleeve tee. Front: a **red New York State silhouette** (with a small white mark inside, maybe the reunion location, to confirm), **BAKER** in bold navy, **FAMILY REUNION** in navy and **JULY 2023** in red | **Mom** *(confirm)* | Fan favorite with the upstate New Yorkers. Reference photo kept out of the repo. Get a flat-lay photo or the design file |
 | **2024** | Camp Whittier *(confirm)* | Dusty-blue long sleeve. Back print: a round badge with a mountain range, sun and birds, with **BAKER** across a banner and **FAMILY REUNION** below. Hidden detail: **Uncle Mike on the gator** inside the logo | **Will & Mary** | Reviews: mixed. Great colors, a snug fit for women, and long sleeves in California heat. On the site, add a **"🔍 Spot Uncle Mike"** zoom on the logo. Reference photo kept out of the repo. Get a flat-lay photo or the original design file |
 | **2027** | Sandwich, Cape Cod | *(to be designed)* | | First East Coast edition |
 
