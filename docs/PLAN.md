@@ -550,8 +550,8 @@ next to Our Story and the T-Shirt Hall of Fame.
 > - Golf carts are procured. Range: the yard.
 > - May attends **as a hostess**. Freddy makes his t-ball debut, and his
 >   first reunion **on the outside**.
-> - Mary attends **not pregnant** for the first time, a development the
->   committee is still processing. Health protocols: the committee
+> - *(Mary to confirm before publishing:)* Mary attends **not pregnant**
+>   for the first time, a development the committee is still processing. Health protocols: the committee
 >   respectfully requests that Mary **not distribute anything** this year
 >   except dinner and golf cart keys.
 
