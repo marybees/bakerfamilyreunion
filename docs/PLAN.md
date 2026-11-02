@@ -9,6 +9,12 @@ place for dates, travel, lodging, the schedule and RSVPs.
 - **Location:** Sandwich, MA (Cape Cod), with a day trip to Boston
 - **Dates:** July 4th week 2027. Proposed core window **Wed Jun 30 – Wed Jul 7**
   (see [travel-research.md](travel-research.md))
+- **The family:** the **five Baker brothers**, oldest to youngest:
+  **Casey** (& Aunt Karen; Georgia), **Carrie** (& Aunt Trish; youngest son
+  Josh), **Darren** (Mary's dad; kids Mary, Sarah and Ryan), **Sean**
+  (son Jordan, who married Rachel in October 2026) and **Mike** (& Aunt
+  Marion; kids include Michaela and Brennan). *(Spellings and branches to
+  confirm.)*
 - **Coming from:** Bend OR, Portland OR, Santa Barbara CA, San Diego CA,
   Los Angeles CA, Atlanta GA, Columbus OH (flying), plus New Jersey,
   Altamont NY (upstate) and Long Beach NY (driving)
@@ -277,7 +283,7 @@ with **no "More" menu**. Each tab answers one question.
 - **FAQ** is no longer a tab. Each answer lives on the page it's about
   (airports on Trip, Google accounts on Photos, etc.), plus a short
   general FAQ linked from the footer (what to pack, who to contact).
-- **Footer links:** Our Story · FAQ · Contact the Reunion Committee ·
+- **Footer links:** Our Story · Careers · FAQ · Contact the Reunion Committee ·
   Sponsor.
 - Tab names are easy to change later (e.g. "Trip" could be "Getting Here").
 
@@ -1381,6 +1387,106 @@ app: how it works" under Tech approach.)
 - The gallery sits behind the same family passcode, so casual visitors to
   the site don't see kids' photos.
 - The organizer can remove any photo from the album in Google Photos.
+
+## 💼 Careers at Baker: the recruiting page (footer link + RSVP banner)
+
+**The idea:** some family members have rarely or never made it to a
+reunion. Instead of a "wall of shame," the site runs a **corporate
+recruiting page**: Baker Family Reunion, Inc. is **actively hiring**, and
+these relatives are its most **highly sought-after candidates**. The joke
+is that we're aggressively headhunting people we love. Every line says
+"we want you here," never "you let us down."
+
+**The bar:** it has to be genuinely funny and warm, or it gets cut.
+See the guardrails below.
+
+**Where it lives**
+- Footer link: **Careers**
+- A small banner on the Trip tab's RSVP form: *"💼 We're hiring! See open
+  positions."*
+- Each "position" has an **Apply Now** button that goes straight to the
+  RSVP form, prefilled with their name.
+
+**Org chart: The Board of Directors** (the five Baker brothers, oldest to
+youngest), drawn as a very serious corporate org chart with caricature
+headshots:
+1. **Casey**: Chairman of the Board (eldest)
+2. **Carrie** *(confirm spelling)*: Director
+3. **Darren** (Mary's dad): Director
+4. **Sean**: Director, and father of the groom (2026)
+5. **Mike**: Director, youngest, and **host of three reunions** (2022,
+   2024, 2026)
+
+Each seat shows a small "Board meetings attended" badge (kept playful:
+"0 (so far!)" rather than anything that reads like a scolding).
+
+**Open positions** (draft copy)
+
+> **💼 Senior Vice President of Showing Up**
+> *Candidate of interest: Darren Baker (Mary's dad)*
+> **Status:** open since 2022.
+> **Requirements:** must be one of the five Baker brothers (✅). Must
+> attend one (1) reunion (⏳ pending).
+> **About the role:** this year the reunion is being hosted **by your own
+> daughter, at her house**, with **two of your grandchildren on-site**.
+> One of them has attended more reunions than you, including one **before
+> she was born**.
+> **Perks:** a dedicated lawn chair, first pick of the mac and cheese, and
+> t-ball coaching duties (Freddy's swing needs a grandfather's eye).
+> **Commute:** the committee has done the math. It's very doable.
+
+> **💼 Chairman Emeritus & First Lady of the Board, Retirement Division**
+> *Candidates of interest: Uncle Casey & Aunt Karen (Georgia)*
+> **Status:** the Chairman's seat at the reunion has never been occupied.
+> **Requirements:** be the eldest Baker brother (✅) and his wife (✅).
+> **About the role:** after 2026, the committee identified **lack of PTO**
+> as the #1 reason relatives miss reunions. Our analysts noticed you are
+> **retired**, which means you have, technically, **all of the PTO**.
+> **Perks:** a nonstop flight from Atlanta to Boston, a golf cart with a
+> driver (Uncle Mike, your youngest brother, Director of Fleet Operations),
+> and the respect owed to the Chairman.
+
+> **💼 Associate, Reunion Operations (Entry Level)**
+> *Candidate of interest: Josh Baker (Uncle Carrie & Aunt Trish's
+> youngest)*
+> **Experience required:** none. Literally none. We checked, and you
+> qualify perfectly.
+> **About the role:** your parents and siblings have field-tested the
+> product. Reviews are strong.
+> **Perks:** lawn games, an unexplained trophy, and immediate eligibility
+> for **Rookie of the Year**.
+
+> **💼 Returning Guest Star (Contract Renewal)**
+> *Candidate of interest: Ryan Baker (Mary's brother, upstate NY)*
+> **Track record:** one (1) critically acclaimed appearance (2023, one day,
+> upstate NY). Legend status: confirmed.
+> **The offer:** a renewed contract, VIP lawn chair, and top billing on the
+> arrivals board. **Sequel rights available.**
+
+**Footer of the page**
+- *"Baker Family Reunion, Inc. is an equal-opportunity family. All Bakers,
+  in-laws, partners, kids and dogs are encouraged to apply. Tubby was
+  hired in 2022 and has never missed a performance review."*
+- Live counter: **"Positions filled this year: 0 of 4"**, which updates to
+  🎉 confetti and a **"Welcome aboard!"** banner when someone RSVPs yes. A
+  filled position moves to a **"Recent Hires"** section with a
+  congratulations note. That's the payoff, so a "yes" feels like a
+  celebration, not a surrender.
+
+**Guardrails (so nobody feels bad)**
+- **Only include people who'd laugh at it.** Mary decides per person, and
+  ideally someone close to each candidate (a spouse, sibling or kid) gives
+  it a read first.
+- **Never guess at reasons.** Health, money, work, family situations,
+  distance: none of it gets mentioned or implied. The jokes are only
+  about how much we want them there.
+- **No counts of misses, no "last seen," no sad faces.** Attendance
+  numbers appear only as "0 (so far!)".
+- **Easy removal:** any candidate can ask to have their posting taken down,
+  no questions asked, and it disappears that day.
+- **Launch quietly:** keep the page unlisted (footer link only, not on
+  Home) and, if in doubt, send it privately to each candidate first as a
+  personal "job offer."
 
 ## FAQ (footer link, not a tab)
 - Most questions are answered on the page they're about (airports and
