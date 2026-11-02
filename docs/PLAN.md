@@ -514,12 +514,30 @@ next to Our Story and the T-Shirt Hall of Fame.
 > - The **New York State shirt** debuts, designed by Mom. The upstate
 >   delegation is thrilled. **Short sleeves are achieved.**
 
-> **2024 · Return to Camp Whittier** *(confirm)*
-> - **"May's cabin"** is officially named. May, then a toddler, accepts
->   the honor without comment.
+> **2024 · The Return to Camp Whittier (and a Wedding, and a Virus)**
+> *Camp Whittier, Santa Barbara County, CA. Hosted by Uncle Mike, Aunt
+> Marion and family.*
+>
+> The family returns to the site of the Founding Summit for what
+> historians call the most eventful reunion on record.
+> - **Mary attends pregnant, again**, this time with **Freddy**,
+>   continuing a proud tradition. Reunion attendance by the unborn now
+>   stands at **2 for 3**. The committee has quietly stopped asking whether
+>   Mary will be "able to make it."
+> - **Colin and Elena get married**, the undisputed **highlight of the
+>   trip**. The Bakers gain a member and a dance floor.
+> - **Accommodations:** most attendees stay **right next to Disneyland**,
+>   steps from the Happiest Place on Earth. *(Whether anyone actually went
+>   in has not been entered into the record.)*
+> - **Mary gives everyone COVID.** In recognition, she is awarded the
+>   honorary title of **Chief Distribution Officer**, the only gift
+>   from the 2024 reunion that every single attendee received. Mary
+>   maintains it was "a team effort." The investigation remains closed at
+>   her request.
+> - **"May's cabin"** earns its name. May, then a toddler, accepts the honor
+>   without comment.
 > - Will & Mary release the long-sleeve shirt to **mixed reviews**. Uncle
->   Mike appears on a gator, in the logo.
-> - Short sleeves are abandoned.
+>   Mike appears on a gator, in the logo. **Short sleeves are abandoned.**
 
 > **2025–2026 · The Quiet Years** *(or fill in if there were reunions)*
 > - The committee regroups. The trophy remains in custody. Tallies continue
@@ -530,7 +548,12 @@ next to Our Story and the T-Shirt Hall of Fame.
 > - First reunion on the East Coast, at the house in Sandwich (est. 1889,
 >   electricity est. 1963).
 > - Golf carts are procured. Range: the yard.
-> - May attends **as a hostess**. Freddy makes his t-ball debut.
+> - May attends **as a hostess**. Freddy makes his t-ball debut, and his
+>   first reunion **on the outside**.
+> - Mary attends **not pregnant** for the first time, a development the
+>   committee is still processing. Health protocols: the committee
+>   respectfully requests that Mary **not distribute anything** this year
+>   except dinner and golf cart keys.
 
 **Privacy note:** the timeline says "born the following month (August
 2022)" and never shows May's exact birth date. Full birth dates for kids
@@ -587,7 +610,7 @@ a **museum exhibit**: very serious placards for very casual shirts.
 |---|---|---|---|---|
 | 2022 | Camp Whittier, Santa Barbara County | *(to come: was there a shirt?)* | | First reunion |
 | **2023** | Camp Dippikill, Adirondacks, NY (hosted by Jenny & Simon) | White short-sleeve tee. Front: a **red New York State silhouette** (with a small white mark inside, maybe the reunion location, to confirm), **BAKER** in bold navy, **FAMILY REUNION** in navy and **JULY 2023** in red | **Mom** *(confirm)* | Fan favorite with the upstate New Yorkers. Reference photo kept out of the repo. Get a flat-lay photo or the design file |
-| **2024** | Camp Whittier *(confirm)* | Dusty-blue long sleeve. Back print: a round badge with a mountain range, sun and birds, with **BAKER** across a banner and **FAMILY REUNION** below. Hidden detail: **Uncle Mike on the gator** inside the logo | **Will & Mary** | Reviews: mixed. Great colors, a snug fit for women, and long sleeves in California heat. On the site, add a **"🔍 Spot Uncle Mike"** zoom on the logo. Reference photo kept out of the repo. Get a flat-lay photo or the original design file |
+| **2024** | Camp Whittier (hosted by Uncle Mike, Aunt Marion & family) | Dusty-blue long sleeve. Back print: a round badge with a mountain range, sun and birds, with **BAKER** across a banner and **FAMILY REUNION** below. Hidden detail: **Uncle Mike on the gator** inside the logo | **Will & Mary** | Reviews: mixed. Great colors, a snug fit for women, and long sleeves in California heat. On the site, add a **"🔍 Spot Uncle Mike"** zoom on the logo. Reference photo kept out of the repo. Get a flat-lay photo or the original design file |
 | **2027** | Sandwich, Cape Cod | *(to be designed)* | | First East Coast edition |
 
 **Lessons learned for 2027** (shown on the 2027 card as a deadpan
